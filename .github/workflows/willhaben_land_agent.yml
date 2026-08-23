@@ -1,0 +1,41 @@
+name: willhaben Grundstück checker
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  check-land:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r standalone_willhaben_agent/requirements.txt
+
+      - name: Prepare config
+        run: |
+          if [ ! -f standalone_willhaben_agent/config.json ]; then
+            cp standalone_willhaben_agent/config.example.json standalone_willhaben_agent/config.json
+          fi
+
+      - name: Run checker
+        run: |
+          python standalone_willhaben_agent/willhaben_land_agent.py --config standalone_willhaben_agent/config.json
+
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: suitable-proposals-report
+          path: |
+            standalone_willhaben_agent/data/suitable_proposals.md
+            standalone_willhaben_agent/data/proposals.db
+          if-no-files-found: warn
