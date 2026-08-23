@@ -10,7 +10,7 @@ It does not depend on any existing repository code.
 ## 1) Setup
 
 ```bash
-cd /home/runner/work/willhaben_land/willhaben_land/standalone_willhaben_agent
+cd standalone_willhaben_agent
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -18,20 +18,23 @@ cp config.example.json config.json
 ```
 
 Edit `config.json` and set one or more willhaben search URLs in `search_urls`.
+(`config.json` is ignored by git to avoid committing personal configuration.)
 
 ## 2) Run once
 
 ```bash
-python /home/runner/work/willhaben_land/willhaben_land/standalone_willhaben_agent/willhaben_land_agent.py --config /home/runner/work/willhaben_land/willhaben_land/standalone_willhaben_agent/config.json
+python willhaben_land_agent.py --config config.json
 ```
 
 ## 3) Daily automation
 
 A GitHub Actions workflow is included at:
 
-- `/home/runner/work/willhaben_land/willhaben_land/.github/workflows/willhaben_land_agent.yml`
+- `.github/workflows/willhaben_land_agent.yml`
 
 It runs daily at 06:00 UTC and can also be started manually.
+If `config.json` is not in the repository, set repository secret
+`WILLHABEN_AGENT_CONFIG_JSON` with the full JSON config.
 
 ## Output
 

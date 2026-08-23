@@ -5,6 +5,9 @@ on:
     - cron: '0 6 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   check-land:
     runs-on: ubuntu-latest
@@ -21,15 +24,27 @@ jobs:
         run: |
           pip install -r standalone_willhaben_agent/requirements.txt
 
-      - name: Prepare config
+      - name: Validate config
+        env:
+          WILLHABEN_AGENT_CONFIG_JSON: ${{ secrets.WILLHABEN_AGENT_CONFIG_JSON }}
         run: |
           if [ ! -f standalone_willhaben_agent/config.json ]; then
-            cp standalone_willhaben_agent/config.example.json standalone_willhaben_agent/config.json
+            if [ -n "$WILLHABEN_AGENT_CONFIG_JSON" ]; then
+              printf '%s' "$WILLHABEN_AGENT_CONFIG_JSON" > standalone_willhaben_agent/config.json
+            else
+              echo "Missing standalone_willhaben_agent/config.json"
+              echo "Provide it in repo or as secret WILLHABEN_AGENT_CONFIG_JSON."
+              exit 1
+            fi
           fi
 
       - name: Run checker
         run: |
           python standalone_willhaben_agent/willhaben_land_agent.py --config standalone_willhaben_agent/config.json
+
+      - name: Remove config file
+        if: always()
+        run: rm -f standalone_willhaben_agent/config.json
 
       - name: Upload report artifact
         uses: actions/upload-artifact@v4

@@ -37,6 +37,10 @@ PRICE_PATTERNS = [
 AREA_PATTERNS = [
     re.compile(r"(\d[\d\.,\s]*)\s*m[²2]", re.IGNORECASE),
 ]
+LAND_KEYWORD_PATTERN = re.compile(
+    r"\b(grundstück|grundstueck|baugrund|baugrundstück|baugrundstueck)\b",
+    re.IGNORECASE,
+)
 
 
 @dataclass
@@ -63,7 +67,16 @@ def parse_number(raw: str) -> float | None:
         else:
             cleaned = cleaned.replace(",", "")
     elif "," in cleaned:
-        cleaned = cleaned.replace(".", "").replace(",", ".")
+        comma_parts = cleaned.split(",")
+        if len(comma_parts) > 1 and all(part.isdigit() for part in comma_parts):
+            if len(comma_parts[-1]) == 3 and all(
+                len(part) == 3 for part in comma_parts[1:]
+            ):
+                cleaned = "".join(comma_parts)
+            else:
+                cleaned = cleaned.replace(",", ".")
+        else:
+            cleaned = cleaned.replace(",", ".")
 
     try:
         return float(cleaned)
@@ -79,6 +92,13 @@ def extract_number(patterns: Iterable[re.Pattern], text: str) -> float | None:
             if value is not None:
                 return value
     return None
+
+
+def remove_eur_per_m2_fragments(text: str) -> str:
+    cleaned = text
+    for pattern in PRICE_PER_M2_PATTERNS:
+        cleaned = pattern.sub("", cleaned)
+    return cleaned
 
 
 def extract_cards(soup: BeautifulSoup) -> List[BeautifulSoup]:
@@ -111,8 +131,7 @@ def parse_candidate_from_card(card: BeautifulSoup, source_url: str) -> Candidate
 
     full_url = urljoin("https://www.willhaben.at", href)
     text = " ".join(card.stripped_strings)
-    lower_text = text.lower()
-    if "grund" not in lower_text and "grundstück" not in lower_text:
+    if not LAND_KEYWORD_PATTERN.search(text):
         return None
 
     title = link.get_text(strip=True) or "(untitled)"
@@ -124,7 +143,7 @@ def parse_candidate_from_card(card: BeautifulSoup, source_url: str) -> Candidate
             break
 
     eur_per_m2 = extract_number(PRICE_PER_M2_PATTERNS, text)
-    total_price = extract_number(PRICE_PATTERNS, text)
+    total_price = extract_number(PRICE_PATTERNS, remove_eur_per_m2_fragments(text))
     area_m2 = extract_number(AREA_PATTERNS, text)
 
     if eur_per_m2 is None and total_price and area_m2 and area_m2 > 0:
@@ -217,8 +236,10 @@ def render_report(conn: sqlite3.Connection, threshold: float) -> str:
         SELECT title, url, location, total_price_eur, area_m2, eur_per_m2,
                first_seen_utc, last_seen_utc, hit_count
         FROM suitable_proposals
+        WHERE eur_per_m2 <= ?
         ORDER BY eur_per_m2 ASC, last_seen_utc DESC
-        """
+        """,
+        (threshold,),
     ).fetchall()
 
     lines = [
@@ -247,7 +268,8 @@ def render_report(conn: sqlite3.Connection, threshold: float) -> str:
         area_txt = f"{area_m2:.2f}" if area_m2 is not None else "n/a"
         lines.append(
             f"| {title.replace('|', '/')} | {eur_m2_txt} | {price_txt} | {area_txt} | "
-            f"{(location or '').replace('|', '/')} | {first_seen} | {last_seen} | {hits} | {url} |"
+            f"{(location or '').replace('|', '/')} | {first_seen} | {last_seen} | {hits} | "
+            f"{(url or '').replace('|', '/')} |"
         )
 
     return "\n".join(lines) + "\n"
@@ -270,14 +292,14 @@ def run(config_path: Path, dry_run: bool = False) -> int:
         raise ValueError("config search_urls is empty")
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    conn = sqlite3.connect(DB_PATH)
-    ensure_schema(conn)
-
     now_utc = datetime.now(timezone.utc).isoformat()
     suitable_count = 0
     scanned_count = 0
+    skipped_without_eur_m2 = 0
+    above_threshold_count = 0
 
-    try:
+    with sqlite3.connect(DB_PATH) as conn:
+        ensure_schema(conn)
         for search_url in search_urls:
             try:
                 candidates = scrape_candidates(search_url)
@@ -287,19 +309,23 @@ def run(config_path: Path, dry_run: bool = False) -> int:
             scanned_count += len(candidates)
             for c in candidates:
                 if c.eur_per_m2 is None:
+                    skipped_without_eur_m2 += 1
                     continue
                 if c.eur_per_m2 <= threshold:
                     suitable_count += 1
                     if not dry_run:
                         upsert_suitable(conn, c, now_utc)
+                else:
+                    above_threshold_count += 1
+            if not dry_run:
+                conn.commit()
 
         if not dry_run:
-            conn.commit()
             REPORT_PATH.write_text(render_report(conn, threshold), encoding="utf-8")
-    finally:
-        conn.close()
 
     print(f"Scanned candidates: {scanned_count}")
+    print(f"Skipped without EUR/m²: {skipped_without_eur_m2}")
+    print(f"Above threshold: {above_threshold_count}")
     print(f"Suitable candidates (<= {threshold} EUR/m²): {suitable_count}")
     if not dry_run:
         print(f"Report updated: {REPORT_PATH}")
