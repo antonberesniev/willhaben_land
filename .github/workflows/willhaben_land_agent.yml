@@ -85,55 +85,55 @@ jobs:
           GENERATED_UTC="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
 
           cat > standalone_willhaben_agent/data/cache_status.html <<EOF
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Willhaben Cache Status</title>
-  <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; margin: 0; background: #f6f8fa; color: #1f2328; }
-    .wrap { max-width: 980px; margin: 24px auto; padding: 0 16px; }
-    .card { background: #fff; border: 1px solid #d0d7de; border-radius: 10px; padding: 16px; margin-bottom: 16px; }
-    h1, h2 { margin-top: 0; }
-    table { width: 100%; border-collapse: collapse; }
-    th, td { text-align: left; padding: 10px; border-bottom: 1px solid #d8dee4; }
-    th { width: 240px; color: #57606a; font-weight: 600; }
-    .ok { color: #1a7f37; font-weight: 700; }
-    .warn { color: #9a6700; font-weight: 700; }
-  </style>
-</head>
-<body>
-  <div class="wrap">
-    <div class="card">
-      <h1>Willhaben Cache Status</h1>
-      <p>Generated UTC: <strong>$GENERATED_UTC</strong></p>
-      <p>Run: <a href="$RUN_URL">#$RUN_NUMBER</a> (ID: $RUN_ID)</p>
-    </div>
+          <!doctype html>
+          <html lang="en">
+          <head>
+            <meta charset="utf-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <title>Willhaben Cache Status</title>
+            <style>
+              body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; margin: 0; background: #f6f8fa; color: #1f2328; }
+              .wrap { max-width: 980px; margin: 24px auto; padding: 0 16px; }
+              .card { background: #fff; border: 1px solid #d0d7de; border-radius: 10px; padding: 16px; margin-bottom: 16px; }
+              h1, h2 { margin-top: 0; }
+              table { width: 100%; border-collapse: collapse; }
+              th, td { text-align: left; padding: 10px; border-bottom: 1px solid #d8dee4; }
+              th { width: 240px; color: #57606a; font-weight: 600; }
+              .ok { color: #1a7f37; font-weight: 700; }
+              .warn { color: #9a6700; font-weight: 700; }
+            </style>
+          </head>
+          <body>
+            <div class="wrap">
+              <div class="card">
+                <h1>Willhaben Cache Status</h1>
+                <p>Generated UTC: <strong>$GENERATED_UTC</strong></p>
+                <p>Run: <a href="$RUN_URL">#$RUN_NUMBER</a> (ID: $RUN_ID)</p>
+              </div>
 
-    <div class="card">
-      <h2>Cache Restore</h2>
-      <table>
-        <tr><th>Repository</th><td>$REPO</td></tr>
-        <tr><th>Branch</th><td>$BRANCH</td></tr>
-        <tr><th>Primary key</th><td>$CACHE_PRIMARY_KEY</td></tr>
-        <tr><th>Matched key</th><td>${CACHE_MATCHED_KEY:-none}</td></tr>
-        <tr><th>Cache hit</th><td>$( [ "$CACHE_HIT" = "true" ] && echo '<span class="ok">true</span>' || echo '<span class="warn">false</span>' )</td></tr>
-      </table>
-    </div>
+              <div class="card">
+                <h2>Cache Restore</h2>
+                <table>
+                  <tr><th>Repository</th><td>$REPO</td></tr>
+                  <tr><th>Branch</th><td>$BRANCH</td></tr>
+                  <tr><th>Primary key</th><td>$CACHE_PRIMARY_KEY</td></tr>
+                  <tr><th>Matched key</th><td>${CACHE_MATCHED_KEY:-none}</td></tr>
+                  <tr><th>Cache hit</th><td>$( [ "$CACHE_HIT" = "true" ] && echo '<span class="ok">true</span>' || echo '<span class="warn">false</span>' )</td></tr>
+                </table>
+              </div>
 
-    <div class="card">
-      <h2>Database File</h2>
-      <table>
-        <tr><th>Path</th><td>$DB_PATH</td></tr>
-        <tr><th>Exists after run</th><td>$DB_EXISTS</td></tr>
-        <tr><th>File size (bytes)</th><td>$DB_SIZE_BYTES</td></tr>
-      </table>
-    </div>
-  </div>
-</body>
-</html>
-EOF
+              <div class="card">
+                <h2>Database File</h2>
+                <table>
+                  <tr><th>Path</th><td>$DB_PATH</td></tr>
+                  <tr><th>Exists after run</th><td>$DB_EXISTS</td></tr>
+                  <tr><th>File size (bytes)</th><td>$DB_SIZE_BYTES</td></tr>
+                </table>
+              </div>
+            </div>
+          </body>
+          </html>
+          EOF
 
       - name: Upload report artifact
         uses: actions/upload-artifact@v6
