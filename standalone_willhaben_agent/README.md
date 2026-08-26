@@ -56,6 +56,15 @@ It also separates:
 
 Open `standalone_willhaben_agent/data/suitable_proposals.html` in any browser to see the current status dashboard.
 
+## Online hosting (GitHub Pages)
+
+The workflow can publish reports to GitHub Pages so they are viewable online without downloading artifacts.
+
+- Main report: `https://antonberesniev.github.io/willhaben_land/`
+- Cache status page: `https://antonberesniev.github.io/willhaben_land/cache_status.html`
+
+If Pages is not enabled yet in repository settings, enable GitHub Pages with source set to GitHub Actions.
+
 ## Notes
 
 - Website HTML can change, so selectors may need occasional updates.

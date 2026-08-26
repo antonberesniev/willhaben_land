@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: read
+  pages: write
+  id-token: write
 
 jobs:
   check-land:
@@ -146,6 +148,19 @@ jobs:
             standalone_willhaben_agent/data/proposals.db
           if-no-files-found: warn
 
+      - name: Prepare Pages artifact
+        if: always()
+        run: |
+          mkdir -p standalone_willhaben_agent/data/site
+          cp standalone_willhaben_agent/data/suitable_proposals.html standalone_willhaben_agent/data/site/index.html
+          cp standalone_willhaben_agent/data/cache_status.html standalone_willhaben_agent/data/site/cache_status.html
+
+      - name: Upload Pages artifact
+        if: always()
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: standalone_willhaben_agent/data/site
+
       - name: Save state cache
         if: always()
         uses: actions/cache/save@v4
@@ -153,3 +168,12 @@ jobs:
           path: |
             standalone_willhaben_agent/data/proposals.db
           key: willhaben-land-state-${{ github.run_id }}
+
+  deploy-pages:
+    if: always()
+    needs: check-land
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
