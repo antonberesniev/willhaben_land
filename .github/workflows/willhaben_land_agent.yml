@@ -20,6 +20,15 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Restore state cache
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            standalone_willhaben_agent/data/proposals.db
+          key: willhaben-land-state-${{ github.run_id }}
+          restore-keys: |
+            willhaben-land-state-
+
       - name: Install dependencies
         run: |
           pip install -r standalone_willhaben_agent/requirements.txt
@@ -55,5 +64,14 @@ jobs:
           name: suitable-proposals-report
           path: |
             standalone_willhaben_agent/data/suitable_proposals.md
+            standalone_willhaben_agent/data/suitable_proposals.html
             standalone_willhaben_agent/data/proposals.db
           if-no-files-found: warn
+
+      - name: Save state cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            standalone_willhaben_agent/data/proposals.db
+          key: willhaben-land-state-${{ github.run_id }}

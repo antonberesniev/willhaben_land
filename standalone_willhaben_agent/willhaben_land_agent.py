@@ -19,6 +19,7 @@ ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
 DB_PATH = DATA_DIR / "proposals.db"
 REPORT_PATH = DATA_DIR / "suitable_proposals.md"
+HTML_REPORT_PATH = DATA_DIR / "suitable_proposals.html"
 DEFAULT_CONFIG_PATH = ROOT / "config.json"
 
 USER_AGENT = (
@@ -192,10 +193,18 @@ def ensure_schema(conn: sqlite3.Connection) -> None:
             source_url TEXT NOT NULL,
             first_seen_utc TEXT NOT NULL,
             last_seen_utc TEXT NOT NULL,
+            invalidated_utc TEXT,
             hit_count INTEGER NOT NULL DEFAULT 1
         )
         """
     )
+
+    # Keep backward compatibility with DB files created before invalidation tracking existed.
+    columns = {
+        row[1] for row in conn.execute("PRAGMA table_info(suitable_proposals)").fetchall()
+    }
+    if "invalidated_utc" not in columns:
+        conn.execute("ALTER TABLE suitable_proposals ADD COLUMN invalidated_utc TEXT")
     conn.commit()
 
 
@@ -214,6 +223,7 @@ def upsert_suitable(conn: sqlite3.Connection, c: Candidate, now_utc: str) -> Non
             eur_per_m2 = excluded.eur_per_m2,
             source_url = excluded.source_url,
             last_seen_utc = excluded.last_seen_utc,
+            invalidated_utc = NULL,
             hit_count = suitable_proposals.hit_count + 1
         """,
         (
@@ -230,14 +240,51 @@ def upsert_suitable(conn: sqlite3.Connection, c: Candidate, now_utc: str) -> Non
     )
 
 
+def invalidate_missing_suitable(
+    conn: sqlite3.Connection, seen_urls: set[str], now_utc: str
+) -> int:
+    if seen_urls:
+        placeholders = ",".join("?" for _ in seen_urls)
+        result = conn.execute(
+            f"""
+            UPDATE suitable_proposals
+            SET invalidated_utc = ?
+            WHERE invalidated_utc IS NULL
+              AND url NOT IN ({placeholders})
+            """,
+            (now_utc, *seen_urls),
+        )
+    else:
+        result = conn.execute(
+            """
+            UPDATE suitable_proposals
+            SET invalidated_utc = ?
+            WHERE invalidated_utc IS NULL
+            """,
+            (now_utc,),
+        )
+    return int(result.rowcount or 0)
+
+
 def render_report(conn: sqlite3.Connection, threshold: float) -> str:
-    rows = conn.execute(
+    active_rows = conn.execute(
         """
         SELECT title, url, location, total_price_eur, area_m2, eur_per_m2,
                first_seen_utc, last_seen_utc, hit_count
         FROM suitable_proposals
-        WHERE eur_per_m2 <= ?
+        WHERE eur_per_m2 <= ? AND invalidated_utc IS NULL
         ORDER BY eur_per_m2 ASC, last_seen_utc DESC
+        """,
+        (threshold,),
+    ).fetchall()
+
+    invalidated_rows = conn.execute(
+        """
+        SELECT title, url, location, total_price_eur, area_m2, eur_per_m2,
+               first_seen_utc, last_seen_utc, invalidated_utc, hit_count
+        FROM suitable_proposals
+        WHERE eur_per_m2 <= ? AND invalidated_utc IS NOT NULL
+        ORDER BY invalidated_utc DESC, eur_per_m2 ASC
         """,
         (threshold,),
     ).fetchall()
@@ -250,29 +297,223 @@ def render_report(conn: sqlite3.Connection, threshold: float) -> str:
         "",
     ]
 
-    if not rows:
-        lines.append("No suitable proposals found yet.")
+    lines.append("## Active suitable proposals")
+    lines.append("")
+
+    if not active_rows:
+        lines.append("No active suitable proposals found.")
+    else:
+        lines.extend(
+            [
+                "| Title | EUR/m² | Price (EUR) | Area (m²) | Location | First Seen | Last Seen | Hits | URL |",
+                "|---|---:|---:|---:|---|---|---|---:|---|",
+            ]
+        )
+
+        for r in active_rows:
+            title, url, location, total_price, area_m2, eur_m2, first_seen, last_seen, hits = r
+            eur_m2_txt = f"{eur_m2:.3f}" if eur_m2 is not None else "n/a"
+            price_txt = f"{total_price:.2f}" if total_price is not None else "n/a"
+            area_txt = f"{area_m2:.2f}" if area_m2 is not None else "n/a"
+            lines.append(
+                f"| {title.replace('|', '/')} | {eur_m2_txt} | {price_txt} | {area_txt} | "
+                f"{(location or '').replace('|', '/')} | {first_seen} | {last_seen} | {hits} | "
+                f"{(url or '').replace('|', '/')} |"
+            )
+
+    lines.append("")
+    lines.append("## Invalidated (no longer present)")
+    lines.append("")
+
+    if not invalidated_rows:
+        lines.append("No invalidated suitable proposals yet.")
         return "\n".join(lines) + "\n"
 
     lines.extend(
         [
-            "| Title | EUR/m² | Price (EUR) | Area (m²) | Location | First Seen | Last Seen | Hits | URL |",
-            "|---|---:|---:|---:|---|---|---|---:|---|",
+            "| Title | EUR/m² | Price (EUR) | Area (m²) | Location | First Seen | Last Seen | Invalidated | Hits | URL |",
+            "|---|---:|---:|---:|---|---|---|---|---:|---|",
         ]
     )
 
-    for r in rows:
-        title, url, location, total_price, area_m2, eur_m2, first_seen, last_seen, hits = r
+    for r in invalidated_rows:
+        title, url, location, total_price, area_m2, eur_m2, first_seen, last_seen, invalidated_utc, hits = r
         eur_m2_txt = f"{eur_m2:.3f}" if eur_m2 is not None else "n/a"
         price_txt = f"{total_price:.2f}" if total_price is not None else "n/a"
         area_txt = f"{area_m2:.2f}" if area_m2 is not None else "n/a"
         lines.append(
             f"| {title.replace('|', '/')} | {eur_m2_txt} | {price_txt} | {area_txt} | "
-            f"{(location or '').replace('|', '/')} | {first_seen} | {last_seen} | {hits} | "
+            f"{(location or '').replace('|', '/')} | {first_seen} | {last_seen} | {invalidated_utc} | {hits} | "
             f"{(url or '').replace('|', '/')} |"
         )
 
     return "\n".join(lines) + "\n"
+
+
+def html_escape(text: str) -> str:
+        return (
+                text.replace("&", "&amp;")
+                .replace("<", "&lt;")
+                .replace(">", "&gt;")
+                .replace('"', "&quot;")
+        )
+
+
+def render_html_report(conn: sqlite3.Connection, threshold: float) -> str:
+        active_rows = conn.execute(
+                """
+                SELECT title, url, location, total_price_eur, area_m2, eur_per_m2,
+                             first_seen_utc, last_seen_utc, hit_count
+                FROM suitable_proposals
+                WHERE eur_per_m2 <= ? AND invalidated_utc IS NULL
+                ORDER BY eur_per_m2 ASC, last_seen_utc DESC
+                """,
+                (threshold,),
+        ).fetchall()
+
+        invalidated_rows = conn.execute(
+                """
+                SELECT title, url, location, total_price_eur, area_m2, eur_per_m2,
+                             first_seen_utc, last_seen_utc, invalidated_utc, hit_count
+                FROM suitable_proposals
+                WHERE eur_per_m2 <= ? AND invalidated_utc IS NOT NULL
+                ORDER BY invalidated_utc DESC, eur_per_m2 ASC
+                """,
+                (threshold,),
+        ).fetchall()
+
+        generated_utc = datetime.now(timezone.utc).isoformat()
+
+        def fmt_num(value: float | None, decimals: int = 2) -> str:
+                if value is None:
+                        return "n/a"
+                return f"{value:.{decimals}f}"
+
+        def row_html_active(r: tuple) -> str:
+                title, url, location, total_price, area_m2, eur_m2, first_seen, last_seen, hits = r
+                return (
+                        "<tr>"
+                        f"<td>{html_escape(title)}</td>"
+                        f"<td>{fmt_num(eur_m2, 3)}</td>"
+                        f"<td>{fmt_num(total_price)}</td>"
+                        f"<td>{fmt_num(area_m2)}</td>"
+                        f"<td>{html_escape(location or '')}</td>"
+                        f"<td>{html_escape(first_seen)}</td>"
+                        f"<td>{html_escape(last_seen)}</td>"
+                        f"<td>{hits}</td>"
+                        f"<td><a href=\"{html_escape(url)}\" target=\"_blank\" rel=\"noopener noreferrer\">open</a></td>"
+                        "</tr>"
+                )
+
+        def row_html_invalidated(r: tuple) -> str:
+                (
+                        title,
+                        url,
+                        location,
+                        total_price,
+                        area_m2,
+                        eur_m2,
+                        first_seen,
+                        last_seen,
+                        invalidated_utc,
+                        hits,
+                ) = r
+                return (
+                        "<tr>"
+                        f"<td>{html_escape(title)}</td>"
+                        f"<td>{fmt_num(eur_m2, 3)}</td>"
+                        f"<td>{fmt_num(total_price)}</td>"
+                        f"<td>{fmt_num(area_m2)}</td>"
+                        f"<td>{html_escape(location or '')}</td>"
+                        f"<td>{html_escape(first_seen)}</td>"
+                        f"<td>{html_escape(last_seen)}</td>"
+                        f"<td>{html_escape(invalidated_utc or '')}</td>"
+                        f"<td>{hits}</td>"
+                        f"<td><a href=\"{html_escape(url)}\" target=\"_blank\" rel=\"noopener noreferrer\">open</a></td>"
+                        "</tr>"
+                )
+
+        active_table_rows = "\n".join(row_html_active(r) for r in active_rows)
+        invalidated_table_rows = "\n".join(row_html_invalidated(r) for r in invalidated_rows)
+
+        if not active_table_rows:
+                active_table_rows = "<tr><td colspan=\"9\">No active suitable proposals found.</td></tr>"
+        if not invalidated_table_rows:
+                invalidated_table_rows = "<tr><td colspan=\"10\">No invalidated suitable proposals yet.</td></tr>"
+
+        return f"""<!doctype html>
+<html lang=\"en\">
+<head>
+    <meta charset=\"utf-8\" />
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
+    <title>Suitable Grundstuck Proposals</title>
+    <style>
+        :root {{
+            --bg: #f3f5f7;
+            --card: #ffffff;
+            --text: #1d2935;
+            --muted: #5f7082;
+            --border: #d7dde3;
+            --header: #0b6bcb;
+        }}
+        body {{ margin: 0; font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; background: var(--bg); color: var(--text); }}
+        .wrap {{ max-width: 1280px; margin: 0 auto; padding: 20px; }}
+        .card {{ background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 16px; margin-bottom: 16px; }}
+        h1, h2 {{ margin: 0 0 12px 0; }}
+        p {{ margin: 6px 0; color: var(--muted); }}
+        .meta strong {{ color: var(--text); }}
+        .table-wrap {{ overflow-x: auto; }}
+        table {{ width: 100%; border-collapse: collapse; font-size: 14px; }}
+        th, td {{ border-bottom: 1px solid var(--border); padding: 8px; text-align: left; vertical-align: top; }}
+        th {{ background: #ebf3fb; color: var(--header); position: sticky; top: 0; }}
+        a {{ color: #0959a5; text-decoration: none; }}
+        a:hover {{ text-decoration: underline; }}
+    </style>
+</head>
+<body>
+    <div class=\"wrap\">
+        <div class=\"card\">
+            <h1>Suitable Grundstuck Proposals</h1>
+            <p class=\"meta\"><strong>Status:</strong> {len(active_rows)} active, {len(invalidated_rows)} removed</p>
+            <p class=\"meta\"><strong>Threshold:</strong> &lt;= {threshold:.2f} EUR/m2</p>
+            <p class=\"meta\"><strong>Generated UTC:</strong> {html_escape(generated_utc)}</p>
+        </div>
+
+        <div class=\"card\">
+            <h2>Active suitable proposals</h2>
+            <div class=\"table-wrap\">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Title</th><th>EUR/m2</th><th>Price (EUR)</th><th>Area (m2)</th><th>Location</th><th>First Seen</th><th>Last Seen</th><th>Hits</th><th>URL</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {active_table_rows}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class=\"card\">
+            <h2>Removed or invalidated proposals</h2>
+            <div class=\"table-wrap\">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Title</th><th>EUR/m2</th><th>Price (EUR)</th><th>Area (m2)</th><th>Location</th><th>First Seen</th><th>Last Seen</th><th>Invalidated</th><th>Hits</th><th>URL</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {invalidated_table_rows}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+"""
 
 
 def load_config(config_path: Path) -> dict:
@@ -297,6 +538,8 @@ def run(config_path: Path, dry_run: bool = False) -> int:
     scanned_count = 0
     skipped_without_eur_m2 = 0
     above_threshold_count = 0
+    seen_suitable_urls: set[str] = set()
+    invalidated_count = 0
 
     with sqlite3.connect(DB_PATH) as conn:
         ensure_schema(conn)
@@ -313,6 +556,7 @@ def run(config_path: Path, dry_run: bool = False) -> int:
                     continue
                 if c.eur_per_m2 <= threshold:
                     suitable_count += 1
+                    seen_suitable_urls.add(c.url)
                     if not dry_run:
                         upsert_suitable(conn, c, now_utc)
                 else:
@@ -321,14 +565,20 @@ def run(config_path: Path, dry_run: bool = False) -> int:
                 conn.commit()
 
         if not dry_run:
+            invalidated_count = invalidate_missing_suitable(conn, seen_suitable_urls, now_utc)
+            conn.commit()
             REPORT_PATH.write_text(render_report(conn, threshold), encoding="utf-8")
+            HTML_REPORT_PATH.write_text(render_html_report(conn, threshold), encoding="utf-8")
 
     print(f"Scanned candidates: {scanned_count}")
     print(f"Skipped without EUR/m²: {skipped_without_eur_m2}")
     print(f"Above threshold: {above_threshold_count}")
     print(f"Suitable candidates (<= {threshold} EUR/m²): {suitable_count}")
     if not dry_run:
+        print(f"Newly invalidated suitable candidates: {invalidated_count}")
+    if not dry_run:
         print(f"Report updated: {REPORT_PATH}")
+        print(f"HTML report updated: {HTML_REPORT_PATH}")
     return 0
 
 

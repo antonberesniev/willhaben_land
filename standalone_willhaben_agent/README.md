@@ -36,14 +36,25 @@ It runs daily at 06:00 UTC and can also be started manually.
 If `config.json` is not in the repository, set repository secret
 `WILLHABEN_AGENT_CONFIG_JSON` with the full JSON config.
 
+The workflow restores and saves the SQLite state file with GitHub cache,
+so seen listings history survives between workflow runs.
+
 ## Output
 
 The agent writes:
 
 - SQLite DB: `standalone_willhaben_agent/data/proposals.db`
 - Markdown report: `standalone_willhaben_agent/data/suitable_proposals.md`
+- HTML report (browser view): `standalone_willhaben_agent/data/suitable_proposals.html`
 
 The report contains all suitable proposals (deduplicated by URL) with first/last seen timestamps.
+
+It also separates:
+
+- active suitable proposals (still seen in latest run)
+- invalidated proposals (no longer seen and marked as removed/inactive)
+
+Open `standalone_willhaben_agent/data/suitable_proposals.html` in any browser to see the current status dashboard.
 
 ## Notes
 
