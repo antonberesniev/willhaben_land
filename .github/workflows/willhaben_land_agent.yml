@@ -31,9 +31,12 @@ jobs:
           if [ ! -f standalone_willhaben_agent/config.json ]; then
             if [ -n "$WILLHABEN_AGENT_CONFIG_JSON" ]; then
               printf '%s' "$WILLHABEN_AGENT_CONFIG_JSON" > standalone_willhaben_agent/config.json
+            elif [ -f standalone_willhaben_agent/config.example.json ]; then
+              cp standalone_willhaben_agent/config.example.json standalone_willhaben_agent/config.json
+              echo "Using standalone_willhaben_agent/config.example.json as fallback config."
             else
               echo "Missing standalone_willhaben_agent/config.json"
-              echo "Provide it in repo or as secret WILLHABEN_AGENT_CONFIG_JSON."
+              echo "Provide it in repo, as standalone_willhaben_agent/config.example.json, or as secret WILLHABEN_AGENT_CONFIG_JSON."
               exit 1
             fi
           fi
