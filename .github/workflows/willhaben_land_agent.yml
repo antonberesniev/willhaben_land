@@ -24,7 +24,7 @@ jobs:
 
       - name: Restore state cache
         id: restore_cache
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5
         with:
           path: |
             standalone_willhaben_agent/data/proposals.db
@@ -157,13 +157,13 @@ jobs:
 
       - name: Upload Pages artifact
         if: always()
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: standalone_willhaben_agent/data/site
 
       - name: Save state cache
         if: always()
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5
         with:
           path: |
             standalone_willhaben_agent/data/proposals.db
