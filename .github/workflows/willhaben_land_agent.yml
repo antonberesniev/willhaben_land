@@ -174,6 +174,32 @@ jobs:
     needs: check-land
     runs-on: ubuntu-latest
     steps:
+      - name: Check if GitHub Pages is enabled
+        id: pages_status
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          STATUS_CODE="$(curl -s -o /tmp/pages.json -w "%{http_code}" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$REPO/pages")"
+
+          if [ "$STATUS_CODE" = "200" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+            echo "GitHub Pages is enabled."
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "GitHub Pages is not enabled (HTTP $STATUS_CODE). Deployment will be skipped."
+            echo "Enable at: https://github.com/$REPO/settings/pages"
+          fi
+
       - name: Deploy to GitHub Pages
+        if: steps.pages_status.outputs.enabled == 'true'
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Pages deployment skipped
+        if: steps.pages_status.outputs.enabled != 'true'
+        run: |
+          echo "Pages deploy skipped because GitHub Pages is disabled for this repository."
