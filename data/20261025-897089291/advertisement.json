@@ -1,0 +1,1673 @@
+{
+  "id": "897089291",
+  "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/korneuburg/haus-beim-badeteich-bisamberg-zu-verkaufen-897089291/",
+  "search_url": "https://www.willhaben.at/iad/immobilien/haus-kaufen/haus-angebote?isNavigation=true&areaId=1&areaId=2&areaId=3&areaId=4&areaId=5&areaId=6&areaId=7&areaId=8&areaId=900&PRICE_TO=100000",
+  "found_utc": "2026-10-25T15:05:32Z",
+  "images": [
+    "001.jpg",
+    "002.jpg",
+    "003.jpg",
+    "004.jpg",
+    "005.jpg",
+    "006.jpg",
+    "007.jpg",
+    "008.jpg",
+    "009.jpg",
+    "010.jpg",
+    "011.jpg",
+    "012.jpg"
+  ],
+  "attributes": {
+    "GENERAL_TEXT_ADVERT/Lage": [
+      "<p>Das Haus befindet sich beim Badeteich Bisamberg in einer sehr ruhigen Wohngegend. Sämtliche Nahversorger sind in wenigen Minuten zu erreichen.</p>"
+    ],
+    "DESCRIPTION": [
+      "<p>Das Haus befindet sich auf einem Baurechtsgrund mit ca. 127m². Der monatliche Baurechtszins beträgt EUR 529,-.</p><p>Das Haus verfügt über folgende Räumlichkeiten:</p><ul><li>Vorraum</li><li>Wohnzimmer</li><li>Küche</li><li>Badezimmer mit Dusche</li><li>Schlafzimmer</li></ul>"
+    ],
+    "ENERGY_HWB": [
+      "194,4"
+    ],
+    "RENTAL_PRICE/FURNITURE_COST": [
+      "0"
+    ],
+    "ESTATE_PREFERENCE": [
+      "Einbauküche",
+      "Teilmöbliert / Möbliert",
+      "Abstellraum"
+    ],
+    "PROPERTY_TYPE_HOUSE": [
+      "true"
+    ],
+    "PLOT/AREA": [
+      "127"
+    ],
+    "ENERGY_HWB_CLASS": [
+      "F"
+    ],
+    "PROPERTY_TYPE_ID": [
+      "1"
+    ],
+    "CONTACT/NAME": [
+      "Refugium GmbH"
+    ],
+    "AVAILABLE_DATE": [
+      "21.11.2023"
+    ],
+    "ESTATE_SIZE/LIVING_AREA": [
+      "42"
+    ],
+    "AVAILABLE_NOW": [
+      "ab sofort"
+    ],
+    "PROPERTY_TYPE": [
+      "Einfamilienhaus"
+    ],
+    "NO_OF_ROOMS": [
+      "2"
+    ],
+    "PROPERTY_TYPE_FLAT": [
+      "false"
+    ],
+    "CONTACT/PHONE": [
+      "06641936264"
+    ],
+    "OWNAGETYPE": [
+      "Kauf"
+    ],
+    "ESTATE_PRICE/PRICE_SUGGESTION": [
+      "69000"
+    ],
+    "FREE_AREA/FREE_AREA_TYPE": [
+      "Terrasse",
+      "Garten"
+    ],
+    "ESTATE_PRICE/PRICE_SUGGESTION_FOR_DISPLAY": [
+      "€ 69.000"
+    ],
+    "PRICE": [
+      "69000"
+    ],
+    "PRICE_FOR_DISPLAY": [
+      "€ 69.000"
+    ],
+    "ESTATE_SIZE": [
+      "42"
+    ],
+    "FREE_AREA/FREE_AREA_TYPE_AND_AREA": [
+      "Garten",
+      "Terrasse"
+    ],
+    "AREA_ID": [
+      "104049"
+    ],
+    "REGION_AREA_ID": [
+      "312"
+    ],
+    "LOCATION/ADDRESS_1": [
+      "Badeteich"
+    ],
+    "LOCATION/ADDRESS_2": [
+      "Bisamberg"
+    ],
+    "LOCATION/ADDRESS_3": [
+      "Korneuburg"
+    ],
+    "LOCATION/ADDRESS_4": [
+      "Niederösterreich"
+    ],
+    "SHOW_MAP": [
+      "false"
+    ],
+    "SHOW_SHADOWMAP": [
+      "false"
+    ],
+    "CONTACT/COMPANY": [
+      "Refugium Vermietung- VerpachtungsgmbH"
+    ],
+    "CONTACT/ADDRESS_STREET": [
+      "Mengergasse 5/15a"
+    ],
+    "CONTACT/ADDRESS_POSTCODE": [
+      "1210"
+    ],
+    "CONTACT/ADDRESS_TOWN": [
+      "Wien, 21. Bezirk, Floridsdorf"
+    ],
+    "ISPRIVATE": [
+      "0"
+    ],
+    "DEALER": [
+      "1"
+    ],
+    "ORG_TYPE": [
+      "105"
+    ],
+    "PRICE/SQUARE_METER": [
+      "1642.8572"
+    ],
+    "PRICE/SQUARE_METER_FOR_DISPLAY": [
+      "€ 1.642,86"
+    ],
+    "PRICE/SQUARE_METER_FOR_DISPLAY_WITH_UNIT": [
+      "€ 1.642,86/m²"
+    ]
+  },
+  "advert": {
+    "id": "897089291",
+    "uuid": "565d0461-9b70-4433-a75c-b34e9d305250",
+    "verticalId": 2,
+    "adTypeId": 1,
+    "productId": 223,
+    "parentAdId": null,
+    "description": "Haus beim Badeteich Bisamberg zu verkaufen",
+    "startDate": "2026-01-09T09:11:00+0100",
+    "endDate": "2027-01-09T09:11:00+0100",
+    "publishedDate": "2026-10-06T09:12:00+0200",
+    "firstPublishedDate": "2026-01-09T09:12:00+0100",
+    "createdDate": "2026-01-09T09:11:00+0100",
+    "changedDate": "2026-10-06T09:15:06+0200",
+    "advertiserReferenceNumber": null,
+    "attributes": {
+      "attribute": [
+        {
+          "name": "GENERAL_TEXT_ADVERT/Lage",
+          "values": [
+            "<p>Das Haus befindet sich beim Badeteich Bisamberg in einer sehr ruhigen Wohngegend. Sämtliche Nahversorger sind in wenigen Minuten zu erreichen.</p>"
+          ]
+        },
+        {
+          "name": "DESCRIPTION",
+          "values": [
+            "<p>Das Haus befindet sich auf einem Baurechtsgrund mit ca. 127m². Der monatliche Baurechtszins beträgt EUR 529,-.</p><p>Das Haus verfügt über folgende Räumlichkeiten:</p><ul><li>Vorraum</li><li>Wohnzimmer</li><li>Küche</li><li>Badezimmer mit Dusche</li><li>Schlafzimmer</li></ul>"
+          ]
+        },
+        {
+          "name": "ENERGY_HWB",
+          "values": [
+            "194,4"
+          ]
+        },
+        {
+          "name": "RENTAL_PRICE/FURNITURE_COST",
+          "values": [
+            "0"
+          ]
+        },
+        {
+          "name": "ESTATE_PREFERENCE",
+          "values": [
+            "Einbauküche",
+            "Teilmöbliert / Möbliert",
+            "Abstellraum"
+          ]
+        },
+        {
+          "name": "PROPERTY_TYPE_HOUSE",
+          "values": [
+            "true"
+          ]
+        },
+        {
+          "name": "PLOT/AREA",
+          "values": [
+            "127"
+          ]
+        },
+        {
+          "name": "ENERGY_HWB_CLASS",
+          "values": [
+            "F"
+          ]
+        },
+        {
+          "name": "PROPERTY_TYPE_ID",
+          "values": [
+            "1"
+          ]
+        },
+        {
+          "name": "CONTACT/NAME",
+          "values": [
+            "Refugium GmbH"
+          ]
+        },
+        {
+          "name": "AVAILABLE_DATE",
+          "values": [
+            "21.11.2023"
+          ]
+        },
+        {
+          "name": "ESTATE_SIZE/LIVING_AREA",
+          "values": [
+            "42"
+          ]
+        },
+        {
+          "name": "AVAILABLE_NOW",
+          "values": [
+            "ab sofort"
+          ]
+        },
+        {
+          "name": "PROPERTY_TYPE",
+          "values": [
+            "Einfamilienhaus"
+          ]
+        },
+        {
+          "name": "NO_OF_ROOMS",
+          "values": [
+            "2"
+          ]
+        },
+        {
+          "name": "PROPERTY_TYPE_FLAT",
+          "values": [
+            "false"
+          ]
+        },
+        {
+          "name": "CONTACT/PHONE",
+          "values": [
+            "06641936264"
+          ]
+        },
+        {
+          "name": "OWNAGETYPE",
+          "values": [
+            "Kauf"
+          ]
+        },
+        {
+          "name": "ESTATE_PRICE/PRICE_SUGGESTION",
+          "values": [
+            "69000"
+          ]
+        },
+        {
+          "name": "FREE_AREA/FREE_AREA_TYPE",
+          "values": [
+            "Terrasse",
+            "Garten"
+          ]
+        },
+        {
+          "name": "ESTATE_PRICE/PRICE_SUGGESTION_FOR_DISPLAY",
+          "values": [
+            "€ 69.000"
+          ]
+        },
+        {
+          "name": "PRICE",
+          "values": [
+            "69000"
+          ]
+        },
+        {
+          "name": "PRICE_FOR_DISPLAY",
+          "values": [
+            "€ 69.000"
+          ]
+        },
+        {
+          "name": "ESTATE_SIZE",
+          "values": [
+            "42"
+          ]
+        },
+        {
+          "name": "FREE_AREA/FREE_AREA_TYPE_AND_AREA",
+          "values": [
+            "Garten",
+            "Terrasse"
+          ]
+        },
+        {
+          "name": "AREA_ID",
+          "values": [
+            "104049"
+          ]
+        },
+        {
+          "name": "REGION_AREA_ID",
+          "values": [
+            "312"
+          ]
+        },
+        {
+          "name": "LOCATION/ADDRESS_1",
+          "values": [
+            "Badeteich"
+          ]
+        },
+        {
+          "name": "LOCATION/ADDRESS_2",
+          "values": [
+            "Bisamberg"
+          ]
+        },
+        {
+          "name": "LOCATION/ADDRESS_3",
+          "values": [
+            "Korneuburg"
+          ]
+        },
+        {
+          "name": "LOCATION/ADDRESS_4",
+          "values": [
+            "Niederösterreich"
+          ]
+        },
+        {
+          "name": "SHOW_MAP",
+          "values": [
+            "false"
+          ]
+        },
+        {
+          "name": "SHOW_SHADOWMAP",
+          "values": [
+            "false"
+          ]
+        },
+        {
+          "name": "CONTACT/COMPANY",
+          "values": [
+            "Refugium Vermietung- VerpachtungsgmbH"
+          ]
+        },
+        {
+          "name": "CONTACT/ADDRESS_STREET",
+          "values": [
+            "Mengergasse 5/15a"
+          ]
+        },
+        {
+          "name": "CONTACT/ADDRESS_POSTCODE",
+          "values": [
+            "1210"
+          ]
+        },
+        {
+          "name": "CONTACT/ADDRESS_TOWN",
+          "values": [
+            "Wien, 21. Bezirk, Floridsdorf"
+          ]
+        },
+        {
+          "name": "ISPRIVATE",
+          "values": [
+            "0"
+          ]
+        },
+        {
+          "name": "DEALER",
+          "values": [
+            "1"
+          ]
+        },
+        {
+          "name": "ORG_TYPE",
+          "values": [
+            "105"
+          ]
+        },
+        {
+          "name": "PRICE/SQUARE_METER",
+          "values": [
+            "1642.8572"
+          ]
+        },
+        {
+          "name": "PRICE/SQUARE_METER_FOR_DISPLAY",
+          "values": [
+            "€ 1.642,86"
+          ]
+        },
+        {
+          "name": "PRICE/SQUARE_METER_FOR_DISPLAY_WITH_UNIT",
+          "values": [
+            "€ 1.642,86/m²"
+          ]
+        }
+      ]
+    },
+    "advertImageList": {
+      "advertImage": [
+        {
+          "id": 1,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/897089291/1",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_1424350069_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_1424350069_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_1424350069.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "1/897/089/291_1424350069.jpg"
+        },
+        {
+          "id": 2,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/897089291/2",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_-785652775_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_-785652775_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_-785652775.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "1/897/089/291_-785652775.jpg"
+        },
+        {
+          "id": 3,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/897089291/3",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_-721559867_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_-721559867_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_-721559867.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "1/897/089/291_-721559867.jpg"
+        },
+        {
+          "id": 4,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/897089291/4",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_855954808_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_855954808_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_855954808.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "1/897/089/291_855954808.jpg"
+        },
+        {
+          "id": 5,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/897089291/5",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_233889026_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_233889026_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_233889026.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "1/897/089/291_233889026.jpg"
+        },
+        {
+          "id": 6,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/897089291/6",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_1612633310_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_1612633310_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_1612633310.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "1/897/089/291_1612633310.jpg"
+        },
+        {
+          "id": 7,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/897089291/7",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_2117916916_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_2117916916_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_2117916916.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "1/897/089/291_2117916916.jpg"
+        },
+        {
+          "id": 8,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/897089291/8",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_309258472_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_309258472_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_309258472.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "1/897/089/291_309258472.jpg"
+        },
+        {
+          "id": 9,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/897089291/9",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_1384765822_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_1384765822_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_1384765822.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "1/897/089/291_1384765822.jpg"
+        },
+        {
+          "id": 10,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/897089291/10",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_465951375_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_465951375_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_465951375.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "1/897/089/291_465951375.jpg"
+        },
+        {
+          "id": 11,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/897089291/11",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_-1242047952_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_-1242047952_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_-1242047952.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "1/897/089/291_-1242047952.jpg"
+        },
+        {
+          "id": 12,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/897089291/12",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_-1116217312_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_-1116217312_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/1/897/089/291_-1116217312.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "1/897/089/291_-1116217312.jpg"
+        }
+      ],
+      "floorPlans": []
+    },
+    "advertAttachmentList": {
+      "advertAttachment": []
+    },
+    "organisationDetails": {
+      "id": 1001696,
+      "uuid": "8120080f-5a8a-4be5-9cea-5f9510511703",
+      "partnerId": "refugium",
+      "description": "Organisation details",
+      "organisationDetailLinkList": {
+        "contextLink": [
+          {
+            "id": "organisation.profileWeblink",
+            "description": "Firmenprofil",
+            "uri": "https://www.willhaben.at/iad/immobilien/immobilienmakler/haus-kaufen?orgId=1001696",
+            "selected": false,
+            "relativePath": "/iad/immobilien/immobilienmakler/haus-kaufen?orgId=1001696",
+            "serviceName": "web_url"
+          },
+          {
+            "id": "organisation.profile",
+            "description": "1001696",
+            "uri": "https://api.willhaben.at/restapi/v2/dealerprofile/1001696",
+            "selected": false,
+            "relativePath": "/dealerprofile/1001696",
+            "serviceName": "iad"
+          },
+          {
+            "id": "organisation.furtherAds",
+            "description": "1001696",
+            "uri": "https://ad-search.willhaben.at/restapi/v2/search/atz/2/502?orgId=1001696",
+            "selected": false,
+            "relativePath": "/search/atz/2/502?orgId=1001696",
+            "serviceName": "ad-search"
+          }
+        ]
+      },
+      "orgName": "Refugium Vermietung- VerpachtungsgmbH",
+      "orgPhone": "0664/1936264",
+      "orgEmail": "",
+      "orgLogoUrl": null,
+      "addressLines": {
+        "value": [
+          "Mengergasse 5/15a",
+          "Wien, 21. Bezirk, Floridsdorf"
+        ]
+      },
+      "postCode": "1210",
+      "country": "Österreich",
+      "countryId": -141,
+      "openingHours": {
+        "openingHoursByGroup": []
+      }
+    },
+    "sellerProfileUserData": {
+      "name": "Refugium Vermietung- VerpachtungsgmbH",
+      "registerDate": "2022-09-26T16:33:00+0200",
+      "location": "1210 Wien, 21. Bezirk, Floridsdorf",
+      "street": "Mengergasse 5/15a",
+      "district": null,
+      "orgUUID": "8120080f-5a8a-4be5-9cea-5f9510511703",
+      "pictureUrl": null,
+      "hasProfileImage": false,
+      "activeAdCount": 11,
+      "private": false
+    },
+    "advertAddressDetails": {
+      "addressLines": {
+        "value": [
+          "Badeteich",
+          "Bisamberg",
+          "Korneuburg",
+          "Niederösterreich"
+        ]
+      },
+      "postCode": "2102",
+      "postalName": "Bisamberg",
+      "country": "Österreich",
+      "province": "Niederösterreich",
+      "district": "Korneuburg",
+      "municipality": "Bisamberg"
+    },
+    "advertContactDetails": {
+      "contactDetail": [
+        {
+          "id": "address",
+          "contactDetailField": [
+            {
+              "id": "country",
+              "description": "Land",
+              "value": "Österreich"
+            },
+            {
+              "id": "postalName",
+              "description": "Adresse",
+              "value": "Bisamberg"
+            },
+            {
+              "id": "street",
+              "description": "Strasse",
+              "value": "Badeteich"
+            },
+            {
+              "id": "municipality",
+              "description": "Gemeinde",
+              "value": "Bisamberg"
+            },
+            {
+              "id": "postCode",
+              "description": "Postleitzahl",
+              "value": "2102"
+            },
+            {
+              "id": "state",
+              "description": "Bundesland",
+              "value": "Niederösterreich"
+            },
+            {
+              "id": "region",
+              "description": "Region",
+              "value": "Korneuburg"
+            },
+            {
+              "id": "countryId",
+              "description": "Länderkennzahl",
+              "value": "-141"
+            }
+          ]
+        },
+        {
+          "id": "contactName",
+          "contactDetailField": [
+            {
+              "id": "contactName",
+              "description": "Name",
+              "value": "Refugium GmbH"
+            }
+          ]
+        },
+        {
+          "id": "companyName",
+          "contactDetailField": [
+            {
+              "id": "companyName",
+              "description": "Firma",
+              "value": "Refugium Vermietung- VerpachtungsgmbH"
+            }
+          ]
+        },
+        {
+          "id": "companyYears",
+          "contactDetailField": [
+            {
+              "id": "companyYears",
+              "description": "partnerJahre",
+              "value": "4"
+            }
+          ]
+        },
+        {
+          "id": "address_vcard",
+          "contactDetailField": [
+            {
+              "id": "country",
+              "description": "Land",
+              "value": "Österreich"
+            },
+            {
+              "id": "postalName",
+              "description": "Adresse",
+              "value": "Wien, 21. Bezirk, Floridsdorf"
+            },
+            {
+              "id": "street",
+              "description": "Strasse",
+              "value": "Mengergasse 5/15a"
+            },
+            {
+              "id": "postCode",
+              "description": "Adresse",
+              "value": "1210"
+            }
+          ]
+        },
+        {
+          "id": "address_location",
+          "contactDetailField": [
+            {
+              "id": "country",
+              "description": "Land",
+              "value": "Österreich"
+            },
+            {
+              "id": "postalName",
+              "description": "Adresse",
+              "value": "Bisamberg"
+            },
+            {
+              "id": "street",
+              "description": "Strasse",
+              "value": "Badeteich"
+            },
+            {
+              "id": "municipality",
+              "description": "Gemeinde",
+              "value": "Bisamberg"
+            },
+            {
+              "id": "postCode",
+              "description": "Postleitzahl",
+              "value": "2102"
+            },
+            {
+              "id": "state",
+              "description": "Bundesland",
+              "value": "Niederösterreich"
+            },
+            {
+              "id": "region",
+              "description": "Region",
+              "value": "Korneuburg"
+            },
+            {
+              "id": "countryId",
+              "description": "Länderkennzahl",
+              "value": "-141"
+            }
+          ]
+        },
+        {
+          "id": "contactName_vcard",
+          "contactDetailField": [
+            {
+              "id": "contactName_vcard",
+              "description": "Kontaktperson",
+              "value": "Refugium GmbH"
+            }
+          ]
+        },
+        {
+          "id": "phoneNo",
+          "contactDetailField": [
+            {
+              "id": "phoneNo",
+              "description": "Telefon",
+              "value": "06641936264"
+            }
+          ]
+        }
+      ]
+    },
+    "contextLinkList": {
+      "contextLink": [
+        {
+          "id": "selfLink",
+          "description": "Identifies this entity",
+          "uri": "https://api.willhaben.at/restapi/v2/atverz/897089291",
+          "selected": false,
+          "relativePath": "/atverz/897089291",
+          "serviceName": "iad"
+        },
+        {
+          "id": "iadAdvertLink",
+          "description": "Ad link in iAd",
+          "uri": "https://www.willhaben.at/iad/object?adId=897089291",
+          "selected": false,
+          "relativePath": "/iad/object?adId=897089291",
+          "serviceName": "web_url"
+        },
+        {
+          "id": "reportAd",
+          "description": "Report this ad",
+          "uri": "https://api.willhaben.at/restapi/v2/dsa/reportad/897089291/reasons",
+          "selected": false,
+          "relativePath": "/dsa/reportad/897089291/reasons",
+          "serviceName": "iad"
+        },
+        {
+          "id": "adDetailLink",
+          "description": "Self reference to advert via ad detail component",
+          "uri": "https://publicapi.willhaben.at/atdetail/v1/897089291",
+          "selected": false,
+          "relativePath": "/897089291",
+          "serviceName": "addetail"
+        },
+        {
+          "id": "canonicalLink",
+          "description": "The canonical URL",
+          "uri": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/korneuburg/haus-beim-badeteich-bisamberg-zu-verkaufen-897089291/",
+          "selected": false,
+          "relativePath": "/iad/immobilien/d/haus-kaufen/niederoesterreich/korneuburg/haus-beim-badeteich-bisamberg-zu-verkaufen-897089291/",
+          "serviceName": "iad"
+        },
+        {
+          "id": "iadShareLink",
+          "description": "Share link in iAd",
+          "uri": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/korneuburg/haus-beim-badeteich-bisamberg-zu-verkaufen-897089291/",
+          "selected": false,
+          "relativePath": "/iad/immobilien/d/haus-kaufen/niederoesterreich/korneuburg/haus-beim-badeteich-bisamberg-zu-verkaufen-897089291/",
+          "serviceName": "web_url"
+        },
+        {
+          "id": "callTrackingLink",
+          "description": "Link to log an call event",
+          "uri": "https://api.willhaben.at/restapi/v2/logevent/ad/897089291/call",
+          "selected": false,
+          "relativePath": "/logevent/ad/897089291/call",
+          "serviceName": "iad"
+        },
+        {
+          "id": "logEventVirtualViewLinkClicked",
+          "description": "Event when 360 view is clicked",
+          "uri": "https://api.willhaben.at/restapi/v2/logevent/atz/897089291/virtual-tour-link-clicked",
+          "selected": false,
+          "relativePath": "/logevent/atz/897089291/virtual-tour-link-clicked",
+          "serviceName": "iad"
+        },
+        {
+          "id": "userProfileTrustSignals",
+          "description": "Trust Signals for the user profile",
+          "uri": "https://publicapi.willhaben.at/userprofile/trust-signals/24271560",
+          "selected": false,
+          "relativePath": "/trust-signals/24271560",
+          "serviceName": "userprofile"
+        },
+        {
+          "type": "similar-ads",
+          "displayText": "Ähnliche Objekte",
+          "id": "similarAdsRecommendationUrl",
+          "description": "Url to load the similar ads recommendations",
+          "uri": "https://ad-search.willhaben.at/restapi/v2/recommendation/search/897089291?onlyDealers=true&absoluteImageUrls=true&verticalId=2",
+          "selected": false,
+          "relativePath": "/recommendation/search/897089291?onlyDealers=true&absoluteImageUrls=true&verticalId=2",
+          "serviceName": "ad-search"
+        },
+        {
+          "id": "similarListingsRecommendationUrl",
+          "description": "Ãhnliche Anzeigen",
+          "uri": "https://ad-search.willhaben.at/restapi/v2/similar-listings/search?similarToLat=48.36454&similarToLon=16.432753",
+          "selected": false,
+          "relativePath": "/similar-listings/search?similarToLat=48.36454&similarToLon=16.432753",
+          "serviceName": "ad-search"
+        },
+        {
+          "id": "logEventAdShared",
+          "description": "Event when ad is shared",
+          "uri": "https://api.willhaben.at/restapi/v2/logevent/atz/897089291/ad-shared",
+          "selected": false,
+          "relativePath": "/logevent/atz/897089291/ad-shared",
+          "serviceName": "iad"
+        },
+        {
+          "id": "logEventVirtualViewLinkClicked",
+          "description": "Event when 360Â° view is clicked",
+          "uri": "https://api.willhaben.at/restapi/v2/logevent/atz/897089291/virtual-tour-link-clicked",
+          "selected": false,
+          "relativePath": "/logevent/atz/897089291/virtual-tour-link-clicked",
+          "serviceName": "iad"
+        }
+      ]
+    },
+    "taggingData": {
+      "taggingNames": {
+        "nameValuePair": [
+          {
+            "name": "oewaMweb",
+            "value": "Service/Rubrikenmaerkte/Immobilienmarkt/moewa/Haus_zu_verkaufen/${page}/Niederoesterreich"
+          },
+          {
+            "name": "oewa",
+            "value": "Service/Rubrikenmaerkte/Immobilienmarkt/Haus_zu_verkaufen/${page}/Niederoesterreich"
+          },
+          {
+            "name": "xiti_SCV",
+            "value": "&x1=2&x2=1&x3=9991&x5=3&x6=897089291&x8=2"
+          },
+          {
+            "name": "googleAdContentUrl",
+            "value": "https://www.willhaben.at/iad/object?adId=897089291"
+          }
+        ]
+      },
+      "tmsDataValues": {
+        "tmsData": {
+          "is_private": "false",
+          "rooms": "2",
+          "ad_type": "Immobilie zum Kauf",
+          "page_type": "Ad_View",
+          "region_level_label_1": "Austria",
+          "vertical_id": "2",
+          "vertical": "Immobilien",
+          "source": "ResponsiveWeb",
+          "ad_title": "Haus beim Badeteich Bisamberg zu verkaufen",
+          "category_tree_id": "7275",
+          "num_pictures": "12",
+          "category_level_1": "Häuser zu kaufen",
+          "region_level_id_2": "3",
+          "region_level_id_3": "312",
+          "seller_name": "Refugium Vermietung- VerpachtungsgmbH",
+          "region_level_id_1": "-141",
+          "price": "69000",
+          "product_id": "223",
+          "seller_uuid": "8120080f-5a8a-4be5-9cea-5f9510511703",
+          "region_level_2": "Niederösterreich",
+          "region_level_3": "Korneuburg",
+          "property_type": "1",
+          "seller_id": "1001696",
+          "region_level_1": "AT",
+          "ad_type_id": "1",
+          "category_level_id_1": "102",
+          "exact_price": "69000.0",
+          "ad_id": "897089291",
+          "plot_area": "127",
+          "property_type_val": "Einfamilienhaus",
+          "post_code": "2102",
+          "event_name": "adview",
+          "living_area": "42",
+          "energy_class": "F",
+          "publish_date": "2026-10-06T09:12:00.000Z"
+        }
+      },
+      "pulseData": {
+        "pulseEvents": [
+          {
+            "type": "CLASSIFIEDAD",
+            "id": 897089291,
+            "contentId": 897089291,
+            "adId": 897089291,
+            "name": "Haus beim Badeteich Bisamberg zu verkaufen",
+            "adType": "sell",
+            "publisherType": "pro",
+            "currency": "EUR",
+            "location": {
+              "postalCode": "2102",
+              "addressLocality": "Korneuburg",
+              "addressRegion": "Niederösterreich",
+              "addressCountry": "AT"
+            },
+            "price": "69000.0",
+            "priceAsNumber": 69000,
+            "category": "RealEstate > Haus",
+            "publisherUuid": "8120080f-5a8a-4be5-9cea-5f9510511703",
+            "categories": [
+              {
+                "type": "MarketplaceCategory",
+                "localId": "sdrn:willhabenat:category:realestate:7275",
+                "localName": "Haus",
+                "level": 1,
+                "name": "Haus"
+              },
+              {
+                "type": "MarketplaceCategory",
+                "localId": "sdrn:willhabenat:category:realestate:7274",
+                "localName": "RealEstate",
+                "level": 0,
+                "name": "RealEstate"
+              }
+            ],
+            "publisher": {
+              "id": "sdrn:willhabenat:user:8120080f-5a8a-4be5-9cea-5f9510511703",
+              "accountId": "8120080f-5a8a-4be5-9cea-5f9510511703",
+              "type": "Account"
+            },
+            "adUuid": "565d0461-9b70-4433-a75c-b34e9d305250"
+          },
+          {
+            "type": "PHONECONTACT",
+            "id": 897089291,
+            "name": "Refugium GmbH",
+            "telephone": null
+          }
+        ]
+      },
+      "neustarTaggingData": {
+        "mainCategory": "houses",
+        "vertical": "real-estate",
+        "device": "mobile"
+      },
+      "segmentData": {
+        "ad_page_viewed": {
+          "event_name": "estate_ad_page_viewed",
+          "event_version": 2,
+          "properties": {
+            "ad_id": "565d0461-9b70-4433-a75c-b34e9d305250",
+            "legacy_ad_id": 897089291,
+            "vertical": "estate",
+            "site_area": "estate",
+            "event_type": "page_view",
+            "page_name": "ad_page",
+            "ad_title": "Haus beim Badeteich Bisamberg zu verkaufen",
+            "publication_date": "2026-10-06T07:12:00.000Z",
+            "publisher_type": "professional",
+            "region_name": "Niederösterreich",
+            "ad_price": 69000,
+            "currency": "EUR",
+            "property_listing_type": "buy",
+            "property_listing_type_id": "1",
+            "property_type": "Einfamilienhaus",
+            "property_type_id": "1"
+          }
+        },
+        "revealnumber_clicked": {
+          "event_name": "estate_revealnumber_clicked",
+          "event_version": 2,
+          "properties": {
+            "ad_id": "565d0461-9b70-4433-a75c-b34e9d305250",
+            "legacy_ad_id": 897089291,
+            "vertical": "estate",
+            "site_area": "estate",
+            "event_type": "click",
+            "ad_title": "Haus beim Badeteich Bisamberg zu verkaufen",
+            "publication_date": "2026-10-06T07:12:00.000Z",
+            "publisher_type": "professional",
+            "region_name": "Niederösterreich",
+            "ad_price": 69000,
+            "currency": "EUR",
+            "property_listing_type": "buy",
+            "property_listing_type_id": "1",
+            "property_type": "Einfamilienhaus",
+            "property_type_id": "1",
+            "number_rooms": 2,
+            "living_area": 42,
+            "plot_size": 127,
+            "open_space": "Terrasse,Garten",
+            "availability": "sofort"
+          }
+        },
+        "callphone_clicked": {
+          "event_name": "estate_callphone_clicked",
+          "event_version": 2,
+          "properties": {
+            "ad_id": "565d0461-9b70-4433-a75c-b34e9d305250",
+            "legacy_ad_id": 897089291,
+            "vertical": "estate",
+            "site_area": "estate",
+            "event_type": "click",
+            "ad_title": "Haus beim Badeteich Bisamberg zu verkaufen",
+            "publication_date": "2026-10-06T07:12:00.000Z",
+            "publisher_type": "professional",
+            "region_name": "Niederösterreich",
+            "ad_price": 69000,
+            "currency": "EUR",
+            "property_listing_type": "buy",
+            "property_listing_type_id": "1",
+            "property_type": "Einfamilienhaus",
+            "property_type_id": "1",
+            "number_rooms": 2,
+            "living_area": 42,
+            "plot_size": 127,
+            "open_space": "Terrasse,Garten",
+            "availability": "sofort"
+          }
+        },
+        "externallink_clicked": {
+          "event_name": "estate_externallink_clicked_mock",
+          "event_version": 1,
+          "properties": {}
+        },
+        "message_sent": {
+          "event_name": "estate_message_sent",
+          "event_version": 1,
+          "properties": {
+            "ad_id": "565d0461-9b70-4433-a75c-b34e9d305250",
+            "legacy_ad_id": 897089291,
+            "vertical": "estate",
+            "site_area": "estate",
+            "event_type": "click",
+            "ad_title": "Haus beim Badeteich Bisamberg zu verkaufen",
+            "publication_date": "2026-10-06T07:12:00.000Z",
+            "publisher_type": "professional",
+            "region_name": "Niederösterreich",
+            "ad_price": 69000,
+            "currency": "EUR",
+            "contact_medium": "email"
+          }
+        }
+      },
+      "qualtricsParameter": null
+    },
+    "advertisingParameters": {
+      "pagetype": [
+        "Anzeige"
+      ],
+      "rooms": [
+        "KeywordValue{value=2}"
+      ],
+      "adimageurl": [
+        "https://cache.willhaben.at/mmo/1/897/089/291_1424350069.jpg"
+      ],
+      "city": [
+        "Bisamberg"
+      ],
+      "propertytype": [
+        "Einfamilienhaus"
+      ],
+      "AdImage": [
+        "true"
+      ],
+      "description": [
+        "Das Haus befindet sich auf einem Baurechtsgrund mit ca 127m Der monatliche Baurechtszins betraegt EUR 529 Das Haus verfuegt ueber folgende Raeumlichkeiten Vorraum Wohnzimmer Kueche Badezimmer mit Dusche Schlafzimmer Das Haus befindet sich beim Badeteich Bisamberg in einer sehr ruhigen Wohngegend Saemtliche Nahversorger sind in wenigen Minuten zu erreichen"
+      ],
+      "vertical": [
+        "estate"
+      ],
+      "Objekttyp": [
+        "Einfamilienhaus"
+      ],
+      "contactname": [
+        "Refugium_GmbH"
+      ],
+      "Ausstattung": [
+        "Einbaukueche",
+        "Teilmoebliert_Moebliert",
+        "Abstellraum"
+      ],
+      "postcode_str": [
+        "2102"
+      ],
+      "price": [
+        "69000"
+      ],
+      "willhabencode": [
+        "897089291"
+      ],
+      "payliveryEnabled": [
+        "false"
+      ],
+      "Freiflaechen": [
+        "Terrasse",
+        "Garten"
+      ],
+      "state": [
+        "Niederoesterreich"
+      ],
+      "partnerid": [
+        "refugium"
+      ],
+      "Verfuegbarkeit": [
+        "ab_sofort"
+      ],
+      "ownagetype": [
+        "kaufen"
+      ],
+      "Besitzform": [
+        "Kauf"
+      ],
+      "orgaddresspostcode": [
+        "1210"
+      ],
+      "freeareas": [
+        "Terrasse",
+        "Garten"
+      ],
+      "area": [
+        "42"
+      ],
+      "address": [
+        "Badeteich"
+      ],
+      "heading": [
+        "Haus_beim_Badeteich_Bisamberg_zu_verkaufen"
+      ],
+      "preference": [
+        "Einbaukueche",
+        "Teilmoebliert_Moebliert",
+        "Abstellraum"
+      ],
+      "postcode": [
+        "KeywordValue{value=2102}"
+      ],
+      "pt1": [
+        "897089291"
+      ],
+      "energyhwbclass": [
+        "F"
+      ],
+      "orgid": [
+        "1001696"
+      ],
+      "pt5": [
+        "69000.0"
+      ],
+      "estate_level0": [
+        "Haus_kaufen"
+      ],
+      "plotarea": [
+        "127"
+      ],
+      "isAdSavedInFolder": [
+        "false"
+      ],
+      "district": [
+        "Korneuburg"
+      ],
+      "device": [
+        "desktop"
+      ],
+      "orgaddressstreet": [
+        "Mengergasse_5_15a"
+      ],
+      "dealer_2": [
+        "Haendler"
+      ]
+    },
+    "advertisingParametersV2": {
+      "pagetype": "Anzeige",
+      "adimageurl": "https://cache.willhaben.at/mmo/1/897/089/291_1424350069.jpg",
+      "city": [
+        "Bisamberg"
+      ],
+      "heading": "Haus_beim_Badeteich_Bisamberg_zu_verkaufen",
+      "propertytype": [
+        "Einfamilienhaus"
+      ],
+      "postcode": [
+        2102
+      ],
+      "vertical": "estate",
+      "orgid": 1001696,
+      "estate_level0": "Haus_kaufen",
+      "price": 69000,
+      "district": [
+        "Korneuburg"
+      ],
+      "state": [
+        "Niederoesterreich"
+      ],
+      "device": "desktop",
+      "dealer_2": [
+        "Haendler"
+      ]
+    },
+    "dmpParameters": {
+      "pagetype": "Anzeige",
+      "rooms": [
+        2
+      ],
+      "adimageurl": "https://cache.willhaben.at/mmo/1/897/089/291_1424350069.jpg",
+      "city": [
+        "Bisamberg"
+      ],
+      "propertytype": [
+        "Einfamilienhaus"
+      ],
+      "AdImage": true,
+      "description": "Das Haus befindet sich auf einem Baurechtsgrund mit ca 127m Der monatliche Baurechtszins betraegt EUR 529 Das Haus verfuegt ueber folgende Raeumlichkeiten Vorraum Wohnzimmer Kueche Badezimmer mit Dusche Schlafzimmer Das Haus befindet sich beim Badeteich Bisamberg in einer sehr ruhigen Wohngegend Saemtliche Nahversorger sind in wenigen Minuten zu erreichen",
+      "vertical": "estate",
+      "Objekttyp": [
+        "Einfamilienhaus"
+      ],
+      "contactname": "Refugium_GmbH",
+      "Ausstattung": [
+        "Einbaukueche",
+        "Teilmoebliert_Moebliert",
+        "Abstellraum"
+      ],
+      "postcode_str": [
+        "2102"
+      ],
+      "price": 69000,
+      "willhabencode": "897089291",
+      "payliveryEnabled": false,
+      "Freiflaechen": [
+        "Terrasse",
+        "Garten"
+      ],
+      "state": [
+        "Niederoesterreich"
+      ],
+      "partnerid": [
+        "refugium"
+      ],
+      "Verfuegbarkeit": [
+        "ab_sofort"
+      ],
+      "ownagetype": "kaufen",
+      "Besitzform": [
+        "Kauf"
+      ],
+      "orgaddresspostcode": 1210,
+      "freeareas": [
+        "Terrasse",
+        "Garten"
+      ],
+      "area": 42,
+      "address": "Badeteich",
+      "heading": "Haus_beim_Badeteich_Bisamberg_zu_verkaufen",
+      "preference": [
+        "Einbaukueche",
+        "Teilmoebliert_Moebliert",
+        "Abstellraum"
+      ],
+      "postcode": [
+        2102
+      ],
+      "pt1": "897089291",
+      "energyhwbclass": "F",
+      "orgid": 1001696,
+      "pt5": 69000,
+      "estate_level0": "Haus_kaufen",
+      "plotarea": 127,
+      "isAdSavedInFolder": false,
+      "district": [
+        "Korneuburg"
+      ],
+      "device": "desktop",
+      "orgaddressstreet": "Mengergasse_5_15a",
+      "dealer_2": [
+        "Haendler"
+      ]
+    },
+    "dmpUserIdentities": {},
+    "advertStatus": {
+      "id": "active",
+      "description": "aktiv",
+      "statusId": 50
+    },
+    "advertEditStatusActionsList": null,
+    "seoMetaData": {
+      "canonicalUrl": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/korneuburg/haus-beim-badeteich-bisamberg-zu-verkaufen-897089291/",
+      "alternateUrl": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/korneuburg/haus-beim-badeteich-bisamberg-zu-verkaufen-897089291/",
+      "title": "Haus beim Badeteich Bisamberg zu verkaufen, 42 m², € 69.000,-, (2102 Bisamberg) - willhaben",
+      "keywords": "Haus beim Badeteich Bisamberg zu verkaufen",
+      "description": "Haus beim Badeteich Bisamberg zu verkaufen. Wählen Sie aus 116.232 Angeboten. Immobilien suchen und finden auf willhaben.",
+      "orgId": null
+    },
+    "premiumServiceBoxListResponseDto": {
+      "totalCount": 3,
+      "items": [
+        {
+          "id": 5000085,
+          "widgetLogo": "https://cache.willhaben.at/campaigns-v2/psb_476e4ee6-a415-437b-9e22-4e8cad854379.png",
+          "widgetLogoAltText": "Uniqa Österreich Versicherungen AG",
+          "title": "Haushaltsversicherung",
+          "subtitle": "Versichern Sie Ihr Zuhause einfach online.",
+          "buttonText": "Online-Rabatt sichern",
+          "buttonLink": "https://secure.adnxs.com/clktrb?id=830131",
+          "legalHint": null,
+          "customerName": "Uniqa Österreich Versicherungen AG",
+          "customerIndustry": "UNKNOWN",
+          "countPixel": "https://secure.adnxs.com/imptr?id=79890&t=2&ts=1792940730&gdpr=1&gdpr_consent=${GDPR_CONSENT_STRING}"
+        },
+        {
+          "id": 5000100,
+          "widgetLogo": "https://cache.willhaben.at/campaigns-v2/psb_dc1b261b-7fbb-4a5e-bdb8-b1e1c51e2dba.png",
+          "widgetLogoAltText": "APOLLO Capital GmbH",
+          "title": "8% Zinsen ab EUR 100.000",
+          "subtitle": "Immobilienanleihe mit Besicherung im Grundbuch",
+          "buttonText": "Jetzt anfragen",
+          "buttonLink": "https://secure.adnxs.com/clktrb?id=831125",
+          "legalHint": null,
+          "customerName": "APOLLO Capital GmbH",
+          "customerIndustry": "FINANCIAL",
+          "countPixel": "https://secure.adnxs.com/imptr?id=80157&t=2&ts=1792940730&gdpr=1&gdpr_consent=${GDPR_CONSENT_STRING}"
+        },
+        {
+          "id": 39,
+          "widgetLogo": "https://cache.willhaben.at/campaigns-v2/psb_3004059a-301b-4e38-8b95-44f8cc4fd50c.png",
+          "widgetLogoAltText": "Mass Response Service GmbH",
+          "title": "spusu Internet für Zuhause",
+          "subtitle": "5G Internet ab 18,90Eur",
+          "buttonText": "Jetzt sichern!",
+          "buttonLink": "https://secure.adnxs.com/clktrb?id=827344",
+          "legalHint": null,
+          "customerName": "Mass Response Service GmbH",
+          "customerIndustry": "UNKNOWN",
+          "countPixel": "https://secure.adnxs.com/imptr?id=79214&t=2&ts=1792940730&gdpr=1&gdpr_consent=${GDPR_CONSENT_STRING}"
+        }
+      ]
+    },
+    "categoryTreeId": 7275,
+    "attributeInformation": [
+      {
+        "treeAttributeElement": {
+          "label": "Ausstattung",
+          "treeId": 5007431,
+          "code": "ESTATE_PREFERENCE",
+          "systemTags": [],
+          "sortOrder": 202
+        },
+        "values": [
+          {
+            "label": "Abstellraum",
+            "treeId": 5007435,
+            "code": "STOREROOM",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 0
+          },
+          {
+            "label": "Einbauküche",
+            "treeId": 5007438,
+            "code": "BUILTINKITCHEN",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 3
+          },
+          {
+            "label": "Teilmöbliert / Möbliert",
+            "treeId": 5007439,
+            "code": "ISFURNISHED",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 10
+          }
+        ]
+      },
+      {
+        "treeAttributeElement": {
+          "label": "Verfügbarkeit",
+          "treeId": 5007469,
+          "code": "AVAILABLE_NOW",
+          "systemTags": [],
+          "sortOrder": 213
+        },
+        "values": [
+          {
+            "label": "ab sofort",
+            "treeId": 5007470,
+            "code": "AVAILABLENOW",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 0
+          }
+        ]
+      },
+      {
+        "treeAttributeElement": {
+          "label": "Freiflächen",
+          "treeId": 5007496,
+          "code": "FREE_AREA/FREE_AREA_TYPE",
+          "systemTags": [],
+          "sortOrder": 227
+        },
+        "values": [
+          {
+            "label": "Garten",
+            "treeId": 5007499,
+            "code": "GARDEN",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 2
+          },
+          {
+            "label": "Terrasse",
+            "treeId": 5007502,
+            "code": "TERRACE",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 5
+          }
+        ]
+      },
+      {
+        "treeAttributeElement": {
+          "label": "Besitzform",
+          "treeId": 5007356,
+          "code": "BESITZFORM",
+          "systemTags": [],
+          "sortOrder": 190
+        },
+        "values": [
+          {
+            "label": "Kauf",
+            "treeId": 5007357,
+            "code": "KAUF",
+            "systemTags": [
+              "ALWAYS_USE_PRIMARY_PARENT"
+            ],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 0
+          }
+        ]
+      },
+      {
+        "treeAttributeElement": {
+          "label": "Objekttyp",
+          "treeId": 5007362,
+          "code": "PROPERTY_TYPE",
+          "systemTags": [],
+          "sortOrder": 193
+        },
+        "values": [
+          {
+            "label": "Einfamilienhaus",
+            "treeId": 5007372,
+            "code": "DETACHED",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 9
+          }
+        ]
+      }
+    ],
+    "facebookTrackingData": {
+      "vertical": "Immobilien",
+      "category1": "Immobilien zu verkaufen",
+      "category2": "Einfamilienhaus"
+    },
+    "savedInFolder": false,
+    "chatEnabled": false,
+    "loginUUid": "f22d02c4-22c9-4e48-b043-a6ca8aa3da02",
+    "tooltips": [],
+    "categoryXmlCode": null,
+    "ownageTypeXmlCode": null,
+    "contactOption": {
+      "contactType": "EMAIL",
+      "additionalInfo": null
+    },
+    "breadcrumbs": [
+      {
+        "displayName": "Startseite",
+        "seoUrl": "https://www.willhaben.at/iad"
+      },
+      {
+        "displayName": "Immobilien",
+        "seoUrl": "https://www.willhaben.at/iad/immobilien/"
+      },
+      {
+        "displayName": "Haus kaufen",
+        "seoUrl": "https://www.willhaben.at/iad/immobilien/haus-kaufen/haus-angebote"
+      },
+      {
+        "displayName": "Niederösterreich",
+        "seoUrl": "https://www.willhaben.at/iad/immobilien/haus-kaufen/niederoesterreich/"
+      },
+      {
+        "displayName": "Korneuburg",
+        "seoUrl": "https://www.willhaben.at/iad/immobilien/haus-kaufen/niederoesterreich/korneuburg/"
+      }
+    ],
+    "inputSource": 23,
+    "equipmentList": {
+      "equipments": []
+    },
+    "contactSuggestions": {
+      "suggestions": [
+        {
+          "id": 5,
+          "sortOrder": 1,
+          "contactFormText": "Ist das Objekt noch verfügbar?"
+        },
+        {
+          "id": 6,
+          "sortOrder": 2,
+          "contactFormText": "Ist eine Besichtigung möglich?"
+        },
+        {
+          "id": 7,
+          "sortOrder": 3,
+          "contactFormText": "Bitte um Rückruf"
+        },
+        {
+          "id": 8,
+          "sortOrder": 4,
+          "contactFormText": "Bitte übermitteln Sie mir mehr Detailinformationen zum Objekt"
+        }
+      ]
+    },
+    "p2ppOptions": {
+      "deliveryOptions": [],
+      "parcelSizes": null,
+      "paymentOptions": null,
+      "sellerOnboardingDTO": null,
+      "howToPayLiveryDTO": null,
+      "buyNowInformationDto": null,
+      "payLiveryInactiveDTO": null,
+      "contextLinkList": null,
+      "attributes": null
+    },
+    "disposed": 0,
+    "publishInfo": null,
+    "upsellings": [
+      {
+        "type": "BUMPED",
+        "context": {
+          "iconPNG": "https://iad-asset.willhaben.at/img/upselling/icon-bump.png",
+          "iconSVG": "https://iad-asset.willhaben.at/img/upselling/icon-bump.svg"
+        }
+      }
+    ],
+    "deleteReason": null,
+    "teaserAttributes": [
+      {
+        "prefix": null,
+        "value": "42",
+        "postfix": "m²"
+      },
+      {
+        "prefix": null,
+        "value": "2",
+        "postfix": "Zimmer"
+      },
+      {
+        "prefix": null,
+        "value": "",
+        "postfix": "Einfamilienhaus"
+      }
+    ],
+    "loginId": 24271560
+  }
+}

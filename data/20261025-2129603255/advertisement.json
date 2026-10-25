@@ -1,0 +1,1314 @@
+{
+  "id": "2129603255",
+  "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/graz-umgebung/frau-2129603255/",
+  "search_url": "https://www.willhaben.at/iad/immobilien/haus-kaufen/haus-angebote?isNavigation=true&areaId=1&areaId=2&areaId=3&areaId=4&areaId=5&areaId=6&areaId=7&areaId=8&areaId=900&PRICE_TO=100000",
+  "found_utc": "2026-10-25T15:00:01Z",
+  "images": [
+    "001.jpg",
+    "002.jpg",
+    "003.jpg",
+    "004.jpg",
+    "005.jpg",
+    "006.jpg",
+    "007.jpg"
+  ],
+  "attributes": {
+    "DESCRIPTION": [
+      "Haus zu verkaufen Privat renovierungsbedürftig Gute Lage Gute Infrastruktur Schule Kindergarten Volks und Hauptschule apotheke Ärzte lidl eurospar hofer billa peny biba"
+    ],
+    "ESTATE_SIZE/LIVING_AREA": [
+      "150"
+    ],
+    "RESULT_LIST_TOPAD": [
+      "topad_result"
+    ],
+    "PROPERTY_TYPE": [
+      "Doppelhaushälfte"
+    ],
+    "NO_OF_ROOMS": [
+      "7"
+    ],
+    "PROPERTY_TYPE_FLAT": [
+      "false"
+    ],
+    "BUILDING_CONDITION": [
+      "Sanierungsbedürftig"
+    ],
+    "OWNAGETYPE": [
+      "Kauf"
+    ],
+    "PROPERTY_TYPE_HOUSE": [
+      "true"
+    ],
+    "ESTATE_PRICE/PRICE_SUGGESTION": [
+      "1"
+    ],
+    "PLOT/AREA": [
+      "1214"
+    ],
+    "PROPERTY_TYPE_ID": [
+      "15"
+    ],
+    "ESTATE_PRICE/PRICE_SUGGESTION_FOR_DISPLAY": [
+      "€ 1"
+    ],
+    "PRICE": [
+      "1"
+    ],
+    "PRICE_FOR_DISPLAY": [
+      "€ 1"
+    ],
+    "ESTATE_SIZE": [
+      "150"
+    ],
+    "AREA_ID": [
+      "114974"
+    ],
+    "REGION_AREA_ID": [
+      "606"
+    ],
+    "LOCATION/ADDRESS_1": [
+      "Trattenweg1"
+    ],
+    "LOCATION/ADDRESS_2": [
+      "Kalsdorf bei Graz"
+    ],
+    "LOCATION/ADDRESS_3": [
+      "Graz-Umgebung"
+    ],
+    "LOCATION/ADDRESS_4": [
+      "Steiermark"
+    ],
+    "COORDINATES": [
+      "46.95347,15.46972"
+    ],
+    "SHOW_MAP": [
+      "true"
+    ],
+    "SHOW_SHADOWMAP": [
+      "false"
+    ],
+    "ISPRIVATE": [
+      "1"
+    ],
+    "DEALER": [
+      "0"
+    ],
+    "ORG_TYPE": [
+      "2"
+    ],
+    "PRICE/SQUARE_METER": [
+      "0.006666667"
+    ],
+    "PRICE/SQUARE_METER_FOR_DISPLAY": [
+      "€ 0,01"
+    ],
+    "PRICE/SQUARE_METER_FOR_DISPLAY_WITH_UNIT": [
+      "€ 0,01/m²"
+    ]
+  },
+  "advert": {
+    "id": "2129603255",
+    "uuid": "01a1595b-25c1-7fb1-9ceb-fb75de8ccb35",
+    "verticalId": 2,
+    "adTypeId": 1,
+    "productId": 100,
+    "parentAdId": null,
+    "description": "Frau",
+    "startDate": "2026-10-20T14:48:28+0200",
+    "endDate": "2026-11-19T14:48:28+0100",
+    "publishedDate": "2026-10-20T14:50:29+0200",
+    "firstPublishedDate": "2026-10-20T14:50:29+0200",
+    "createdDate": "2026-10-20T14:48:28+0200",
+    "changedDate": "2026-10-22T17:59:31+0200",
+    "advertiserReferenceNumber": null,
+    "attributes": {
+      "attribute": [
+        {
+          "name": "DESCRIPTION",
+          "values": [
+            "Haus zu verkaufen Privat renovierungsbedürftig Gute Lage Gute Infrastruktur Schule Kindergarten Volks und Hauptschule apotheke Ärzte lidl eurospar hofer billa peny biba"
+          ]
+        },
+        {
+          "name": "ESTATE_SIZE/LIVING_AREA",
+          "values": [
+            "150"
+          ]
+        },
+        {
+          "name": "RESULT_LIST_TOPAD",
+          "values": [
+            "topad_result"
+          ]
+        },
+        {
+          "name": "PROPERTY_TYPE",
+          "values": [
+            "Doppelhaushälfte"
+          ]
+        },
+        {
+          "name": "NO_OF_ROOMS",
+          "values": [
+            "7"
+          ]
+        },
+        {
+          "name": "PROPERTY_TYPE_FLAT",
+          "values": [
+            "false"
+          ]
+        },
+        {
+          "name": "BUILDING_CONDITION",
+          "values": [
+            "Sanierungsbedürftig"
+          ]
+        },
+        {
+          "name": "OWNAGETYPE",
+          "values": [
+            "Kauf"
+          ]
+        },
+        {
+          "name": "PROPERTY_TYPE_HOUSE",
+          "values": [
+            "true"
+          ]
+        },
+        {
+          "name": "ESTATE_PRICE/PRICE_SUGGESTION",
+          "values": [
+            "1"
+          ]
+        },
+        {
+          "name": "PLOT/AREA",
+          "values": [
+            "1214"
+          ]
+        },
+        {
+          "name": "PROPERTY_TYPE_ID",
+          "values": [
+            "15"
+          ]
+        },
+        {
+          "name": "ESTATE_PRICE/PRICE_SUGGESTION_FOR_DISPLAY",
+          "values": [
+            "€ 1"
+          ]
+        },
+        {
+          "name": "PRICE",
+          "values": [
+            "1"
+          ]
+        },
+        {
+          "name": "PRICE_FOR_DISPLAY",
+          "values": [
+            "€ 1"
+          ]
+        },
+        {
+          "name": "ESTATE_SIZE",
+          "values": [
+            "150"
+          ]
+        },
+        {
+          "name": "AREA_ID",
+          "values": [
+            "114974"
+          ]
+        },
+        {
+          "name": "REGION_AREA_ID",
+          "values": [
+            "606"
+          ]
+        },
+        {
+          "name": "LOCATION/ADDRESS_1",
+          "values": [
+            "Trattenweg1"
+          ]
+        },
+        {
+          "name": "LOCATION/ADDRESS_2",
+          "values": [
+            "Kalsdorf bei Graz"
+          ]
+        },
+        {
+          "name": "LOCATION/ADDRESS_3",
+          "values": [
+            "Graz-Umgebung"
+          ]
+        },
+        {
+          "name": "LOCATION/ADDRESS_4",
+          "values": [
+            "Steiermark"
+          ]
+        },
+        {
+          "name": "COORDINATES",
+          "values": [
+            "46.95347,15.46972"
+          ]
+        },
+        {
+          "name": "SHOW_MAP",
+          "values": [
+            "true"
+          ]
+        },
+        {
+          "name": "SHOW_SHADOWMAP",
+          "values": [
+            "false"
+          ]
+        },
+        {
+          "name": "ISPRIVATE",
+          "values": [
+            "1"
+          ]
+        },
+        {
+          "name": "DEALER",
+          "values": [
+            "0"
+          ]
+        },
+        {
+          "name": "ORG_TYPE",
+          "values": [
+            "2"
+          ]
+        },
+        {
+          "name": "PRICE/SQUARE_METER",
+          "values": [
+            "0.006666667"
+          ]
+        },
+        {
+          "name": "PRICE/SQUARE_METER_FOR_DISPLAY",
+          "values": [
+            "€ 0,01"
+          ]
+        },
+        {
+          "name": "PRICE/SQUARE_METER_FOR_DISPLAY_WITH_UNIT",
+          "values": [
+            "€ 0,01/m²"
+          ]
+        }
+      ]
+    },
+    "advertImageList": {
+      "advertImage": [
+        {
+          "id": 1,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/2129603255/1",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_-613535181_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_-613535181_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_-613535181.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "5/212/960/3255_-613535181.jpg"
+        },
+        {
+          "id": 2,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/2129603255/2",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_1690632847_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_1690632847_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_1690632847.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "5/212/960/3255_1690632847.jpg"
+        },
+        {
+          "id": 3,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/2129603255/3",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_55270606_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_55270606_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_55270606.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "5/212/960/3255_55270606.jpg"
+        },
+        {
+          "id": 4,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/2129603255/4",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_375082821_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_375082821_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_375082821.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "5/212/960/3255_375082821.jpg"
+        },
+        {
+          "id": 5,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/2129603255/5",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_-1375036587_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_-1375036587_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_-1375036587.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "5/212/960/3255_-1375036587.jpg"
+        },
+        {
+          "id": 6,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/2129603255/6",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_-1841503976_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_-1841503976_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_-1841503976.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "5/212/960/3255_-1841503976.jpg"
+        },
+        {
+          "id": 7,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/2129603255/7",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_905177788_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_905177788_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/5/212/960/3255_905177788.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "5/212/960/3255_905177788.jpg"
+        }
+      ],
+      "floorPlans": []
+    },
+    "advertAttachmentList": {
+      "advertAttachment": []
+    },
+    "organisationDetails": {
+      "id": 24780699,
+      "uuid": "97dc9a8c-0214-4167-ab62-a6ca8aa3da02",
+      "partnerId": "mp_24780699",
+      "description": "Organisation details",
+      "organisationDetailLinkList": {
+        "contextLink": [
+          {
+            "id": "seller.profile",
+            "description": "24780699",
+            "uri": "https://ad-search.willhaben.at/restapi/v2/sellerprofile/24780699/2/profile",
+            "selected": false,
+            "relativePath": "/sellerprofile/24780699/2/profile",
+            "serviceName": "ad-search"
+          },
+          {
+            "id": "organisation.furtherAds",
+            "description": "24780699",
+            "uri": "https://ad-search.willhaben.at/restapi/v2/search/atz/2/401?orgId=24780699",
+            "selected": false,
+            "relativePath": "/search/atz/2/401?orgId=24780699",
+            "serviceName": "ad-search"
+          }
+        ]
+      },
+      "orgName": null,
+      "orgPhone": null,
+      "orgEmail": "",
+      "orgLogoUrl": null,
+      "addressLines": {
+        "value": []
+      },
+      "postCode": null,
+      "country": null,
+      "countryId": -141,
+      "openingHours": {
+        "openingHoursByGroup": []
+      }
+    },
+    "sellerProfileUserData": {
+      "name": "Gerti",
+      "registerDate": "2021-08-06T00:00:00+0200",
+      "location": null,
+      "street": "",
+      "district": null,
+      "orgUUID": null,
+      "pictureUrl": null,
+      "hasProfileImage": false,
+      "activeAdCount": 1,
+      "private": true
+    },
+    "advertAddressDetails": {
+      "addressLines": {
+        "value": [
+          "Trattenweg1",
+          "Kalsdorf bei Graz",
+          "Graz-Umgebung",
+          "Steiermark"
+        ]
+      },
+      "postCode": "8401",
+      "postalName": "Kalsdorf bei Graz",
+      "country": "Österreich",
+      "province": "Steiermark",
+      "district": "Graz-Umgebung",
+      "municipality": "Kalsdorf bei Graz"
+    },
+    "advertContactDetails": {
+      "contactDetail": [
+        {
+          "id": "address",
+          "contactDetailField": [
+            {
+              "id": "country",
+              "description": "Land",
+              "value": "Österreich"
+            },
+            {
+              "id": "postalName",
+              "description": "Adresse",
+              "value": "Kalsdorf bei Graz"
+            },
+            {
+              "id": "street",
+              "description": "Strasse",
+              "value": "Trattenweg1"
+            },
+            {
+              "id": "municipality",
+              "description": "Gemeinde",
+              "value": "Kalsdorf bei Graz"
+            },
+            {
+              "id": "postCode",
+              "description": "Postleitzahl",
+              "value": "8401"
+            },
+            {
+              "id": "state",
+              "description": "Bundesland",
+              "value": "Steiermark"
+            },
+            {
+              "id": "region",
+              "description": "Region",
+              "value": "Graz-Umgebung"
+            },
+            {
+              "id": "countryId",
+              "description": "Länderkennzahl",
+              "value": "-141"
+            }
+          ]
+        },
+        {
+          "id": "contactName",
+          "contactDetailField": [
+            {
+              "id": "contactName",
+              "description": "Name",
+              "value": "Gerti "
+            }
+          ]
+        },
+        {
+          "id": "contactFirstName",
+          "contactDetailField": [
+            {
+              "id": "contactFirstName",
+              "description": "Firstname",
+              "value": "Gerti"
+            }
+          ]
+        },
+        {
+          "id": "address_vcard",
+          "contactDetailField": []
+        },
+        {
+          "id": "address_location",
+          "contactDetailField": [
+            {
+              "id": "country",
+              "description": "Land",
+              "value": "Österreich"
+            },
+            {
+              "id": "postalName",
+              "description": "Adresse",
+              "value": "Kalsdorf bei Graz"
+            },
+            {
+              "id": "street",
+              "description": "Strasse",
+              "value": "Trattenweg1"
+            },
+            {
+              "id": "municipality",
+              "description": "Gemeinde",
+              "value": "Kalsdorf bei Graz"
+            },
+            {
+              "id": "postCode",
+              "description": "Postleitzahl",
+              "value": "8401"
+            },
+            {
+              "id": "state",
+              "description": "Bundesland",
+              "value": "Steiermark"
+            },
+            {
+              "id": "region",
+              "description": "Region",
+              "value": "Graz-Umgebung"
+            },
+            {
+              "id": "countryId",
+              "description": "Länderkennzahl",
+              "value": "-141"
+            }
+          ]
+        }
+      ]
+    },
+    "contextLinkList": {
+      "contextLink": [
+        {
+          "id": "selfLink",
+          "description": "Identifies this entity",
+          "uri": "https://api.willhaben.at/restapi/v2/atverz/2129603255",
+          "selected": false,
+          "relativePath": "/atverz/2129603255",
+          "serviceName": "iad"
+        },
+        {
+          "id": "iadAdvertLink",
+          "description": "Ad link in iAd",
+          "uri": "https://www.willhaben.at/iad/object?adId=2129603255",
+          "selected": false,
+          "relativePath": "/iad/object?adId=2129603255",
+          "serviceName": "web_url"
+        },
+        {
+          "id": "reportAd",
+          "description": "Report this ad",
+          "uri": "https://api.willhaben.at/restapi/v2/dsa/reportad/2129603255/reasons",
+          "selected": false,
+          "relativePath": "/dsa/reportad/2129603255/reasons",
+          "serviceName": "iad"
+        },
+        {
+          "id": "adDetailLink",
+          "description": "Self reference to advert via ad detail component",
+          "uri": "https://publicapi.willhaben.at/atdetail/v1/2129603255",
+          "selected": false,
+          "relativePath": "/2129603255",
+          "serviceName": "addetail"
+        },
+        {
+          "id": "canonicalLink",
+          "description": "The canonical URL",
+          "uri": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/graz-umgebung/frau-2129603255/",
+          "selected": false,
+          "relativePath": "/iad/immobilien/d/haus-kaufen/steiermark/graz-umgebung/frau-2129603255/",
+          "serviceName": "iad"
+        },
+        {
+          "id": "iadShareLink",
+          "description": "Share link in iAd",
+          "uri": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/graz-umgebung/frau-2129603255/",
+          "selected": false,
+          "relativePath": "/iad/immobilien/d/haus-kaufen/steiermark/graz-umgebung/frau-2129603255/",
+          "serviceName": "web_url"
+        },
+        {
+          "id": "callTrackingLink",
+          "description": "Link to log an call event",
+          "uri": "https://api.willhaben.at/restapi/v2/logevent/ad/2129603255/call",
+          "selected": false,
+          "relativePath": "/logevent/ad/2129603255/call",
+          "serviceName": "iad"
+        },
+        {
+          "id": "logEventVirtualViewLinkClicked",
+          "description": "Event when 360 view is clicked",
+          "uri": "https://api.willhaben.at/restapi/v2/logevent/atz/2129603255/virtual-tour-link-clicked",
+          "selected": false,
+          "relativePath": "/logevent/atz/2129603255/virtual-tour-link-clicked",
+          "serviceName": "iad"
+        },
+        {
+          "id": "userProfileTrustSignals",
+          "description": "Trust Signals for the user profile",
+          "uri": "https://publicapi.willhaben.at/userprofile/trust-signals/24780699",
+          "selected": false,
+          "relativePath": "/trust-signals/24780699",
+          "serviceName": "userprofile"
+        },
+        {
+          "type": "similar-ads",
+          "displayText": "Ähnliche Objekte",
+          "id": "similarAdsRecommendationUrl",
+          "description": "Url to load the similar ads recommendations",
+          "uri": "https://ad-search.willhaben.at/restapi/v2/recommendation/search/2129603255?onlyDealers=true&absoluteImageUrls=true&verticalId=2",
+          "selected": false,
+          "relativePath": "/recommendation/search/2129603255?onlyDealers=true&absoluteImageUrls=true&verticalId=2",
+          "serviceName": "ad-search"
+        },
+        {
+          "id": "similarListingsRecommendationUrl",
+          "description": "Ãhnliche Anzeigen",
+          "uri": "https://ad-search.willhaben.at/restapi/v2/similar-listings/search?similarToLat=46.95347&similarToLon=15.46972",
+          "selected": false,
+          "relativePath": "/similar-listings/search?similarToLat=46.95347&similarToLon=15.46972",
+          "serviceName": "ad-search"
+        },
+        {
+          "id": "logEventAdShared",
+          "description": "Event when ad is shared",
+          "uri": "https://api.willhaben.at/restapi/v2/logevent/atz/2129603255/ad-shared",
+          "selected": false,
+          "relativePath": "/logevent/atz/2129603255/ad-shared",
+          "serviceName": "iad"
+        },
+        {
+          "id": "logEventVirtualViewLinkClicked",
+          "description": "Event when 360Â° view is clicked",
+          "uri": "https://api.willhaben.at/restapi/v2/logevent/atz/2129603255/virtual-tour-link-clicked",
+          "selected": false,
+          "relativePath": "/logevent/atz/2129603255/virtual-tour-link-clicked",
+          "serviceName": "iad"
+        }
+      ]
+    },
+    "taggingData": {
+      "taggingNames": {
+        "nameValuePair": [
+          {
+            "name": "oewa",
+            "value": "Service/Rubrikenmaerkte/Immobilienmarkt/Haus_zu_verkaufen/${page}/Steiermark"
+          },
+          {
+            "name": "oewaMweb",
+            "value": "Service/Rubrikenmaerkte/Immobilienmarkt/moewa/Haus_zu_verkaufen/${page}/Steiermark"
+          },
+          {
+            "name": "xiti_SCV",
+            "value": "&x1=1&x2=1&x3=99915&x5=6&x6=2129603255&x8=2"
+          },
+          {
+            "name": "googleAdContentUrl",
+            "value": "https://www.willhaben.at/iad/object?adId=2129603255"
+          }
+        ]
+      },
+      "tmsDataValues": {
+        "tmsData": {
+          "is_private": "true",
+          "rooms": "7",
+          "ad_type": "Immobilie zum Kauf",
+          "page_type": "Ad_View",
+          "region_level_label_1": "Austria",
+          "vertical_id": "2",
+          "vertical": "Immobilien",
+          "source": "ResponsiveWeb",
+          "ad_title": "Frau",
+          "category_tree_id": "7275",
+          "num_pictures": "7",
+          "category_level_1": "Häuser zu kaufen",
+          "region_level_id_2": "6",
+          "region_level_id_3": "606",
+          "seller_name": "Gerti ",
+          "region_level_id_1": "-141",
+          "price": "1",
+          "product_id": "100",
+          "seller_uuid": "97dc9a8c-0214-4167-ab62-a6ca8aa3da02",
+          "region_level_2": "Steiermark",
+          "region_level_3": "Graz-Umgebung",
+          "property_type": "15",
+          "seller_id": "24780699",
+          "region_level_1": "AT",
+          "ad_type_id": "1",
+          "category_level_id_1": "102",
+          "exact_price": "1.0",
+          "ad_id": "2129603255",
+          "plot_area": "1214",
+          "property_type_val": "Doppelhaushälfte",
+          "post_code": "8401",
+          "event_name": "adview",
+          "living_area": "150",
+          "publish_date": "2026-10-20T14:50:29.757Z"
+        }
+      },
+      "pulseData": {
+        "pulseEvents": [
+          {
+            "type": "CLASSIFIEDAD",
+            "id": 2129603255,
+            "contentId": 2129603255,
+            "adId": 2129603255,
+            "name": "Frau",
+            "adType": "sell",
+            "publisherType": "private",
+            "currency": "EUR",
+            "location": {
+              "postalCode": "8401",
+              "addressLocality": "Graz-Umgebung",
+              "addressRegion": "Steiermark",
+              "addressCountry": "AT"
+            },
+            "price": "1.0",
+            "priceAsNumber": 1,
+            "category": "RealEstate > Haus",
+            "publisherUuid": "97dc9a8c-0214-4167-ab62-a6ca8aa3da02",
+            "categories": [
+              {
+                "type": "MarketplaceCategory",
+                "localId": "sdrn:willhabenat:category:realestate:7275",
+                "localName": "Haus",
+                "level": 1,
+                "name": "Haus"
+              },
+              {
+                "type": "MarketplaceCategory",
+                "localId": "sdrn:willhabenat:category:realestate:7274",
+                "localName": "RealEstate",
+                "level": 0,
+                "name": "RealEstate"
+              }
+            ],
+            "publisher": {
+              "id": "sdrn:willhabenat:user:97dc9a8c-0214-4167-ab62-a6ca8aa3da02",
+              "accountId": "97dc9a8c-0214-4167-ab62-a6ca8aa3da02",
+              "type": "Account"
+            },
+            "adUuid": "01a1595b-25c1-7fb1-9ceb-fb75de8ccb35"
+          },
+          {
+            "type": "PHONECONTACT",
+            "id": 2129603255,
+            "name": "Gerti ",
+            "telephone": null
+          }
+        ]
+      },
+      "neustarTaggingData": {
+        "mainCategory": "houses",
+        "vertical": "real-estate",
+        "device": "mobile"
+      },
+      "segmentData": {
+        "ad_page_viewed": {
+          "event_name": "estate_ad_page_viewed",
+          "event_version": 2,
+          "properties": {
+            "ad_id": "01a1595b-25c1-7fb1-9ceb-fb75de8ccb35",
+            "legacy_ad_id": 2129603255,
+            "vertical": "estate",
+            "site_area": "estate",
+            "event_type": "page_view",
+            "page_name": "ad_page",
+            "ad_title": "Frau",
+            "publication_date": "2026-10-20T12:50:29.757Z",
+            "publisher_type": "private",
+            "region_name": "Steiermark",
+            "ad_price": 1,
+            "currency": "EUR",
+            "property_listing_type": "buy",
+            "property_listing_type_id": "1",
+            "property_type": "Doppelhaushälfte",
+            "property_type_id": "15"
+          }
+        },
+        "revealnumber_clicked": {
+          "event_name": "estate_revealnumber_clicked",
+          "event_version": 2,
+          "properties": {
+            "ad_id": "01a1595b-25c1-7fb1-9ceb-fb75de8ccb35",
+            "legacy_ad_id": 2129603255,
+            "vertical": "estate",
+            "site_area": "estate",
+            "event_type": "click",
+            "ad_title": "Frau",
+            "publication_date": "2026-10-20T12:50:29.757Z",
+            "publisher_type": "private",
+            "region_name": "Steiermark",
+            "ad_price": 1,
+            "currency": "EUR",
+            "property_listing_type": "buy",
+            "property_listing_type_id": "1",
+            "property_type": "Doppelhaushälfte",
+            "property_type_id": "15",
+            "number_rooms": 7,
+            "living_area": 150,
+            "plot_size": 1214
+          }
+        },
+        "callphone_clicked": {
+          "event_name": "estate_callphone_clicked",
+          "event_version": 2,
+          "properties": {
+            "ad_id": "01a1595b-25c1-7fb1-9ceb-fb75de8ccb35",
+            "legacy_ad_id": 2129603255,
+            "vertical": "estate",
+            "site_area": "estate",
+            "event_type": "click",
+            "ad_title": "Frau",
+            "publication_date": "2026-10-20T12:50:29.757Z",
+            "publisher_type": "private",
+            "region_name": "Steiermark",
+            "ad_price": 1,
+            "currency": "EUR",
+            "property_listing_type": "buy",
+            "property_listing_type_id": "1",
+            "property_type": "Doppelhaushälfte",
+            "property_type_id": "15",
+            "number_rooms": 7,
+            "living_area": 150,
+            "plot_size": 1214
+          }
+        },
+        "externallink_clicked": {
+          "event_name": "estate_externallink_clicked_mock",
+          "event_version": 1,
+          "properties": {}
+        },
+        "message_sent": {
+          "event_name": "estate_message_sent",
+          "event_version": 1,
+          "properties": {
+            "ad_id": "01a1595b-25c1-7fb1-9ceb-fb75de8ccb35",
+            "legacy_ad_id": 2129603255,
+            "vertical": "estate",
+            "site_area": "estate",
+            "event_type": "click",
+            "ad_title": "Frau",
+            "publication_date": "2026-10-20T12:50:29.757Z",
+            "publisher_type": "private",
+            "region_name": "Steiermark",
+            "ad_price": 1,
+            "currency": "EUR",
+            "contact_medium": "message"
+          }
+        }
+      },
+      "qualtricsParameter": null
+    },
+    "advertisingParameters": {
+      "pagetype": [
+        "Anzeige"
+      ],
+      "rooms": [
+        "KeywordValue{value=7}"
+      ],
+      "adimageurl": [
+        "https://cache.willhaben.at/mmo/5/212/960/3255_-613535181.jpg"
+      ],
+      "city": [
+        "Kalsdorf_bei_Graz"
+      ],
+      "propertytype": [
+        "Doppelhaushaelfte"
+      ],
+      "AdImage": [
+        "true"
+      ],
+      "description": [
+        "Haus zu verkaufen Privat renovierungsbeduerftig Gute Lage Gute Infrastruktur Schule Kindergarten Volks und Hauptschule apotheke Aerzte lidl eurospar hofer billa peny biba"
+      ],
+      "vertical": [
+        "estate"
+      ],
+      "Objekttyp": [
+        "Doppelhaushaelfte"
+      ],
+      "postcode_str": [
+        "8401"
+      ],
+      "price": [
+        "1"
+      ],
+      "willhabencode": [
+        "2129603255"
+      ],
+      "payliveryEnabled": [
+        "false"
+      ],
+      "state": [
+        "Steiermark"
+      ],
+      "partnerid": [
+        "mp",
+        "24780699"
+      ],
+      "ownagetype": [
+        "kaufen"
+      ],
+      "Besitzform": [
+        "Kauf"
+      ],
+      "area": [
+        "150"
+      ],
+      "address": [
+        "Trattenweg1"
+      ],
+      "heading": [
+        "Frau"
+      ],
+      "postcode": [
+        "KeywordValue{value=8401}"
+      ],
+      "pt1": [
+        "2129603255"
+      ],
+      "orgid": [
+        "24780699"
+      ],
+      "pt5": [
+        "1.0"
+      ],
+      "estate_level0": [
+        "Haus_kaufen"
+      ],
+      "plotarea": [
+        "1214"
+      ],
+      "isAdSavedInFolder": [
+        "false"
+      ],
+      "district": [
+        "Graz_Umgebung"
+      ],
+      "Zustand": [
+        "Sanierungsbeduerftig"
+      ],
+      "device": [
+        "desktop"
+      ],
+      "dealer_2": [
+        "Privat"
+      ]
+    },
+    "advertisingParametersV2": {
+      "pagetype": "Anzeige",
+      "adimageurl": "https://cache.willhaben.at/mmo/5/212/960/3255_-613535181.jpg",
+      "city": [
+        "Kalsdorf_bei_Graz"
+      ],
+      "heading": "Frau",
+      "propertytype": [
+        "Doppelhaushaelfte"
+      ],
+      "postcode": [
+        8401
+      ],
+      "vertical": "estate",
+      "orgid": 24780699,
+      "estate_level0": "Haus_kaufen",
+      "price": 1,
+      "district": [
+        "Graz_Umgebung"
+      ],
+      "state": [
+        "Steiermark"
+      ],
+      "device": "desktop",
+      "dealer_2": [
+        "Privat"
+      ]
+    },
+    "dmpParameters": {
+      "pagetype": "Anzeige",
+      "rooms": [
+        7
+      ],
+      "adimageurl": "https://cache.willhaben.at/mmo/5/212/960/3255_-613535181.jpg",
+      "city": [
+        "Kalsdorf_bei_Graz"
+      ],
+      "propertytype": [
+        "Doppelhaushaelfte"
+      ],
+      "AdImage": true,
+      "description": "Haus zu verkaufen Privat renovierungsbeduerftig Gute Lage Gute Infrastruktur Schule Kindergarten Volks und Hauptschule apotheke Aerzte lidl eurospar hofer billa peny biba",
+      "vertical": "estate",
+      "Objekttyp": [
+        "Doppelhaushaelfte"
+      ],
+      "postcode_str": [
+        "8401"
+      ],
+      "price": 1,
+      "willhabencode": "2129603255",
+      "payliveryEnabled": false,
+      "state": [
+        "Steiermark"
+      ],
+      "partnerid": [
+        "mp",
+        "24780699"
+      ],
+      "ownagetype": "kaufen",
+      "Besitzform": [
+        "Kauf"
+      ],
+      "area": 150,
+      "address": "Trattenweg1",
+      "heading": "Frau",
+      "postcode": [
+        8401
+      ],
+      "pt1": "2129603255",
+      "orgid": 24780699,
+      "pt5": 1,
+      "estate_level0": "Haus_kaufen",
+      "plotarea": 1214,
+      "isAdSavedInFolder": false,
+      "district": [
+        "Graz_Umgebung"
+      ],
+      "Zustand": [
+        "Sanierungsbeduerftig"
+      ],
+      "device": "desktop",
+      "dealer_2": [
+        "Privat"
+      ]
+    },
+    "dmpUserIdentities": {},
+    "advertStatus": {
+      "id": "active",
+      "description": "aktiv",
+      "statusId": 50
+    },
+    "advertEditStatusActionsList": null,
+    "seoMetaData": {
+      "canonicalUrl": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/graz-umgebung/frau-2129603255/",
+      "alternateUrl": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/graz-umgebung/frau-2129603255/",
+      "title": "Frau, 150 m², € 1,-, (8401 Kalsdorf bei Graz) - willhaben",
+      "keywords": "Frau",
+      "description": "Frau. Wählen Sie aus 116.232 Angeboten. Immobilien suchen und finden auf willhaben.",
+      "orgId": null
+    },
+    "premiumServiceBoxListResponseDto": {
+      "totalCount": 3,
+      "items": [
+        {
+          "id": 5000168,
+          "widgetLogo": "https://cache.willhaben.at/campaigns-v2/psb_5113f6d0-25d8-468a-950c-13465310b08a.png",
+          "widgetLogoAltText": "CPI Europe AG",
+          "title": "Jetzt myhive entdecken",
+          "subtitle": "Flexible Büros, Coworking & Meetingräume.",
+          "buttonText": "Büro finden",
+          "buttonLink": "https://secure.adnxs.com/clktrb?id=831675",
+          "legalHint": null,
+          "customerName": "CPI Europe AG",
+          "customerIndustry": "OFFICE_SUPPLIES",
+          "countPixel": "https://secure.adnxs.com/imptr?id=80313&t=2&ts=1792940401&gdpr=1&gdpr_consent=${GDPR_CONSENT_STRING}"
+        },
+        {
+          "id": 5000085,
+          "widgetLogo": "https://cache.willhaben.at/campaigns-v2/psb_476e4ee6-a415-437b-9e22-4e8cad854379.png",
+          "widgetLogoAltText": "Uniqa Österreich Versicherungen AG",
+          "title": "Haushaltsversicherung",
+          "subtitle": "Versichern Sie Ihr Zuhause einfach online.",
+          "buttonText": "Online-Rabatt sichern",
+          "buttonLink": "https://secure.adnxs.com/clktrb?id=830131",
+          "legalHint": null,
+          "customerName": "Uniqa Österreich Versicherungen AG",
+          "customerIndustry": "UNKNOWN",
+          "countPixel": "https://secure.adnxs.com/imptr?id=79890&t=2&ts=1792940401&gdpr=1&gdpr_consent=${GDPR_CONSENT_STRING}"
+        },
+        {
+          "id": 39,
+          "widgetLogo": "https://cache.willhaben.at/campaigns-v2/psb_3004059a-301b-4e38-8b95-44f8cc4fd50c.png",
+          "widgetLogoAltText": "Mass Response Service GmbH",
+          "title": "spusu Internet für Zuhause",
+          "subtitle": "5G Internet ab 18,90Eur",
+          "buttonText": "Jetzt sichern!",
+          "buttonLink": "https://secure.adnxs.com/clktrb?id=827344",
+          "legalHint": null,
+          "customerName": "Mass Response Service GmbH",
+          "customerIndustry": "UNKNOWN",
+          "countPixel": "https://secure.adnxs.com/imptr?id=79214&t=2&ts=1792940401&gdpr=1&gdpr_consent=${GDPR_CONSENT_STRING}"
+        }
+      ]
+    },
+    "categoryTreeId": 7275,
+    "attributeInformation": [
+      {
+        "treeAttributeElement": {
+          "label": "Besitzform",
+          "treeId": 5007356,
+          "code": "BESITZFORM",
+          "systemTags": [],
+          "sortOrder": 190
+        },
+        "values": [
+          {
+            "label": "Kauf",
+            "treeId": 5007357,
+            "code": "KAUF",
+            "systemTags": [
+              "ALWAYS_USE_PRIMARY_PARENT"
+            ],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 0
+          }
+        ]
+      },
+      {
+        "treeAttributeElement": {
+          "label": "Objekttyp",
+          "treeId": 5007362,
+          "code": "PROPERTY_TYPE",
+          "systemTags": [],
+          "sortOrder": 193
+        },
+        "values": [
+          {
+            "label": "Doppelhaushälfte",
+            "treeId": 5007371,
+            "code": "SEMIDETACHED_HOUSE",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 8
+          }
+        ]
+      },
+      {
+        "treeAttributeElement": {
+          "label": "Zustand",
+          "treeId": 5007406,
+          "code": "BUILDING_CONDITION",
+          "systemTags": [],
+          "sortOrder": 195
+        },
+        "values": [
+          {
+            "label": "Sanierungsbedürftig",
+            "treeId": 5007411,
+            "code": "NEEDRENOVATION",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 4
+          }
+        ]
+      }
+    ],
+    "facebookTrackingData": {
+      "vertical": "Immobilien",
+      "category1": "Haus oder Wohnung zu verkaufen",
+      "category2": "Doppelhaushälfte"
+    },
+    "savedInFolder": false,
+    "chatEnabled": true,
+    "loginUUid": "97dc9a8c-0214-4167-ab62-a6ca8aa3da02",
+    "tooltips": [],
+    "categoryXmlCode": null,
+    "ownageTypeXmlCode": null,
+    "contactOption": {
+      "contactType": "MESSAGING",
+      "additionalInfo": null
+    },
+    "breadcrumbs": [
+      {
+        "displayName": "Startseite",
+        "seoUrl": "https://www.willhaben.at/iad"
+      },
+      {
+        "displayName": "Immobilien",
+        "seoUrl": "https://www.willhaben.at/iad/immobilien/"
+      },
+      {
+        "displayName": "Haus kaufen",
+        "seoUrl": "https://www.willhaben.at/iad/immobilien/haus-kaufen/haus-angebote"
+      },
+      {
+        "displayName": "Steiermark",
+        "seoUrl": "https://www.willhaben.at/iad/immobilien/haus-kaufen/steiermark/"
+      },
+      {
+        "displayName": "Graz-Umgebung",
+        "seoUrl": "https://www.willhaben.at/iad/immobilien/haus-kaufen/steiermark/graz-umgebung/"
+      }
+    ],
+    "inputSource": 12,
+    "equipmentList": {
+      "equipments": []
+    },
+    "contactSuggestions": {
+      "suggestions": [
+        {
+          "id": 5,
+          "sortOrder": 1,
+          "contactFormText": "Ist das Objekt noch verfügbar?"
+        },
+        {
+          "id": 6,
+          "sortOrder": 2,
+          "contactFormText": "Ist eine Besichtigung möglich?"
+        },
+        {
+          "id": 7,
+          "sortOrder": 3,
+          "contactFormText": "Bitte um Rückruf"
+        },
+        {
+          "id": 8,
+          "sortOrder": 4,
+          "contactFormText": "Bitte übermitteln Sie mir mehr Detailinformationen zum Objekt"
+        }
+      ]
+    },
+    "p2ppOptions": {
+      "deliveryOptions": [],
+      "parcelSizes": null,
+      "paymentOptions": null,
+      "sellerOnboardingDTO": null,
+      "howToPayLiveryDTO": null,
+      "buyNowInformationDto": null,
+      "payLiveryInactiveDTO": null,
+      "contextLinkList": null,
+      "attributes": null
+    },
+    "disposed": 0,
+    "publishInfo": null,
+    "upsellings": [
+      {
+        "type": "TOP_AD"
+      }
+    ],
+    "deleteReason": null,
+    "teaserAttributes": [
+      {
+        "prefix": null,
+        "value": "150",
+        "postfix": "m²"
+      },
+      {
+        "prefix": null,
+        "value": "7",
+        "postfix": "Zimmer"
+      },
+      {
+        "prefix": null,
+        "value": "",
+        "postfix": "Doppelhaushälfte"
+      }
+    ],
+    "loginId": 24780699
+  }
+}

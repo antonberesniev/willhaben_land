@@ -1,0 +1,1745 @@
+{
+  "id": "836436207",
+  "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/mattersburg/preisgesenkt-winterfestes-haus-am-see-836436207/",
+  "search_url": "https://www.willhaben.at/iad/immobilien/haus-kaufen/haus-angebote?isNavigation=true&areaId=1&areaId=2&areaId=3&areaId=4&areaId=5&areaId=6&areaId=7&areaId=8&areaId=900&PRICE_TO=100000",
+  "found_utc": "2026-10-25T15:02:05Z",
+  "images": [
+    "001.jpg",
+    "002.jpg",
+    "003.jpg",
+    "004.jpg",
+    "005.jpg",
+    "006.jpg",
+    "007.jpg",
+    "008.jpg",
+    "009.jpg",
+    "010.jpg",
+    "011.jpg",
+    "012.jpg",
+    "013.jpg",
+    "014.jpg",
+    "015.jpg",
+    "016.jpg",
+    "017.jpg"
+  ],
+  "attributes": {
+    "GENERAL_TEXT_ADVERT/Sonstiges": [
+      "<p>Pachtvertrag läuft 10 Jahre. </p><p>Kosten für den Pachtgtund:</p><p>Einmaliges Benützungsentgelt: 15.520 Euro </p><p>Jahrespacht: 4028 Euro </p><p>Kaution (3 Jahrespachten) 12.083 Euro </p><p><br></p>"
+    ],
+    "GENERAL_TEXT_ADVERT/Lage": [
+      "<p>Das Haus steht auf einem Pachtgrundstück am wunderschönen Römersee in einer sehr gepflegten und ruhigen Anlage.</p><p><br></p>"
+    ],
+    "DESCRIPTION": [
+      "<p>Wohnzimmer und Küche in einem.</p><p>Küche nicht im Preis inkludiert.</p><p>Laminat Böden  mit Fußbodenheizung.</p><p>Badezimmer mit Fliesen, Fußbodenheizung, Boiler und Handtuchtrockner.</p><p>2 st Infrarot Paneele</p><p>Fliegengitter und Rollläden sind inkludiert.</p><p>Arbeiten die noch anstehen werden gerne vom Bauherren gegen Aufpreis übernommen.</p>"
+    ],
+    "PRICE_REDUCTION_SET_DATE": [
+      "1757945053014"
+    ],
+    "CONTACT/COMPANYNAME": [
+      "Jumbohaus"
+    ],
+    "ENERGY_HWB": [
+      "68,4"
+    ],
+    "FLOOR_SURFACE": [
+      "Laminat"
+    ],
+    "BUILDING_CONDITION": [
+      "Erstbezug"
+    ],
+    "PROPERTY_TYPE_HOUSE": [
+      "true"
+    ],
+    "PLOT/AREA": [
+      "150"
+    ],
+    "ENERGY_HWB_CLASS": [
+      "C"
+    ],
+    "OLD_PRICE": [
+      "127000"
+    ],
+    "PROPERTY_TYPE_ID": [
+      "11"
+    ],
+    "BUILDING_TYPE": [
+      "Neubau"
+    ],
+    "ENERGY_FGEE_CLASS": [
+      "C"
+    ],
+    "ESTATE_SIZE/LIVING_AREA": [
+      "54"
+    ],
+    "ENERGY_FGEE": [
+      "1,38"
+    ],
+    "AVAILABLE_NOW": [
+      "ab sofort"
+    ],
+    "PROPERTY_TYPE": [
+      "Bungalow"
+    ],
+    "NO_OF_ROOMS": [
+      "2"
+    ],
+    "PROPERTY_TYPE_FLAT": [
+      "false"
+    ],
+    "HEATING": [
+      "Elektroheizung",
+      "Fußbodenheizung",
+      "Infrarotheizung"
+    ],
+    "CONTACT/PHONE": [
+      "06649732399"
+    ],
+    "OWNAGETYPE": [
+      "Kauf"
+    ],
+    "ESTATE_PRICE/PRICE_SUGGESTION": [
+      "89900"
+    ],
+    "FREE_AREA/FREE_AREA_TYPE": [
+      "Terrasse"
+    ],
+    "ESTATE_PRICE/PRICE_SUGGESTION_FOR_DISPLAY": [
+      "€ 89.900"
+    ],
+    "PRICE": [
+      "89900"
+    ],
+    "PRICE_FOR_DISPLAY": [
+      "€ 89.900"
+    ],
+    "ESTATE_SIZE": [
+      "54"
+    ],
+    "FREE_AREA/FREE_AREA_TYPE_AND_AREA": [
+      "Terrasse"
+    ],
+    "AREA_ID": [
+      "100136"
+    ],
+    "REGION_AREA_ID": [
+      "106"
+    ],
+    "LOCATION/ADDRESS_2": [
+      "Bad Sauerbrunn"
+    ],
+    "LOCATION/ADDRESS_3": [
+      "Mattersburg"
+    ],
+    "LOCATION/ADDRESS_4": [
+      "Burgenland"
+    ],
+    "SHOW_MAP": [
+      "false"
+    ],
+    "SHOW_SHADOWMAP": [
+      "false"
+    ],
+    "ISPRIVATE": [
+      "1"
+    ],
+    "DEALER": [
+      "0"
+    ],
+    "ORG_TYPE": [
+      "2"
+    ],
+    "PRICE/SQUARE_METER": [
+      "1664.8148"
+    ],
+    "PRICE/SQUARE_METER_FOR_DISPLAY": [
+      "€ 1.664,81"
+    ],
+    "PRICE/SQUARE_METER_FOR_DISPLAY_WITH_UNIT": [
+      "€ 1.664,81/m²"
+    ]
+  },
+  "advert": {
+    "id": "836436207",
+    "uuid": "01a14517-682a-7924-94eb-4663feb81367",
+    "verticalId": 2,
+    "adTypeId": 1,
+    "productId": 100,
+    "parentAdId": null,
+    "description": "Preisgesenkt! Winterfestes Haus am See",
+    "startDate": "2026-10-16T16:23:36+0200",
+    "endDate": "2026-11-15T16:23:36+0100",
+    "publishedDate": "2026-10-16T16:25:42+0200",
+    "firstPublishedDate": "2026-10-16T16:25:42+0200",
+    "createdDate": "2026-10-16T16:22:04+0200",
+    "changedDate": "2026-10-16T16:25:42+0200",
+    "advertiserReferenceNumber": null,
+    "attributes": {
+      "attribute": [
+        {
+          "name": "GENERAL_TEXT_ADVERT/Sonstiges",
+          "values": [
+            "<p>Pachtvertrag läuft 10 Jahre. </p><p>Kosten für den Pachtgtund:</p><p>Einmaliges Benützungsentgelt: 15.520 Euro </p><p>Jahrespacht: 4028 Euro </p><p>Kaution (3 Jahrespachten) 12.083 Euro </p><p><br></p>"
+          ]
+        },
+        {
+          "name": "GENERAL_TEXT_ADVERT/Lage",
+          "values": [
+            "<p>Das Haus steht auf einem Pachtgrundstück am wunderschönen Römersee in einer sehr gepflegten und ruhigen Anlage.</p><p><br></p>"
+          ]
+        },
+        {
+          "name": "DESCRIPTION",
+          "values": [
+            "<p>Wohnzimmer und Küche in einem.</p><p>Küche nicht im Preis inkludiert.</p><p>Laminat Böden  mit Fußbodenheizung.</p><p>Badezimmer mit Fliesen, Fußbodenheizung, Boiler und Handtuchtrockner.</p><p>2 st Infrarot Paneele</p><p>Fliegengitter und Rollläden sind inkludiert.</p><p>Arbeiten die noch anstehen werden gerne vom Bauherren gegen Aufpreis übernommen.</p>"
+          ]
+        },
+        {
+          "name": "PRICE_REDUCTION_SET_DATE",
+          "values": [
+            "1757945053014"
+          ]
+        },
+        {
+          "name": "CONTACT/COMPANYNAME",
+          "values": [
+            "Jumbohaus"
+          ]
+        },
+        {
+          "name": "ENERGY_HWB",
+          "values": [
+            "68,4"
+          ]
+        },
+        {
+          "name": "FLOOR_SURFACE",
+          "values": [
+            "Laminat"
+          ]
+        },
+        {
+          "name": "BUILDING_CONDITION",
+          "values": [
+            "Erstbezug"
+          ]
+        },
+        {
+          "name": "PROPERTY_TYPE_HOUSE",
+          "values": [
+            "true"
+          ]
+        },
+        {
+          "name": "PLOT/AREA",
+          "values": [
+            "150"
+          ]
+        },
+        {
+          "name": "ENERGY_HWB_CLASS",
+          "values": [
+            "C"
+          ]
+        },
+        {
+          "name": "OLD_PRICE",
+          "values": [
+            "127000"
+          ]
+        },
+        {
+          "name": "PROPERTY_TYPE_ID",
+          "values": [
+            "11"
+          ]
+        },
+        {
+          "name": "BUILDING_TYPE",
+          "values": [
+            "Neubau"
+          ]
+        },
+        {
+          "name": "ENERGY_FGEE_CLASS",
+          "values": [
+            "C"
+          ]
+        },
+        {
+          "name": "ESTATE_SIZE/LIVING_AREA",
+          "values": [
+            "54"
+          ]
+        },
+        {
+          "name": "ENERGY_FGEE",
+          "values": [
+            "1,38"
+          ]
+        },
+        {
+          "name": "AVAILABLE_NOW",
+          "values": [
+            "ab sofort"
+          ]
+        },
+        {
+          "name": "PROPERTY_TYPE",
+          "values": [
+            "Bungalow"
+          ]
+        },
+        {
+          "name": "NO_OF_ROOMS",
+          "values": [
+            "2"
+          ]
+        },
+        {
+          "name": "PROPERTY_TYPE_FLAT",
+          "values": [
+            "false"
+          ]
+        },
+        {
+          "name": "HEATING",
+          "values": [
+            "Elektroheizung",
+            "Fußbodenheizung",
+            "Infrarotheizung"
+          ]
+        },
+        {
+          "name": "CONTACT/PHONE",
+          "values": [
+            "06649732399"
+          ]
+        },
+        {
+          "name": "OWNAGETYPE",
+          "values": [
+            "Kauf"
+          ]
+        },
+        {
+          "name": "ESTATE_PRICE/PRICE_SUGGESTION",
+          "values": [
+            "89900"
+          ]
+        },
+        {
+          "name": "FREE_AREA/FREE_AREA_TYPE",
+          "values": [
+            "Terrasse"
+          ]
+        },
+        {
+          "name": "ESTATE_PRICE/PRICE_SUGGESTION_FOR_DISPLAY",
+          "values": [
+            "€ 89.900"
+          ]
+        },
+        {
+          "name": "PRICE",
+          "values": [
+            "89900"
+          ]
+        },
+        {
+          "name": "PRICE_FOR_DISPLAY",
+          "values": [
+            "€ 89.900"
+          ]
+        },
+        {
+          "name": "ESTATE_SIZE",
+          "values": [
+            "54"
+          ]
+        },
+        {
+          "name": "FREE_AREA/FREE_AREA_TYPE_AND_AREA",
+          "values": [
+            "Terrasse"
+          ]
+        },
+        {
+          "name": "AREA_ID",
+          "values": [
+            "100136"
+          ]
+        },
+        {
+          "name": "REGION_AREA_ID",
+          "values": [
+            "106"
+          ]
+        },
+        {
+          "name": "LOCATION/ADDRESS_2",
+          "values": [
+            "Bad Sauerbrunn"
+          ]
+        },
+        {
+          "name": "LOCATION/ADDRESS_3",
+          "values": [
+            "Mattersburg"
+          ]
+        },
+        {
+          "name": "LOCATION/ADDRESS_4",
+          "values": [
+            "Burgenland"
+          ]
+        },
+        {
+          "name": "SHOW_MAP",
+          "values": [
+            "false"
+          ]
+        },
+        {
+          "name": "SHOW_SHADOWMAP",
+          "values": [
+            "false"
+          ]
+        },
+        {
+          "name": "ISPRIVATE",
+          "values": [
+            "1"
+          ]
+        },
+        {
+          "name": "DEALER",
+          "values": [
+            "0"
+          ]
+        },
+        {
+          "name": "ORG_TYPE",
+          "values": [
+            "2"
+          ]
+        },
+        {
+          "name": "PRICE/SQUARE_METER",
+          "values": [
+            "1664.8148"
+          ]
+        },
+        {
+          "name": "PRICE/SQUARE_METER_FOR_DISPLAY",
+          "values": [
+            "€ 1.664,81"
+          ]
+        },
+        {
+          "name": "PRICE/SQUARE_METER_FOR_DISPLAY_WITH_UNIT",
+          "values": [
+            "€ 1.664,81/m²"
+          ]
+        }
+      ]
+    },
+    "advertImageList": {
+      "advertImage": [
+        {
+          "id": 1,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/1",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-2107836495_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-2107836495_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-2107836495.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_-2107836495.jpg"
+        },
+        {
+          "id": 2,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/2",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-758550354_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-758550354_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-758550354.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_-758550354.jpg"
+        },
+        {
+          "id": 3,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/3",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-1605526008_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-1605526008_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-1605526008.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_-1605526008.jpg"
+        },
+        {
+          "id": 4,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/4",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_127163054_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_127163054_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_127163054.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_127163054.jpg"
+        },
+        {
+          "id": 5,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/5",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-682475670_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-682475670_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-682475670.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_-682475670.jpg"
+        },
+        {
+          "id": 6,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/6",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-1506775354_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-1506775354_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-1506775354.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_-1506775354.jpg"
+        },
+        {
+          "id": 7,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/7",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_912539073_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_912539073_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_912539073.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_912539073.jpg"
+        },
+        {
+          "id": 8,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/8",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-411381501_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-411381501_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-411381501.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_-411381501.jpg"
+        },
+        {
+          "id": 9,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/9",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-54489374_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-54489374_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-54489374.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_-54489374.jpg"
+        },
+        {
+          "id": 10,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/10",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-1210836806_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-1210836806_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-1210836806.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_-1210836806.jpg"
+        },
+        {
+          "id": 11,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/11",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_1533728817_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_1533728817_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_1533728817.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_1533728817.jpg"
+        },
+        {
+          "id": 12,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/12",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-396729327_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-396729327_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-396729327.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_-396729327.jpg"
+        },
+        {
+          "id": 13,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/13",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_634842359_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_634842359_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_634842359.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_634842359.jpg"
+        },
+        {
+          "id": 14,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/14",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-338794089_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-338794089_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-338794089.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_-338794089.jpg"
+        },
+        {
+          "id": 15,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/15",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_842717531_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_842717531_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_842717531.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_842717531.jpg"
+        },
+        {
+          "id": 16,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/16",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-2140255960_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-2140255960_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-2140255960.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_-2140255960.jpg"
+        },
+        {
+          "id": 17,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/17",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_1129962446_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_1129962446_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_1129962446.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_1129962446.jpg"
+        }
+      ],
+      "floorPlans": [
+        {
+          "id": 18,
+          "name": null,
+          "selfLink": "https://api.willhaben.at/restapi/v2/atimage/836436207/18",
+          "description": null,
+          "mainImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-1268435032_hoved.jpg",
+          "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-1268435032_thumb.jpg",
+          "referenceImageUrl": "https://cache.willhaben.at/mmo/7/836/436/207_-1268435032.jpg",
+          "similarImageSearchUrl": null,
+          "reference": "7/836/436/207_-1268435032.jpg"
+        }
+      ]
+    },
+    "advertAttachmentList": {
+      "advertAttachment": []
+    },
+    "organisationDetails": {
+      "id": 31123432,
+      "uuid": "6c624b7a-65b6-4138-b69e-d339291853c7",
+      "partnerId": "mp_31123432",
+      "description": "Organisation details",
+      "organisationDetailLinkList": {
+        "contextLink": [
+          {
+            "id": "seller.profile",
+            "description": "31123432",
+            "uri": "https://ad-search.willhaben.at/restapi/v2/sellerprofile/31123432/2/profile",
+            "selected": false,
+            "relativePath": "/sellerprofile/31123432/2/profile",
+            "serviceName": "ad-search"
+          },
+          {
+            "id": "organisation.furtherAds",
+            "description": "31123432",
+            "uri": "https://ad-search.willhaben.at/restapi/v2/search/atz/2/401?orgId=31123432",
+            "selected": false,
+            "relativePath": "/search/atz/2/401?orgId=31123432",
+            "serviceName": "ad-search"
+          }
+        ]
+      },
+      "orgName": null,
+      "orgPhone": null,
+      "orgEmail": "",
+      "orgLogoUrl": null,
+      "addressLines": {
+        "value": []
+      },
+      "postCode": null,
+      "country": null,
+      "countryId": -141,
+      "openingHours": {
+        "openingHoursByGroup": []
+      }
+    },
+    "sellerProfileUserData": {
+      "name": "Ann",
+      "registerDate": "2022-02-17T00:00:00+0100",
+      "location": null,
+      "street": "",
+      "district": null,
+      "orgUUID": null,
+      "pictureUrl": null,
+      "hasProfileImage": false,
+      "activeAdCount": 1,
+      "private": true
+    },
+    "advertAddressDetails": {
+      "addressLines": {
+        "value": [
+          "Bad Sauerbrunn",
+          "Mattersburg",
+          "Burgenland"
+        ]
+      },
+      "postCode": "7202",
+      "postalName": "Bad Sauerbrunn",
+      "country": "Österreich",
+      "province": "Burgenland",
+      "district": "Mattersburg",
+      "municipality": "Bad Sauerbrunn"
+    },
+    "advertContactDetails": {
+      "contactDetail": [
+        {
+          "id": "address",
+          "contactDetailField": [
+            {
+              "id": "country",
+              "description": "Land",
+              "value": "Österreich"
+            },
+            {
+              "id": "postalName",
+              "description": "Adresse",
+              "value": "Bad Sauerbrunn"
+            },
+            {
+              "id": "municipality",
+              "description": "Gemeinde",
+              "value": "Bad Sauerbrunn"
+            },
+            {
+              "id": "postCode",
+              "description": "Postleitzahl",
+              "value": "7202"
+            },
+            {
+              "id": "state",
+              "description": "Bundesland",
+              "value": "Burgenland"
+            },
+            {
+              "id": "region",
+              "description": "Region",
+              "value": "Mattersburg"
+            },
+            {
+              "id": "countryId",
+              "description": "Länderkennzahl",
+              "value": "-141"
+            }
+          ]
+        },
+        {
+          "id": "contactName",
+          "contactDetailField": [
+            {
+              "id": "contactName",
+              "description": "Name",
+              "value": "Ann  "
+            }
+          ]
+        },
+        {
+          "id": "companyName",
+          "contactDetailField": [
+            {
+              "id": "companyName",
+              "description": "Firma",
+              "value": "Jumbohaus"
+            }
+          ]
+        },
+        {
+          "id": "contactFirstName",
+          "contactDetailField": [
+            {
+              "id": "contactFirstName",
+              "description": "Firstname",
+              "value": "Ann"
+            }
+          ]
+        },
+        {
+          "id": "address_vcard",
+          "contactDetailField": []
+        },
+        {
+          "id": "address_location",
+          "contactDetailField": [
+            {
+              "id": "country",
+              "description": "Land",
+              "value": "Österreich"
+            },
+            {
+              "id": "postalName",
+              "description": "Adresse",
+              "value": "Bad Sauerbrunn"
+            },
+            {
+              "id": "municipality",
+              "description": "Gemeinde",
+              "value": "Bad Sauerbrunn"
+            },
+            {
+              "id": "postCode",
+              "description": "Postleitzahl",
+              "value": "7202"
+            },
+            {
+              "id": "state",
+              "description": "Bundesland",
+              "value": "Burgenland"
+            },
+            {
+              "id": "region",
+              "description": "Region",
+              "value": "Mattersburg"
+            },
+            {
+              "id": "countryId",
+              "description": "Länderkennzahl",
+              "value": "-141"
+            }
+          ]
+        },
+        {
+          "id": "phoneNo",
+          "contactDetailField": [
+            {
+              "id": "phoneNo",
+              "description": "Telefon",
+              "value": "06649732399"
+            }
+          ]
+        }
+      ]
+    },
+    "contextLinkList": {
+      "contextLink": [
+        {
+          "id": "selfLink",
+          "description": "Identifies this entity",
+          "uri": "https://api.willhaben.at/restapi/v2/atverz/836436207",
+          "selected": false,
+          "relativePath": "/atverz/836436207",
+          "serviceName": "iad"
+        },
+        {
+          "id": "iadAdvertLink",
+          "description": "Ad link in iAd",
+          "uri": "https://www.willhaben.at/iad/object?adId=836436207",
+          "selected": false,
+          "relativePath": "/iad/object?adId=836436207",
+          "serviceName": "web_url"
+        },
+        {
+          "id": "reportAd",
+          "description": "Report this ad",
+          "uri": "https://api.willhaben.at/restapi/v2/dsa/reportad/836436207/reasons",
+          "selected": false,
+          "relativePath": "/dsa/reportad/836436207/reasons",
+          "serviceName": "iad"
+        },
+        {
+          "id": "adDetailLink",
+          "description": "Self reference to advert via ad detail component",
+          "uri": "https://publicapi.willhaben.at/atdetail/v1/836436207",
+          "selected": false,
+          "relativePath": "/836436207",
+          "serviceName": "addetail"
+        },
+        {
+          "id": "canonicalLink",
+          "description": "The canonical URL",
+          "uri": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/mattersburg/preisgesenkt-winterfestes-haus-am-see-836436207/",
+          "selected": false,
+          "relativePath": "/iad/immobilien/d/haus-kaufen/burgenland/mattersburg/preisgesenkt-winterfestes-haus-am-see-836436207/",
+          "serviceName": "iad"
+        },
+        {
+          "id": "iadShareLink",
+          "description": "Share link in iAd",
+          "uri": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/mattersburg/preisgesenkt-winterfestes-haus-am-see-836436207/",
+          "selected": false,
+          "relativePath": "/iad/immobilien/d/haus-kaufen/burgenland/mattersburg/preisgesenkt-winterfestes-haus-am-see-836436207/",
+          "serviceName": "web_url"
+        },
+        {
+          "id": "callTrackingLink",
+          "description": "Link to log an call event",
+          "uri": "https://api.willhaben.at/restapi/v2/logevent/ad/836436207/call",
+          "selected": false,
+          "relativePath": "/logevent/ad/836436207/call",
+          "serviceName": "iad"
+        },
+        {
+          "id": "logEventVirtualViewLinkClicked",
+          "description": "Event when 360 view is clicked",
+          "uri": "https://api.willhaben.at/restapi/v2/logevent/atz/836436207/virtual-tour-link-clicked",
+          "selected": false,
+          "relativePath": "/logevent/atz/836436207/virtual-tour-link-clicked",
+          "serviceName": "iad"
+        },
+        {
+          "id": "userProfileTrustSignals",
+          "description": "Trust Signals for the user profile",
+          "uri": "https://publicapi.willhaben.at/userprofile/trust-signals/31123432",
+          "selected": false,
+          "relativePath": "/trust-signals/31123432",
+          "serviceName": "userprofile"
+        },
+        {
+          "type": "similar-ads",
+          "displayText": "Ähnliche Objekte",
+          "id": "similarAdsRecommendationUrl",
+          "description": "Url to load the similar ads recommendations",
+          "uri": "https://ad-search.willhaben.at/restapi/v2/recommendation/search/836436207?onlyDealers=true&absoluteImageUrls=true&verticalId=2",
+          "selected": false,
+          "relativePath": "/recommendation/search/836436207?onlyDealers=true&absoluteImageUrls=true&verticalId=2",
+          "serviceName": "ad-search"
+        },
+        {
+          "id": "similarListingsRecommendationUrl",
+          "description": "Ãhnliche Anzeigen",
+          "uri": "https://ad-search.willhaben.at/restapi/v2/similar-listings/search?similarToLat=47.77563&similarToLon=16.32758",
+          "selected": false,
+          "relativePath": "/similar-listings/search?similarToLat=47.77563&similarToLon=16.32758",
+          "serviceName": "ad-search"
+        },
+        {
+          "id": "logEventAdShared",
+          "description": "Event when ad is shared",
+          "uri": "https://api.willhaben.at/restapi/v2/logevent/atz/836436207/ad-shared",
+          "selected": false,
+          "relativePath": "/logevent/atz/836436207/ad-shared",
+          "serviceName": "iad"
+        },
+        {
+          "id": "logEventVirtualViewLinkClicked",
+          "description": "Event when 360Â° view is clicked",
+          "uri": "https://api.willhaben.at/restapi/v2/logevent/atz/836436207/virtual-tour-link-clicked",
+          "selected": false,
+          "relativePath": "/logevent/atz/836436207/virtual-tour-link-clicked",
+          "serviceName": "iad"
+        }
+      ]
+    },
+    "taggingData": {
+      "taggingNames": {
+        "nameValuePair": [
+          {
+            "name": "oewa",
+            "value": "Service/Rubrikenmaerkte/Immobilienmarkt/Haus_zu_verkaufen/${page}/Burgenland"
+          },
+          {
+            "name": "oewaMweb",
+            "value": "Service/Rubrikenmaerkte/Immobilienmarkt/moewa/Haus_zu_verkaufen/${page}/Burgenland"
+          },
+          {
+            "name": "xiti_SCV",
+            "value": "&x1=1&x2=1&x3=99911&x5=1&x6=836436207&x8=2"
+          },
+          {
+            "name": "googleAdContentUrl",
+            "value": "https://www.willhaben.at/iad/object?adId=836436207"
+          }
+        ]
+      },
+      "tmsDataValues": {
+        "tmsData": {
+          "is_private": "true",
+          "rooms": "2",
+          "ad_type": "Immobilie zum Kauf",
+          "page_type": "Ad_View",
+          "region_level_label_1": "Austria",
+          "vertical_id": "2",
+          "vertical": "Immobilien",
+          "source": "ResponsiveWeb",
+          "ad_title": "Preisgesenkt! Winterfestes Haus am See",
+          "category_tree_id": "7275",
+          "num_pictures": "18",
+          "category_level_1": "Häuser zu kaufen",
+          "region_level_id_2": "1",
+          "region_level_id_3": "106",
+          "seller_name": "Jumbohaus",
+          "region_level_id_1": "-141",
+          "price": "89900",
+          "product_id": "100",
+          "seller_uuid": "6c624b7a-65b6-4138-b69e-d339291853c7",
+          "region_level_2": "Burgenland",
+          "region_level_3": "Mattersburg",
+          "property_type": "11",
+          "seller_id": "31123432",
+          "region_level_1": "AT",
+          "ad_type_id": "1",
+          "category_level_id_1": "102",
+          "exact_price": "89900.0",
+          "ad_id": "836436207",
+          "plot_area": "150",
+          "property_type_val": "Bungalow",
+          "post_code": "7202",
+          "event_name": "adview",
+          "living_area": "54",
+          "energy_class": "C",
+          "is_old": "Neubau",
+          "publish_date": "2026-10-16T16:25:42.709Z"
+        }
+      },
+      "pulseData": {
+        "pulseEvents": [
+          {
+            "type": "CLASSIFIEDAD",
+            "id": 836436207,
+            "contentId": 836436207,
+            "adId": 836436207,
+            "name": "Preisgesenkt! Winterfestes Haus am See",
+            "adType": "sell",
+            "publisherType": "private",
+            "currency": "EUR",
+            "location": {
+              "postalCode": "7202",
+              "addressLocality": "Mattersburg",
+              "addressRegion": "Burgenland",
+              "addressCountry": "AT"
+            },
+            "price": "89900.0",
+            "priceAsNumber": 89900,
+            "category": "RealEstate > Haus",
+            "publisherUuid": "6c624b7a-65b6-4138-b69e-d339291853c7",
+            "categories": [
+              {
+                "type": "MarketplaceCategory",
+                "localId": "sdrn:willhabenat:category:realestate:7275",
+                "localName": "Haus",
+                "level": 1,
+                "name": "Haus"
+              },
+              {
+                "type": "MarketplaceCategory",
+                "localId": "sdrn:willhabenat:category:realestate:7274",
+                "localName": "RealEstate",
+                "level": 0,
+                "name": "RealEstate"
+              }
+            ],
+            "publisher": {
+              "id": "sdrn:willhabenat:user:6c624b7a-65b6-4138-b69e-d339291853c7",
+              "accountId": "6c624b7a-65b6-4138-b69e-d339291853c7",
+              "type": "Account"
+            },
+            "adUuid": "01a14517-682a-7924-94eb-4663feb81367"
+          },
+          {
+            "type": "PHONECONTACT",
+            "id": 836436207,
+            "name": "Ann  ",
+            "telephone": null
+          }
+        ]
+      },
+      "neustarTaggingData": {
+        "mainCategory": "houses",
+        "vertical": "real-estate",
+        "device": "mobile"
+      },
+      "segmentData": {
+        "ad_page_viewed": {
+          "event_name": "estate_ad_page_viewed",
+          "event_version": 2,
+          "properties": {
+            "ad_id": "01a14517-682a-7924-94eb-4663feb81367",
+            "legacy_ad_id": 836436207,
+            "vertical": "estate",
+            "site_area": "estate",
+            "event_type": "page_view",
+            "page_name": "ad_page",
+            "ad_title": "Preisgesenkt! Winterfestes Haus am See",
+            "publication_date": "2026-10-16T14:25:42.709Z",
+            "publisher_type": "private",
+            "region_name": "Burgenland",
+            "ad_price": 89900,
+            "currency": "EUR",
+            "property_listing_type": "buy",
+            "property_listing_type_id": "1",
+            "property_type": "Bungalow",
+            "property_type_id": "11"
+          }
+        },
+        "revealnumber_clicked": {
+          "event_name": "estate_revealnumber_clicked",
+          "event_version": 2,
+          "properties": {
+            "ad_id": "01a14517-682a-7924-94eb-4663feb81367",
+            "legacy_ad_id": 836436207,
+            "vertical": "estate",
+            "site_area": "estate",
+            "event_type": "click",
+            "ad_title": "Preisgesenkt! Winterfestes Haus am See",
+            "publication_date": "2026-10-16T14:25:42.709Z",
+            "publisher_type": "private",
+            "region_name": "Burgenland",
+            "ad_price": 89900,
+            "currency": "EUR",
+            "property_listing_type": "buy",
+            "property_listing_type_id": "1",
+            "property_type": "Bungalow",
+            "property_type_id": "11",
+            "number_rooms": 2,
+            "living_area": 54,
+            "plot_size": 150,
+            "open_space": "Terrasse",
+            "availability": "sofort"
+          }
+        },
+        "callphone_clicked": {
+          "event_name": "estate_callphone_clicked",
+          "event_version": 2,
+          "properties": {
+            "ad_id": "01a14517-682a-7924-94eb-4663feb81367",
+            "legacy_ad_id": 836436207,
+            "vertical": "estate",
+            "site_area": "estate",
+            "event_type": "click",
+            "ad_title": "Preisgesenkt! Winterfestes Haus am See",
+            "publication_date": "2026-10-16T14:25:42.709Z",
+            "publisher_type": "private",
+            "region_name": "Burgenland",
+            "ad_price": 89900,
+            "currency": "EUR",
+            "property_listing_type": "buy",
+            "property_listing_type_id": "1",
+            "property_type": "Bungalow",
+            "property_type_id": "11",
+            "number_rooms": 2,
+            "living_area": 54,
+            "plot_size": 150,
+            "open_space": "Terrasse",
+            "availability": "sofort"
+          }
+        },
+        "externallink_clicked": {
+          "event_name": "estate_externallink_clicked_mock",
+          "event_version": 1,
+          "properties": {}
+        },
+        "message_sent": {
+          "event_name": "estate_message_sent",
+          "event_version": 1,
+          "properties": {
+            "ad_id": "01a14517-682a-7924-94eb-4663feb81367",
+            "legacy_ad_id": 836436207,
+            "vertical": "estate",
+            "site_area": "estate",
+            "event_type": "click",
+            "ad_title": "Preisgesenkt! Winterfestes Haus am See",
+            "publication_date": "2026-10-16T14:25:42.709Z",
+            "publisher_type": "private",
+            "region_name": "Burgenland",
+            "ad_price": 89900,
+            "currency": "EUR",
+            "contact_medium": "message"
+          }
+        }
+      },
+      "qualtricsParameter": null
+    },
+    "advertisingParameters": {
+      "pagetype": [
+        "Anzeige"
+      ],
+      "rooms": [
+        "KeywordValue{value=2}"
+      ],
+      "adimageurl": [
+        "https://cache.willhaben.at/mmo/7/836/436/207_-2107836495.jpg"
+      ],
+      "city": [
+        "Bad_Sauerbrunn"
+      ],
+      "propertytype": [
+        "Bungalow"
+      ],
+      "AdImage": [
+        "true"
+      ],
+      "description": [
+        "Wohnzimmer und Kueche in einem Kueche nicht im Preis inkludiert Laminat Boeden mit Fussbodenheizung Badezimmer mit Fliesen Fussbodenheizung Boiler und Handtuchtrockner 2 st Infrarot Paneele Fliegengitter und Rolllaeden sind inkludiert Arbeiten die noch anstehen werden gerne vom Bauherren gegen Aufpreis uebernommen Das Haus steht auf einem Pachtgrundstueck am wunderschoenen Roemersee in einer sehr gepflegten und ruhigen Anlage Pachtvertrag laeuft 10 Jahre Kosten fuer den Pachtgtund Einmaliges Benuetzungsentgelt 15 520 Euro Jahrespacht 4028 Euro Kaution 3 Jahrespachten 12 083 Euro"
+      ],
+      "vertical": [
+        "estate"
+      ],
+      "Objekttyp": [
+        "Bungalow"
+      ],
+      "postcode_str": [
+        "7202"
+      ],
+      "price": [
+        "89900"
+      ],
+      "willhabencode": [
+        "836436207"
+      ],
+      "payliveryEnabled": [
+        "false"
+      ],
+      "Freiflaechen": [
+        "Terrasse"
+      ],
+      "state": [
+        "Burgenland"
+      ],
+      "partnerid": [
+        "mp",
+        "31123432"
+      ],
+      "Verfuegbarkeit": [
+        "ab_sofort"
+      ],
+      "ownagetype": [
+        "kaufen"
+      ],
+      "Boeden": [
+        "Laminat"
+      ],
+      "Besitzform": [
+        "Kauf"
+      ],
+      "freeareas": [
+        "Terrasse"
+      ],
+      "area": [
+        "54"
+      ],
+      "heading": [
+        "Preisgesenkt_Winterfestes_Haus_am_See"
+      ],
+      "postcode": [
+        "KeywordValue{value=7202}"
+      ],
+      "pt1": [
+        "836436207"
+      ],
+      "energyhwbclass": [
+        "C"
+      ],
+      "orgid": [
+        "31123432"
+      ],
+      "pt5": [
+        "89900.0"
+      ],
+      "estate_level0": [
+        "Haus_kaufen"
+      ],
+      "plotarea": [
+        "150"
+      ],
+      "contactcompanyname": [
+        "Jumbohaus"
+      ],
+      "isAdSavedInFolder": [
+        "false"
+      ],
+      "district": [
+        "Mattersburg"
+      ],
+      "Bautyp": [
+        "Neubau"
+      ],
+      "Zustand": [
+        "Erstbezug"
+      ],
+      "energyfgeeclass": [
+        "C"
+      ],
+      "Heizung": [
+        "Infrarotheizung",
+        "Fussbodenheizung",
+        "Elektroheizung"
+      ],
+      "device": [
+        "desktop"
+      ],
+      "dealer_2": [
+        "Privat"
+      ]
+    },
+    "advertisingParametersV2": {
+      "pagetype": "Anzeige",
+      "adimageurl": "https://cache.willhaben.at/mmo/7/836/436/207_-2107836495.jpg",
+      "city": [
+        "Bad_Sauerbrunn"
+      ],
+      "heading": "Preisgesenkt_Winterfestes_Haus_am_See",
+      "propertytype": [
+        "Bungalow"
+      ],
+      "postcode": [
+        7202
+      ],
+      "vertical": "estate",
+      "orgid": 31123432,
+      "estate_level0": "Haus_kaufen",
+      "price": 89900,
+      "district": [
+        "Mattersburg"
+      ],
+      "Heizung": [
+        "Infrarotheizung",
+        "Fussbodenheizung",
+        "Elektroheizung"
+      ],
+      "state": [
+        "Burgenland"
+      ],
+      "device": "desktop",
+      "Boeden": [
+        "Laminat"
+      ],
+      "dealer_2": [
+        "Privat"
+      ]
+    },
+    "dmpParameters": {
+      "pagetype": "Anzeige",
+      "rooms": [
+        2
+      ],
+      "adimageurl": "https://cache.willhaben.at/mmo/7/836/436/207_-2107836495.jpg",
+      "city": [
+        "Bad_Sauerbrunn"
+      ],
+      "propertytype": [
+        "Bungalow"
+      ],
+      "AdImage": true,
+      "description": "Wohnzimmer und Kueche in einem Kueche nicht im Preis inkludiert Laminat Boeden mit Fussbodenheizung Badezimmer mit Fliesen Fussbodenheizung Boiler und Handtuchtrockner 2 st Infrarot Paneele Fliegengitter und Rolllaeden sind inkludiert Arbeiten die noch anstehen werden gerne vom Bauherren gegen Aufpreis uebernommen Das Haus steht auf einem Pachtgrundstueck am wunderschoenen Roemersee in einer sehr gepflegten und ruhigen Anlage Pachtvertrag laeuft 10 Jahre Kosten fuer den Pachtgtund Einmaliges Benuetzungsentgelt 15 520 Euro Jahrespacht 4028 Euro Kaution 3 Jahrespachten 12 083 Euro",
+      "vertical": "estate",
+      "Objekttyp": [
+        "Bungalow"
+      ],
+      "postcode_str": [
+        "7202"
+      ],
+      "price": 89900,
+      "willhabencode": "836436207",
+      "payliveryEnabled": false,
+      "Freiflaechen": [
+        "Terrasse"
+      ],
+      "state": [
+        "Burgenland"
+      ],
+      "partnerid": [
+        "mp",
+        "31123432"
+      ],
+      "Verfuegbarkeit": [
+        "ab_sofort"
+      ],
+      "ownagetype": "kaufen",
+      "Boeden": [
+        "Laminat"
+      ],
+      "Besitzform": [
+        "Kauf"
+      ],
+      "freeareas": [
+        "Terrasse"
+      ],
+      "area": 54,
+      "heading": "Preisgesenkt_Winterfestes_Haus_am_See",
+      "postcode": [
+        7202
+      ],
+      "pt1": "836436207",
+      "energyhwbclass": "C",
+      "orgid": 31123432,
+      "pt5": 89900,
+      "estate_level0": "Haus_kaufen",
+      "plotarea": 150,
+      "contactcompanyname": "Jumbohaus",
+      "isAdSavedInFolder": false,
+      "district": [
+        "Mattersburg"
+      ],
+      "Bautyp": [
+        "Neubau"
+      ],
+      "Zustand": [
+        "Erstbezug"
+      ],
+      "energyfgeeclass": "C",
+      "Heizung": [
+        "Infrarotheizung",
+        "Fussbodenheizung",
+        "Elektroheizung"
+      ],
+      "device": "desktop",
+      "dealer_2": [
+        "Privat"
+      ]
+    },
+    "dmpUserIdentities": {},
+    "advertStatus": {
+      "id": "active",
+      "description": "aktiv",
+      "statusId": 50
+    },
+    "advertEditStatusActionsList": null,
+    "seoMetaData": {
+      "canonicalUrl": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/mattersburg/preisgesenkt-winterfestes-haus-am-see-836436207/",
+      "alternateUrl": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/mattersburg/preisgesenkt-winterfestes-haus-am-see-836436207/",
+      "title": "Preisgesenkt! Winterfestes Haus am See, 54 m², € 89.900,-, (7202 Bad Sauerbrunn) - willhaben",
+      "keywords": "Preisgesenkt! Winterfestes Haus am See",
+      "description": "Preisgesenkt! Winterfestes Haus am See. Wählen Sie aus 116.232 Angeboten. Immobilien suchen und finden auf willhaben.",
+      "orgId": null
+    },
+    "premiumServiceBoxListResponseDto": {
+      "totalCount": 3,
+      "items": [
+        {
+          "id": 5000168,
+          "widgetLogo": "https://cache.willhaben.at/campaigns-v2/psb_5113f6d0-25d8-468a-950c-13465310b08a.png",
+          "widgetLogoAltText": "CPI Europe AG",
+          "title": "Jetzt myhive entdecken",
+          "subtitle": "Flexible Büros, Coworking & Meetingräume.",
+          "buttonText": "Büro finden",
+          "buttonLink": "https://secure.adnxs.com/clktrb?id=831675",
+          "legalHint": null,
+          "customerName": "CPI Europe AG",
+          "customerIndustry": "OFFICE_SUPPLIES",
+          "countPixel": "https://secure.adnxs.com/imptr?id=80313&t=2&ts=1792940524&gdpr=1&gdpr_consent=${GDPR_CONSENT_STRING}"
+        },
+        {
+          "id": 39,
+          "widgetLogo": "https://cache.willhaben.at/campaigns-v2/psb_3004059a-301b-4e38-8b95-44f8cc4fd50c.png",
+          "widgetLogoAltText": "Mass Response Service GmbH",
+          "title": "spusu Internet für Zuhause",
+          "subtitle": "5G Internet ab 18,90Eur",
+          "buttonText": "Jetzt sichern!",
+          "buttonLink": "https://secure.adnxs.com/clktrb?id=827344",
+          "legalHint": null,
+          "customerName": "Mass Response Service GmbH",
+          "customerIndustry": "UNKNOWN",
+          "countPixel": "https://secure.adnxs.com/imptr?id=79214&t=2&ts=1792940524&gdpr=1&gdpr_consent=${GDPR_CONSENT_STRING}"
+        },
+        {
+          "id": 5000100,
+          "widgetLogo": "https://cache.willhaben.at/campaigns-v2/psb_dc1b261b-7fbb-4a5e-bdb8-b1e1c51e2dba.png",
+          "widgetLogoAltText": "APOLLO Capital GmbH",
+          "title": "8% Zinsen ab EUR 100.000",
+          "subtitle": "Immobilienanleihe mit Besicherung im Grundbuch",
+          "buttonText": "Jetzt anfragen",
+          "buttonLink": "https://secure.adnxs.com/clktrb?id=831125",
+          "legalHint": null,
+          "customerName": "APOLLO Capital GmbH",
+          "customerIndustry": "FINANCIAL",
+          "countPixel": "https://secure.adnxs.com/imptr?id=80157&t=2&ts=1792940524&gdpr=1&gdpr_consent=${GDPR_CONSENT_STRING}"
+        }
+      ]
+    },
+    "categoryTreeId": 7275,
+    "attributeInformation": [
+      {
+        "treeAttributeElement": {
+          "label": "Zustand",
+          "treeId": 5007406,
+          "code": "BUILDING_CONDITION",
+          "systemTags": [],
+          "sortOrder": 195
+        },
+        "values": [
+          {
+            "label": "Erstbezug",
+            "treeId": 5007407,
+            "code": "FIRSTUSER",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 0
+          }
+        ]
+      },
+      {
+        "treeAttributeElement": {
+          "label": "Heizung",
+          "treeId": 5007448,
+          "code": "HEATING#",
+          "systemTags": [],
+          "sortOrder": 207
+        },
+        "values": [
+          {
+            "label": "Elektroheizung",
+            "treeId": 5007450,
+            "code": "ELECTRICHEATING",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 2
+          },
+          {
+            "label": "Fußbodenheizung",
+            "treeId": 5007454,
+            "code": "INFLOORHEATING",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 6
+          },
+          {
+            "label": "Infrarotheizung",
+            "treeId": 5013235,
+            "code": "INFRAROTHEIZUNG",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 11
+          }
+        ]
+      },
+      {
+        "treeAttributeElement": {
+          "label": "Verfügbarkeit",
+          "treeId": 5007469,
+          "code": "AVAILABLE_NOW",
+          "systemTags": [],
+          "sortOrder": 213
+        },
+        "values": [
+          {
+            "label": "ab sofort",
+            "treeId": 5007470,
+            "code": "AVAILABLENOW",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 0
+          }
+        ]
+      },
+      {
+        "treeAttributeElement": {
+          "label": "Freiflächen",
+          "treeId": 5007496,
+          "code": "FREE_AREA/FREE_AREA_TYPE",
+          "systemTags": [],
+          "sortOrder": 227
+        },
+        "values": [
+          {
+            "label": "Terrasse",
+            "treeId": 5007502,
+            "code": "TERRACE",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 5
+          }
+        ]
+      },
+      {
+        "treeAttributeElement": {
+          "label": "Besitzform",
+          "treeId": 5007356,
+          "code": "BESITZFORM",
+          "systemTags": [],
+          "sortOrder": 190
+        },
+        "values": [
+          {
+            "label": "Kauf",
+            "treeId": 5007357,
+            "code": "KAUF",
+            "systemTags": [
+              "ALWAYS_USE_PRIMARY_PARENT"
+            ],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 0
+          }
+        ]
+      },
+      {
+        "treeAttributeElement": {
+          "label": "Objekttyp",
+          "treeId": 5007362,
+          "code": "PROPERTY_TYPE",
+          "systemTags": [],
+          "sortOrder": 193
+        },
+        "values": [
+          {
+            "label": "Bungalow",
+            "treeId": 5007368,
+            "code": "BUNGALOW",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 5
+          }
+        ]
+      },
+      {
+        "treeAttributeElement": {
+          "label": "Bautyp",
+          "treeId": 5007412,
+          "code": "BUILDING_TYPE",
+          "systemTags": [],
+          "sortOrder": 196
+        },
+        "values": [
+          {
+            "label": "Neubau",
+            "treeId": 5007414,
+            "code": "NEW",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 1
+          }
+        ]
+      },
+      {
+        "treeAttributeElement": {
+          "label": "Böden",
+          "treeId": 5007473,
+          "code": "FLOOR_SURFACE",
+          "systemTags": [],
+          "sortOrder": 214
+        },
+        "values": [
+          {
+            "label": "Laminat",
+            "treeId": 5007477,
+            "code": "LAMINATE",
+            "systemTags": [],
+            "childrenDisplayType": "TEXT",
+            "sortOrder": 3
+          }
+        ]
+      }
+    ],
+    "facebookTrackingData": {
+      "vertical": "Immobilien",
+      "category1": "Haus oder Wohnung zu verkaufen",
+      "category2": "Bungalow"
+    },
+    "savedInFolder": false,
+    "chatEnabled": true,
+    "loginUUid": "6c624b7a-65b6-4138-b69e-d339291853c7",
+    "tooltips": [],
+    "categoryXmlCode": null,
+    "ownageTypeXmlCode": null,
+    "contactOption": {
+      "contactType": "MESSAGING",
+      "additionalInfo": null
+    },
+    "breadcrumbs": [
+      {
+        "displayName": "Startseite",
+        "seoUrl": "https://www.willhaben.at/iad"
+      },
+      {
+        "displayName": "Immobilien",
+        "seoUrl": "https://www.willhaben.at/iad/immobilien/"
+      },
+      {
+        "displayName": "Haus kaufen",
+        "seoUrl": "https://www.willhaben.at/iad/immobilien/haus-kaufen/haus-angebote"
+      },
+      {
+        "displayName": "Burgenland",
+        "seoUrl": "https://www.willhaben.at/iad/immobilien/haus-kaufen/burgenland/"
+      },
+      {
+        "displayName": "Mattersburg",
+        "seoUrl": "https://www.willhaben.at/iad/immobilien/haus-kaufen/burgenland/mattersburg/"
+      }
+    ],
+    "inputSource": 20,
+    "equipmentList": {
+      "equipments": []
+    },
+    "contactSuggestions": {
+      "suggestions": [
+        {
+          "id": 5,
+          "sortOrder": 1,
+          "contactFormText": "Ist das Objekt noch verfügbar?"
+        },
+        {
+          "id": 6,
+          "sortOrder": 2,
+          "contactFormText": "Ist eine Besichtigung möglich?"
+        },
+        {
+          "id": 7,
+          "sortOrder": 3,
+          "contactFormText": "Bitte um Rückruf"
+        },
+        {
+          "id": 8,
+          "sortOrder": 4,
+          "contactFormText": "Bitte übermitteln Sie mir mehr Detailinformationen zum Objekt"
+        }
+      ]
+    },
+    "p2ppOptions": {
+      "deliveryOptions": [],
+      "parcelSizes": null,
+      "paymentOptions": null,
+      "sellerOnboardingDTO": null,
+      "howToPayLiveryDTO": null,
+      "buyNowInformationDto": null,
+      "payLiveryInactiveDTO": null,
+      "contextLinkList": null,
+      "attributes": null
+    },
+    "disposed": 0,
+    "publishInfo": null,
+    "upsellings": [],
+    "deleteReason": null,
+    "teaserAttributes": [
+      {
+        "prefix": null,
+        "value": "54",
+        "postfix": "m²"
+      },
+      {
+        "prefix": null,
+        "value": "2",
+        "postfix": "Zimmer"
+      },
+      {
+        "prefix": null,
+        "value": "",
+        "postfix": "Bungalow"
+      }
+    ],
+    "loginId": 31123432
+  }
+}
