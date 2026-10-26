@@ -1606,10 +1606,10 @@
       "folder": "20261025-1989174200",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/eisenstadt/einzigartige-liegenschaft-in-top-lage-haus-mit-nebengebaeude-ca-780m-baugrund-idyllischer-obstgarten-ruheoase-privatsphaere-individuelle-wohn-business-und-nutzungsmoeglichkeiten-privatverkauf-1989174200/",
       "price_per_m2": 0.01,
-      "status": "removed",
+      "status": "active",
       "checked": false,
       "found_utc": "2026-10-25T15:02:48Z",
-      "status_changed_utc": "2026-10-26T07:33:54Z"
+      "status_changed_utc": "2026-10-26T15:03:41Z"
     },
     "1540717133": {
       "folder": "20261025-1540717133",
@@ -2492,6 +2492,15 @@
       "checked": false,
       "found_utc": "2026-10-26T13:46:27Z",
       "status_changed_utc": "2026-10-26T13:46:27Z"
+    },
+    "1328810182": {
+      "folder": "20261026-1328810182",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/zwettl/landwirtschaftliches-haus-1328810182/",
+      "price_per_m2": 1483.33,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-10-26T15:03:40Z",
+      "status_changed_utc": "2026-10-26T15:03:40Z"
     }
   }
 }
