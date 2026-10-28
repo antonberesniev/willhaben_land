@@ -652,10 +652,10 @@
       "folder": "20261025-1385665303",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/wiener-neustadt-land/einfamilienhaus-teilrenoviert-in-wiesmath-1385665303/",
       "price_per_m2": 1271.43,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:58:51Z",
-      "status_changed_utc": "2026-10-25T14:58:51Z"
+      "status_changed_utc": "2026-10-28T11:11:49Z"
     },
     "1000677806": {
       "folder": "20261025-1000677806",
@@ -2573,6 +2573,15 @@
       "checked": false,
       "found_utc": "2026-10-27T21:10:34Z",
       "status_changed_utc": "2026-10-27T21:10:34Z"
+    },
+    "1169413451": {
+      "folder": "20261028-1169413451",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/gaenserndorf/alte-mauern-neue-ideen-dein-projekt-in-droesing-482-m-grund-innenhof-nebengebaeude-1169413451/",
+      "price_per_m2": 431.03,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-10-28T11:11:48Z",
+      "status_changed_utc": "2026-10-28T11:11:48Z"
     }
   }
 }
