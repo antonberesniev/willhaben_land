@@ -1219,10 +1219,10 @@
       "folder": "20261025-847181785",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/hollabrunn/zwei-wege-ein-zuhause-sanierungsbeduerftiges-haus-mit-grossem-garten-847181785/",
       "price_per_m2": 980.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:01:13Z",
-      "status_changed_utc": "2026-10-25T15:01:13Z"
+      "status_changed_utc": "2026-10-29T12:17:41Z"
     },
     "1422897230": {
       "folder": "20261025-1422897230",
@@ -2618,6 +2618,15 @@
       "checked": false,
       "found_utc": "2026-10-29T11:11:42Z",
       "status_changed_utc": "2026-10-29T11:11:42Z"
+    },
+    "1258395020": {
+      "folder": "20261029-1258395020",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/tulln/2-ferienhaeuser-auf-pachtgrund-ca-70-m-wohnflaeche-gemeinsamer-pool-1258395020/",
+      "price_per_m2": 1000.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-10-29T12:17:40Z",
+      "status_changed_utc": "2026-10-29T12:17:40Z"
     }
   }
 }
