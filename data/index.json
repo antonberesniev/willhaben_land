@@ -409,10 +409,10 @@
       "folder": "20261025-1898994590",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/hollabrunn/einfamilienhaus-mit-terrasse-und-viel-gestaltungspotenzial-in-ruhiger-lage-1898994590/",
       "price_per_m2": 1427.14,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:57:46Z",
-      "status_changed_utc": "2026-10-25T14:57:46Z"
+      "status_changed_utc": "2026-10-29T18:15:33Z"
     },
     "1437414254": {
       "folder": "20261025-1437414254",
@@ -1723,10 +1723,10 @@
       "folder": "20261025-1437192090",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/hollabrunn/wohnen-am-lande-weg-von-der-hektik-der-grossstadt-neuer-preis-1437192090/",
       "price_per_m2": 1271.43,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:03:16Z",
-      "status_changed_utc": "2026-10-25T15:03:16Z"
+      "status_changed_utc": "2026-10-29T18:15:33Z"
     },
     "1742664952": {
       "folder": "20261025-1742664952",
@@ -2636,6 +2636,15 @@
       "checked": false,
       "found_utc": "2026-10-29T16:14:02Z",
       "status_changed_utc": "2026-10-29T16:14:02Z"
+    },
+    "1656588643": {
+      "folder": "20261029-1656588643",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/hollabrunn/haus-1656588643/",
+      "price_per_m2": 1066.67,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-10-29T18:15:32Z",
+      "status_changed_utc": "2026-10-29T18:15:32Z"
     }
   }
 }
