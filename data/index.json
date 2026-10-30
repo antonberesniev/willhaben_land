@@ -238,10 +238,10 @@
       "folder": "20261025-1272532870",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/horn/haus-in-weitersfeld-1272532870/",
       "price_per_m2": 1076.92,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:56:55Z",
-      "status_changed_utc": "2026-10-25T14:56:55Z"
+      "status_changed_utc": "2026-10-30T08:15:47Z"
     },
     "1715284435": {
       "folder": "20261025-1715284435",
@@ -2506,10 +2506,10 @@
       "folder": "20261026-900721705",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/horn/wochenendhaus-optional-garten-obstgarten-900721705/",
       "price_per_m2": 93.97,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-26T16:19:36Z",
-      "status_changed_utc": "2026-10-26T16:19:36Z"
+      "status_changed_utc": "2026-10-30T08:15:47Z"
     },
     "1753470544": {
       "folder": "20261027-1753470544",
@@ -2672,6 +2672,15 @@
       "checked": false,
       "found_utc": "2026-10-30T06:20:22Z",
       "status_changed_utc": "2026-10-30T06:20:22Z"
+    },
+    "1762717182": {
+      "folder": "20261030-1762717182",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/gmuend/haus-verkauf-1762717182/",
+      "price_per_m2": 653.85,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-10-30T08:15:46Z",
+      "status_changed_utc": "2026-10-30T08:15:46Z"
     }
   }
 }
