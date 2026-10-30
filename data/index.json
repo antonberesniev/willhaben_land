@@ -481,10 +481,10 @@
       "folder": "20261025-1306950128",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/schaerding/-open-house-freitag-23-oktober-2026-von-9-12-uhr-haus-in-waldkirchen-a-wesen-1306950128/",
       "price_per_m2": 942.86,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:58:06Z",
-      "status_changed_utc": "2026-10-25T14:58:06Z"
+      "status_changed_utc": "2026-10-30T10:12:06Z"
     },
     "1601463288": {
       "folder": "20261025-1601463288",
@@ -2681,6 +2681,15 @@
       "checked": false,
       "found_utc": "2026-10-30T08:15:46Z",
       "status_changed_utc": "2026-10-30T08:15:46Z"
+    },
+    "2088541326": {
+      "folder": "20261030-2088541326",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/wels-land/gepflegtes-einfamilienhaus-mit-garten-garage-luftwaermepumpe-in-bachmanning-2088541326/",
+      "price_per_m2": 3.33,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-10-30T10:12:05Z",
+      "status_changed_utc": "2026-10-30T10:12:05Z"
     }
   }
 }
