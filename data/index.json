@@ -877,10 +877,10 @@
       "folder": "20261025-1640024645",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/mistelbach/ueber-1-000-m-fuer-ihre-ideen-bauernhaus-mit-grossem-stadl-in-gnadendorf-1640024645/",
       "price_per_m2": 848.21,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:59:48Z",
-      "status_changed_utc": "2026-10-25T14:59:48Z"
+      "status_changed_utc": "2026-10-30T00:31:38Z"
     },
     "1014652059": {
       "folder": "20261025-1014652059",
@@ -2654,6 +2654,15 @@
       "checked": false,
       "found_utc": "2026-10-29T21:11:25Z",
       "status_changed_utc": "2026-10-29T21:11:25Z"
+    },
+    "1428983841": {
+      "folder": "20261030-1428983841",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/tulln/-kleiner-bauernhof-mit-seele-und-charakter-1428983841/",
+      "price_per_m2": 1142.86,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-10-30T00:31:37Z",
+      "status_changed_utc": "2026-10-30T00:31:37Z"
     }
   }
 }
