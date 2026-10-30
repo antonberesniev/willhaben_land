@@ -2744,6 +2744,24 @@
       "checked": false,
       "found_utc": "2026-10-30T18:12:43Z",
       "status_changed_utc": "2026-10-30T18:12:43Z"
+    },
+    "1113805457": {
+      "folder": "20261030-1113805457",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/tulln/-kleingartenhaus-mit-pool-1113805457/",
+      "price_per_m2": 1186.67,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-10-30T19:09:19Z",
+      "status_changed_utc": "2026-10-30T19:09:19Z"
+    },
+    "1745128610": {
+      "folder": "20261030-1745128610",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/mattersburg/sanierungsbeduerftiges-bauernhaus-in-poettsching-126-m-6-zimmer-und-viel-potenzial-zum-gestalten-1745128610/",
+      "price_per_m2": 792.86,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-10-30T19:09:24Z",
+      "status_changed_utc": "2026-10-30T19:09:24Z"
     }
   }
 }
