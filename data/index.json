@@ -2641,10 +2641,10 @@
       "folder": "20261029-1656588643",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/hollabrunn/haus-1656588643/",
       "price_per_m2": 1066.67,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-29T18:15:32Z",
-      "status_changed_utc": "2026-10-29T18:15:32Z"
+      "status_changed_utc": "2026-11-02T23:22:20Z"
     },
     "1030240029": {
       "folder": "20261029-1030240029",
@@ -2807,6 +2807,24 @@
       "checked": false,
       "found_utc": "2026-11-02T15:07:43Z",
       "status_changed_utc": "2026-11-02T15:07:43Z"
+    },
+    "1154773225": {
+      "folder": "20261102-1154773225",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/braunau-am-inn/kleines-haus-1154773225/",
+      "price_per_m2": 800.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-02T23:22:16Z",
+      "status_changed_utc": "2026-11-02T23:22:16Z"
+    },
+    "1794941159": {
+      "folder": "20261102-1794941159",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberpullendorf/landhaus-in-neckenmarkt-1794941159/",
+      "price_per_m2": 1184.62,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-02T23:22:19Z",
+      "status_changed_utc": "2026-11-02T23:22:19Z"
     }
   }
 }
