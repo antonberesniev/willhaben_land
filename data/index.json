@@ -373,10 +373,10 @@
       "folder": "20261025-2102862990",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/suedoststeiermark/charmantes-ziegelmassivhaus-mit-idyllischem-garten-und-erweiterungspotenzial-2102862990/",
       "price_per_m2": 2854.29,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:57:34Z",
-      "status_changed_utc": "2026-10-25T14:57:34Z"
+      "status_changed_utc": "2026-11-02T15:07:44Z"
     },
     "2077251070": {
       "folder": "20261025-2077251070",
@@ -463,10 +463,10 @@
       "folder": "20261025-1246563731",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/gaenserndorf/neuer-preis-handwerker-aufgepasst-einfamilienhaus-mit-potenzial-in-stillfried-1246563731/",
       "price_per_m2": 1112.9,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:58:00Z",
-      "status_changed_utc": "2026-10-25T14:58:00Z"
+      "status_changed_utc": "2026-11-02T15:07:44Z"
     },
     "1254673051": {
       "folder": "20261025-1254673051",
@@ -2789,6 +2789,24 @@
       "checked": false,
       "found_utc": "2026-11-01T23:25:57Z",
       "status_changed_utc": "2026-11-01T23:25:57Z"
+    },
+    "1757412313": {
+      "folder": "20261102-1757412313",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/mistelbach/handwerker-aufgepasst-bauernhaus-mit-700-m-grund-120-m-lagerflaeche-1757412313/",
+      "price_per_m2": 1867.92,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-02T15:07:24Z",
+      "status_changed_utc": "2026-11-02T15:07:24Z"
+    },
+    "1597975343": {
+      "folder": "20261102-1597975343",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/kaernten/wolfsberg/ueber-500-m-wohn-geschaeftsvilla-in-wolfsberg-sued-vielseitig-nutzbar-1597975343/",
+      "price_per_m2": 0.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-02T15:07:43Z",
+      "status_changed_utc": "2026-11-02T15:07:43Z"
     }
   }
 }
