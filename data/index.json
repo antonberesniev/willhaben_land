@@ -1399,10 +1399,10 @@
       "folder": "20261025-1385843096",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/waidhofen-an-der-thaya/landhaus-1385843096/",
       "price_per_m2": 1666.67,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:01:57Z",
-      "status_changed_utc": "2026-10-25T15:01:57Z"
+      "status_changed_utc": "2026-11-03T20:29:37Z"
     },
     "1753096444": {
       "folder": "20261025-1753096444",
@@ -2870,6 +2870,33 @@
       "checked": false,
       "found_utc": "2026-11-03T13:51:56Z",
       "status_changed_utc": "2026-11-03T13:51:56Z"
+    },
+    "794485027": {
+      "folder": "20261103-794485027",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/hollabrunn/weinkeller-und-grund-ideales-objekt-um-hobbywinzer-zu-werden-794485027/",
+      "price_per_m2": 66000.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-03T20:29:29Z",
+      "status_changed_utc": "2026-11-03T20:29:29Z"
+    },
+    "1103296245": {
+      "folder": "20261103-1103296245",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/urfahr-umgebung/doppelhaushaelfte-zwischen-poestlingberg-und-lichtenberg-1103296245/",
+      "price_per_m2": 0.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-03T20:29:34Z",
+      "status_changed_utc": "2026-11-03T20:29:34Z"
+    },
+    "814609138": {
+      "folder": "20261103-814609138",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/melk/losau-19-814609138/",
+      "price_per_m2": 1065.57,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-03T20:29:36Z",
+      "status_changed_utc": "2026-11-03T20:29:36Z"
     }
   }
 }
