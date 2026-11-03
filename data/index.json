@@ -490,19 +490,19 @@
       "folder": "20261025-1601463288",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/schaerding/rohdiamant-mit-entwicklungspotenzial-stadthaus-im-herzen-von-schaerding-1601463288/",
       "price_per_m2": 0.0,
-      "status": "removed",
+      "status": "active",
       "checked": false,
       "found_utc": "2026-10-25T14:58:08Z",
-      "status_changed_utc": "2026-10-27T06:26:43Z"
+      "status_changed_utc": "2026-11-03T13:51:57Z"
     },
     "917329190": {
       "folder": "20261025-917329190",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/zwettl/charmantes-bauernsacherl-mit-viel-potenzial-in-gross-gerungs-917329190/",
       "price_per_m2": 1100.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:58:11Z",
-      "status_changed_utc": "2026-10-25T14:58:11Z"
+      "status_changed_utc": "2026-11-03T13:51:57Z"
     },
     "2068474566": {
       "folder": "20261025-2068474566",
@@ -1273,10 +1273,10 @@
       "folder": "20261025-1443531600",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/wien/wien-1210-floridsdorf/wohnhaus-mit-grossem-grund-als-baurecht-1443531600/",
       "price_per_m2": 97000.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:01:27Z",
-      "status_changed_utc": "2026-10-25T15:01:27Z"
+      "status_changed_utc": "2026-11-03T13:51:57Z"
     },
     "1848979328": {
       "folder": "20261025-1848979328",
@@ -2254,19 +2254,19 @@
       "folder": "20261025-1290361490",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/eisenstadt-umgebung/haus-am-neufeldersee-1290361490/",
       "price_per_m2": 1024.1,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:05:45Z",
-      "status_changed_utc": "2026-10-25T15:05:45Z"
+      "status_changed_utc": "2026-11-03T13:51:57Z"
     },
     "1570348320": {
       "folder": "20261025-1570348320",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/scheibbs/haeuschen-zu-verkaufen-perfekt-auch-als-wochenendhaus-ferienhaus-wg-tauglich-kein-makler-1570348320/",
       "price_per_m2": 1123.58,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:05:47Z",
-      "status_changed_utc": "2026-10-25T15:05:47Z"
+      "status_changed_utc": "2026-11-03T13:51:57Z"
     },
     "1879648641": {
       "folder": "20261025-1879648641",
@@ -2825,6 +2825,51 @@
       "checked": false,
       "found_utc": "2026-11-02T23:22:19Z",
       "status_changed_utc": "2026-11-02T23:22:19Z"
+    },
+    "1671361809": {
+      "folder": "20261103-1671361809",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/gaenserndorf/wohnen-im-gruenen-nahe-wien-grundstueck-mit-entwicklungspotenzial-1671361809/",
+      "price_per_m2": 1112.36,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-03T13:51:47Z",
+      "status_changed_utc": "2026-11-03T13:51:47Z"
+    },
+    "1674703536": {
+      "folder": "20261103-1674703536",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/hollabrunn/presshaus-in-kellergasse-lagerplatz-1674703536/",
+      "price_per_m2": 483.87,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-03T13:51:49Z",
+      "status_changed_utc": "2026-11-03T13:51:49Z"
+    },
+    "1521890383": {
+      "folder": "20261103-1521890383",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/zwettl/laendliche-idylle-in-gross-gerungs-traditionelles-bauernsacherl-mit-vielfaeltigen-gestaltungsmoeglichkeiten-und-grossem-entwicklungspotenzial-1521890383/",
+      "price_per_m2": 1100.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-03T13:51:52Z",
+      "status_changed_utc": "2026-11-03T13:51:52Z"
+    },
+    "1693433371": {
+      "folder": "20261103-1693433371",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/wels-land/neues-ausstellungshaus-sheraton-exklusive-abverkauf-wegen-modellwechsel-1693433371/",
+      "price_per_m2": 1997.5,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-03T13:51:54Z",
+      "status_changed_utc": "2026-11-03T13:51:54Z"
+    },
+    "1437828296": {
+      "folder": "20261103-1437828296",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/hollabrunn/wochenendhaus-in-ruhelage-1437828296/",
+      "price_per_m2": 787.88,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-03T13:51:56Z",
+      "status_changed_utc": "2026-11-03T13:51:56Z"
     }
   }
 }
