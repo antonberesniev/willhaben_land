@@ -337,10 +337,10 @@
       "folder": "20261025-1574509630",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/wien/wien-1230-liesing/anlegerwohnung-unbefristet-vermietet-um-nur-ca-eur-1-150-m-1574509630/",
       "price_per_m2": 1187.5,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:57:23Z",
-      "status_changed_utc": "2026-10-25T14:57:23Z"
+      "status_changed_utc": "2026-11-04T16:59:19Z"
     },
     "958146189": {
       "folder": "20261025-958146189",
@@ -1021,10 +1021,10 @@
       "folder": "20261025-932218527",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberwart/schoener-wohnkeller-in-der-weinidylle-suedburgenland-932218527/",
       "price_per_m2": 1641.67,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:00:21Z",
-      "status_changed_utc": "2026-10-25T15:00:21Z"
+      "status_changed_utc": "2026-11-04T16:59:19Z"
     },
     "2089702399": {
       "folder": "20261025-2089702399",
@@ -1453,10 +1453,10 @@
       "folder": "20261025-1096340811",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/wiener-neustadt-land/miesenbach-im-piestingtal-ruhelage-zwei-renovierungsbeduerftige-unfertige-haeuser-in-erhoehter-streusiedlung-1096340811/",
       "price_per_m2": 990.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:02:14Z",
-      "status_changed_utc": "2026-10-25T15:02:14Z"
+      "status_changed_utc": "2026-11-04T16:59:19Z"
     },
     "1281676231": {
       "folder": "20261025-1281676231",
@@ -2884,10 +2884,10 @@
       "folder": "20261103-1103296245",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/urfahr-umgebung/doppelhaushaelfte-zwischen-poestlingberg-und-lichtenberg-1103296245/",
       "price_per_m2": 0.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-03T20:29:34Z",
-      "status_changed_utc": "2026-11-03T20:29:34Z"
+      "status_changed_utc": "2026-11-04T16:59:19Z"
     },
     "814609138": {
       "folder": "20261103-814609138",
@@ -2915,6 +2915,42 @@
       "checked": false,
       "found_utc": "2026-11-04T08:47:47Z",
       "status_changed_utc": "2026-11-04T08:47:47Z"
+    },
+    "1907790090": {
+      "folder": "20261104-1907790090",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/wien/wien-1230-liesing/anlegerwohnung-um-nur-ca-eur-1-150-m-unbefristet-vermietet-1907790090/",
+      "price_per_m2": 1187.5,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-04T16:57:59Z",
+      "status_changed_utc": "2026-11-04T16:57:59Z"
+    },
+    "1639749899": {
+      "folder": "20261104-1639749899",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/lilienfeld/50qm-rustikales-gemuetliches-gedaemmtes-laerchenvollholzhaus-sucht-neue-eigentuemer-auf-183-qm-pachtgrund-1639749899/",
+      "price_per_m2": 1990.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-04T16:58:35Z",
+      "status_changed_utc": "2026-11-04T16:58:35Z"
+    },
+    "2032453203": {
+      "folder": "20261104-2032453203",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberpullendorf/baugrund-mit-altbestand-2032453203/",
+      "price_per_m2": 623.75,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-04T16:58:52Z",
+      "status_changed_utc": "2026-11-04T16:58:52Z"
+    },
+    "1810504921": {
+      "folder": "20261104-1810504921",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberpullendorf/haeuschen-mit-potential-in-ortslage-mit-hog-garten-und-scheune-1810504921/",
+      "price_per_m2": 1421.43,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-04T16:59:18Z",
+      "status_changed_utc": "2026-11-04T16:59:18Z"
     }
   }
 }
