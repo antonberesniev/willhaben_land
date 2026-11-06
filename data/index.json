@@ -1192,10 +1192,10 @@
       "folder": "20261025-1396991310",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/kaernten/sankt-veit-an-der-glan/historisches-zinshaus-mit-entwicklungspotenzial-im-herzen-von-huettenberg-1396991310/",
       "price_per_m2": 242.86,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:01:07Z",
-      "status_changed_utc": "2026-10-25T15:01:07Z"
+      "status_changed_utc": "2026-11-06T15:47:33Z"
     },
     "1554518604": {
       "folder": "20261025-1554518604",
@@ -3023,6 +3023,15 @@
       "checked": false,
       "found_utc": "2026-11-06T07:46:48Z",
       "status_changed_utc": "2026-11-06T07:46:48Z"
+    },
+    "1919456500": {
+      "folder": "20261106-1919456500",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/kaernten/sankt-veit-an-der-glan/viel-platz-fuer-grosse-ideen-historisches-zinshaus-in-huettenberg-1919456500/",
+      "price_per_m2": 225.71,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-06T15:47:32Z",
+      "status_changed_utc": "2026-11-06T15:47:32Z"
     }
   }
 }
