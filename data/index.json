@@ -1291,10 +1291,10 @@
       "folder": "20261025-1568550670",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberwart/solides-einfamilienhaus-garage-ca-1000-m-garten-renbed-eroeffnet-viele-moeglichkeiten-1568550670/",
       "price_per_m2": 626.09,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:01:32Z",
-      "status_changed_utc": "2026-10-25T15:01:32Z"
+      "status_changed_utc": "2026-11-07T15:32:28Z"
     },
     "1668847258": {
       "folder": "20261025-1668847258",
@@ -1606,10 +1606,10 @@
       "folder": "20261025-1989174200",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/eisenstadt/einzigartige-liegenschaft-in-top-lage-haus-mit-nebengebaeude-ca-780m-baugrund-idyllischer-obstgarten-ruheoase-privatsphaere-individuelle-wohn-business-und-nutzungsmoeglichkeiten-privatverkauf-1989174200/",
       "price_per_m2": 0.01,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:02:48Z",
-      "status_changed_utc": "2026-10-26T15:03:41Z"
+      "status_changed_utc": "2026-11-07T15:32:28Z"
     },
     "1540717133": {
       "folder": "20261025-1540717133",
@@ -2758,10 +2758,10 @@
       "folder": "20261030-1745128610",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/mattersburg/sanierungsbeduerftiges-bauernhaus-in-poettsching-126-m-6-zimmer-und-viel-potenzial-zum-gestalten-1745128610/",
       "price_per_m2": 792.86,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-30T19:09:24Z",
-      "status_changed_utc": "2026-10-30T19:09:24Z"
+      "status_changed_utc": "2026-11-07T15:32:28Z"
     },
     "980598489": {
       "folder": "20261030-980598489",
@@ -3068,6 +3068,33 @@
       "checked": false,
       "found_utc": "2026-11-07T08:31:06Z",
       "status_changed_utc": "2026-11-07T08:31:06Z"
+    },
+    "1625852415": {
+      "folder": "20261107-1625852415",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/wiener-neustadt-land/charmantes-einfamilienhaus-mit-garten-terasse-und-zusaetzlichem-carport-kaufpreis-auf-anfrge-1625852415/",
+      "price_per_m2": 0.01,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-07T15:32:24Z",
+      "status_changed_utc": "2026-11-07T15:32:24Z"
+    },
+    "1827405201": {
+      "folder": "20261107-1827405201",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/mistelbach/sonniges-grundstueck-in-ruhiger-lage-naehe-thermenstadt-laa-1827405201/",
+      "price_per_m2": 64.58,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-07T15:32:25Z",
+      "status_changed_utc": "2026-11-07T15:32:25Z"
+    },
+    "1123593955": {
+      "folder": "20261107-1123593955",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/scheibbs/haeuschen-zu-verkaufen-perfekt-auch-als-wochenendhaus-ferienhaus-wg-tauglich-kein-makler-1123593955/",
+      "price_per_m2": 1123.58,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-07T15:32:27Z",
+      "status_changed_utc": "2026-11-07T15:32:27Z"
     }
   }
 }
