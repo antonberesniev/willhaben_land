@@ -2164,10 +2164,10 @@
       "folder": "20261025-1475770208",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/tirol/landeck/preis-auf-anfrage-einzigartiger-berggasthof-mit-3-wohnungen-und-150qm-loft-serfaus-1475770208/",
       "price_per_m2": 0.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:05:22Z",
-      "status_changed_utc": "2026-10-25T15:05:22Z"
+      "status_changed_utc": "2026-11-07T08:31:07Z"
     },
     "1037230738": {
       "folder": "20261025-1037230738",
@@ -3041,6 +3041,33 @@
       "checked": false,
       "found_utc": "2026-11-06T21:23:16Z",
       "status_changed_utc": "2026-11-06T21:23:16Z"
+    },
+    "1066509590": {
+      "folder": "20261107-1066509590",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/tirol/landeck/preis-auf-anfrage-einzigartiger-berggasthof-mit-3-wohnungen-und-150qm-loft-serfaus-1066509590/",
+      "price_per_m2": 0.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-07T08:31:01Z",
+      "status_changed_utc": "2026-11-07T08:31:01Z"
+    },
+    "1435157446": {
+      "folder": "20261107-1435157446",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/eisenstadt-umgebung/kleines-haus-gemuetliche-grosse-terrasse-zum-fairen-preis-1435157446/",
+      "price_per_m2": 1083.33,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-07T08:31:03Z",
+      "status_changed_utc": "2026-11-07T08:31:03Z"
+    },
+    "1422597690": {
+      "folder": "20261107-1422597690",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberwart/ihr-rueckzugsort-mit-seeblick-charmantes-haus-in-burg-im-bezirk-oberwart-1422597690/",
+      "price_per_m2": 1326.67,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-07T08:31:06Z",
+      "status_changed_utc": "2026-11-07T08:31:06Z"
     }
   }
 }
