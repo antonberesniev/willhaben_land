@@ -2776,10 +2776,10 @@
       "folder": "20261101-1736907486",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/waidhofen-an-der-thaya/kleines-haus-mit-idyllischem-innenhof-in-ruhiger-lage-3841-rafings-1736907486/",
       "price_per_m2": 907.89,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-01T14:50:38Z",
-      "status_changed_utc": "2026-11-01T14:50:38Z"
+      "status_changed_utc": "2026-11-08T22:43:01Z"
     },
     "896628867": {
       "folder": "20261101-896628867",
@@ -3140,6 +3140,15 @@
       "checked": false,
       "found_utc": "2026-11-08T18:19:27Z",
       "status_changed_utc": "2026-11-08T18:19:27Z"
+    },
+    "1055994021": {
+      "folder": "20261108-1055994021",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/krems-land/presshaus-in-langenlois-mit-wohnadresse-perfekt-fuer-heimwerker-sanierungsprofis-provisionsfrei-1055994021/",
+      "price_per_m2": 1055.56,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-08T22:43:00Z",
+      "status_changed_utc": "2026-11-08T22:43:00Z"
     }
   }
 }
