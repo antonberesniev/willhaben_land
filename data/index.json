@@ -2155,10 +2155,10 @@
       "folder": "20261025-952744204",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberpullendorf/102m2-bgld-wochendhaus-mit-rechteckigem-2-160-m2-baugrund-mit-nebengebaeuden-952744204/",
       "price_per_m2": 955.88,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:05:17Z",
-      "status_changed_utc": "2026-10-25T15:05:17Z"
+      "status_changed_utc": "2026-11-08T12:58:46Z"
     },
     "1475770208": {
       "folder": "20261025-1475770208",
@@ -3104,6 +3104,33 @@
       "checked": false,
       "found_utc": "2026-11-08T05:12:28Z",
       "status_changed_utc": "2026-11-08T05:12:28Z"
+    },
+    "1894552424": {
+      "folder": "20261108-1894552424",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/gaenserndorf/bungalow-mit-keller-und-grossen-garten-gaenserndorf-sued-1894552424/",
+      "price_per_m2": 0.01,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-08T12:58:29Z",
+      "status_changed_utc": "2026-11-08T12:58:29Z"
+    },
+    "1346661269": {
+      "folder": "20261108-1346661269",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/urfahr-umgebung/tolles-mehrfamilienhaus-an-linzer-stadtgrenze-1346661269/",
+      "price_per_m2": 0.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-08T12:58:30Z",
+      "status_changed_utc": "2026-11-08T12:58:30Z"
+    },
+    "2069023233": {
+      "folder": "20261108-2069023233",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberpullendorf/102m2-bgld-wochendhaus-mit-rechteckigem-2-160-m2-baugrund-mit-nebengebaeuden-2069023233/",
+      "price_per_m2": 955.88,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-08T12:58:45Z",
+      "status_changed_utc": "2026-11-08T12:58:45Z"
     }
   }
 }
