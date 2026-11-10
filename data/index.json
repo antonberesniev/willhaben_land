@@ -850,10 +850,10 @@
       "folder": "20261025-858253394",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/scheibbs/sanierungsbeduerftiges-eigenheim-mit-sensationellem-ausblick-in-die-berge-858253394/",
       "price_per_m2": 645.45,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:59:41Z",
-      "status_changed_utc": "2026-10-25T14:59:41Z"
+      "status_changed_utc": "2026-11-10T20:44:26Z"
     },
     "1636159370": {
       "folder": "20261025-1636159370",
@@ -1066,10 +1066,10 @@
       "folder": "20261025-955724677",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/mistelbach/ebenerdiges-bauernhaus-mit-stadel-und-weiteren-ueberdachten-lagerflaechen-955724677/",
       "price_per_m2": 1053.19,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:00:35Z",
-      "status_changed_utc": "2026-10-25T15:00:35Z"
+      "status_changed_utc": "2026-11-10T20:44:26Z"
     },
     "1797690497": {
       "folder": "20261025-1797690497",
@@ -1606,10 +1606,10 @@
       "folder": "20261025-1989174200",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/eisenstadt/einzigartige-liegenschaft-in-top-lage-haus-mit-nebengebaeude-ca-780m-baugrund-idyllischer-obstgarten-ruheoase-privatsphaere-individuelle-wohn-business-und-nutzungsmoeglichkeiten-privatverkauf-1989174200/",
       "price_per_m2": 0.01,
-      "status": "removed",
+      "status": "active",
       "checked": false,
       "found_utc": "2026-10-25T15:02:48Z",
-      "status_changed_utc": "2026-11-07T15:32:28Z"
+      "status_changed_utc": "2026-11-10T20:44:26Z"
     },
     "1540717133": {
       "folder": "20261025-1540717133",
@@ -2398,10 +2398,10 @@
       "folder": "20261025-1558378963",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/tulln/grossstadtmuede-sicherheitshalber-keine-flugreise-1558378963/",
       "price_per_m2": 2911.76,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:06:19Z",
-      "status_changed_utc": "2026-10-25T15:06:19Z"
+      "status_changed_utc": "2026-11-10T20:44:26Z"
     },
     "2074911506": {
       "folder": "20261025-2074911506",
@@ -3176,6 +3176,33 @@
       "checked": false,
       "found_utc": "2026-11-10T13:19:54Z",
       "status_changed_utc": "2026-11-10T13:19:54Z"
+    },
+    "1593834084": {
+      "folder": "20261110-1593834084",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/grieskirchen/historisches-wohnhaus-1593834084/",
+      "price_per_m2": 950.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-10T20:44:21Z",
+      "status_changed_utc": "2026-11-10T20:44:21Z"
+    },
+    "1999284869": {
+      "folder": "20261110-1999284869",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/bruck-muerzzuschlag/haus-im-gruenen-1999284869/",
+      "price_per_m2": 475.81,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-10T20:44:23Z",
+      "status_changed_utc": "2026-11-10T20:44:23Z"
+    },
+    "1314209333": {
+      "folder": "20261110-1314209333",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/leoben/doppelhaushaelfte-mit-4-wohneinheiten-184-m-wohnflaeche-in-eisenerz-1314209333/",
+      "price_per_m2": 513.59,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-10T20:44:25Z",
+      "status_changed_utc": "2026-11-10T20:44:25Z"
     }
   }
 }
