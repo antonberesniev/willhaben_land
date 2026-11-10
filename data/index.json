@@ -76,10 +76,10 @@
       "folder": "20261025-1645438009",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/voitsberg/blockhaus-von-1899-am-packsattel-701-m-bauland-sanierungsbeduerftig-wasser-strom-vorhanden-1645438009/",
       "price_per_m2": 1168.83,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:56:09Z",
-      "status_changed_utc": "2026-10-25T14:56:09Z"
+      "status_changed_utc": "2026-11-10T13:19:55Z"
     },
     "1518843668": {
       "folder": "20261025-1518843668",
@@ -580,10 +580,10 @@
       "folder": "20261025-1540817813",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/tulln/summer-for-sale-1540817813/",
       "price_per_m2": 2225.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:58:34Z",
-      "status_changed_utc": "2026-10-25T14:58:34Z"
+      "status_changed_utc": "2026-11-10T13:19:55Z"
     },
     "1494541070": {
       "folder": "20261025-1494541070",
@@ -1237,10 +1237,10 @@
       "folder": "20261025-818222423",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/waidhofen-an-der-thaya/kleines-bauernhaus-sucht-liebevolle-hand-818222423/",
       "price_per_m2": 715.79,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:01:19Z",
-      "status_changed_utc": "2026-10-25T15:01:19Z"
+      "status_changed_utc": "2026-11-10T13:19:55Z"
     },
     "1620341186": {
       "folder": "20261025-1620341186",
@@ -1741,10 +1741,10 @@
       "folder": "20261025-2093013017",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/waidhofen-an-der-thaya/ankommen-und-wohlfuehlen-dorfhaus-mit-charakter-im-waldviertel-2093013017/",
       "price_per_m2": 763.78,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:03:21Z",
-      "status_changed_utc": "2026-10-25T15:03:21Z"
+      "status_changed_utc": "2026-11-10T13:19:55Z"
     },
     "952754014": {
       "folder": "20261025-952754014",
@@ -2119,10 +2119,10 @@
       "folder": "20261025-1536999488",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberpullendorf/ruhig-gelegenes-einfamilienhaus-zu-verkaufen-1536999488/",
       "price_per_m2": 772.73,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:05:05Z",
-      "status_changed_utc": "2026-10-25T15:05:05Z"
+      "status_changed_utc": "2026-11-10T13:19:55Z"
     },
     "1458569130": {
       "folder": "20261025-1458569130",
@@ -2335,10 +2335,10 @@
       "folder": "20261025-1064234409",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/sankt-poelten-land/liegenschaft-mit-grosszuegiger-grundstuecksflaeche-in-schwerbachgegend-1064234409/",
       "price_per_m2": 1390.91,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:06:04Z",
-      "status_changed_utc": "2026-10-25T15:06:04Z"
+      "status_changed_utc": "2026-11-10T13:19:55Z"
     },
     "1464209959": {
       "folder": "20261025-1464209959",
@@ -2740,10 +2740,10 @@
       "folder": "20261030-1848657295",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/leoben/doppelhaushaelfte-mit-4-wohneinheiten-184-m-wohnflaeche-in-eisenerz-1848657295/",
       "price_per_m2": 513.59,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-30T18:12:43Z",
-      "status_changed_utc": "2026-10-30T18:12:43Z"
+      "status_changed_utc": "2026-11-10T13:19:55Z"
     },
     "1113805457": {
       "folder": "20261030-1113805457",
@@ -3167,6 +3167,15 @@
       "checked": false,
       "found_utc": "2026-11-09T22:05:36Z",
       "status_changed_utc": "2026-11-09T22:05:36Z"
+    },
+    "1921360773": {
+      "folder": "20261110-1921360773",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/leoben/4-wohneinheiten-und-garten-zum-schnaeppchenpreis-1921360773/",
+      "price_per_m2": 513.59,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-10T13:19:54Z",
+      "status_changed_utc": "2026-11-10T13:19:54Z"
     }
   }
 }
