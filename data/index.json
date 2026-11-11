@@ -571,10 +571,10 @@
       "folder": "20261025-1366704642",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/mistelbach/romantisches-altes-renovierungsbeduerftiges-bauernhaus-im-gruenen-mit-gemauertem-stadel-um-eur-99-000-1366704642/",
       "price_per_m2": 990.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:58:32Z",
-      "status_changed_utc": "2026-10-25T14:58:32Z"
+      "status_changed_utc": "2026-11-11T17:04:19Z"
     },
     "1540817813": {
       "folder": "20261025-1540817813",
@@ -1165,10 +1165,10 @@
       "folder": "20261025-959025798",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/waidhofen-an-der-thaya/entzueckendes-einfamilienhaus-in-randlage-der-marktgemeinde-dobersberg-mit-rehen-als-nachbarn-959025798/",
       "price_per_m2": 1038.96,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:01:01Z",
-      "status_changed_utc": "2026-10-25T15:01:01Z"
+      "status_changed_utc": "2026-11-11T17:04:19Z"
     },
     "1649388314": {
       "folder": "20261025-1649388314",
@@ -1939,10 +1939,10 @@
       "folder": "20261025-1731871219",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/guessing/ausbauhaus-in-guessing-mit-garage-terrasse-und-zisterne-top-preis-1731871219/",
       "price_per_m2": 1192.77,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:04:10Z",
-      "status_changed_utc": "2026-10-25T15:04:10Z"
+      "status_changed_utc": "2026-11-11T17:04:19Z"
     },
     "1736619300": {
       "folder": "20261025-1736619300",
@@ -3230,6 +3230,60 @@
       "checked": false,
       "found_utc": "2026-11-11T09:00:51Z",
       "status_changed_utc": "2026-11-11T09:00:51Z"
+    },
+    "1687916963": {
+      "folder": "20261111-1687916963",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/urfahr-umgebung/haus-zu-verkaufen-preis-auf-anfrage-1687916963/",
+      "price_per_m2": 0.01,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-11T17:03:29Z",
+      "status_changed_utc": "2026-11-11T17:03:29Z"
+    },
+    "1154890434": {
+      "folder": "20261111-1154890434",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/hollabrunn/651-m-grund-fuer-ihre-wohnideen-landhaus-mit-ca-94-m-in-unterretzbach-1154890434/",
+      "price_per_m2": 1010.64,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-11T17:03:32Z",
+      "status_changed_utc": "2026-11-11T17:03:32Z"
+    },
+    "1756438554": {
+      "folder": "20261111-1756438554",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/neunkirchen/sanierungsbeduerftiges-zinshaus-mit-2-garagen-in-zentraler-lage-verkauf-im-bieterverfahren-1756438554/",
+      "price_per_m2": 780.99,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-11T17:03:34Z",
+      "status_changed_utc": "2026-11-11T17:03:34Z"
+    },
+    "1320524610": {
+      "folder": "20261111-1320524610",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/suedoststeiermark/kellerstoeckl-im-weinbaugebiet-l-e-n-d-a-v-a-in-slo-1320524610/",
+      "price_per_m2": 1065.22,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-11T17:03:36Z",
+      "status_changed_utc": "2026-11-11T17:03:36Z"
+    },
+    "1999319165": {
+      "folder": "20261111-1999319165",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/suedoststeiermark/familienhaus-mit-wirtschaftsgebaeide-1999319165/",
+      "price_per_m2": 454.55,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-11T17:03:59Z",
+      "status_changed_utc": "2026-11-11T17:03:59Z"
+    },
+    "802502813": {
+      "folder": "20261111-802502813",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/rohrbach/ruhiges-sacherl-mit-viel-platz-802502813/",
+      "price_per_m2": 0.01,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-11T17:04:18Z",
+      "status_changed_utc": "2026-11-11T17:04:18Z"
     }
   }
 }
