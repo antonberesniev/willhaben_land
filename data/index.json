@@ -1822,10 +1822,10 @@
       "folder": "20261025-1685026588",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/krems-land/streusiedlungslage-zw-krems-und-zwettl-1685026588/",
       "price_per_m2": 829.06,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:03:40Z",
-      "status_changed_utc": "2026-10-25T15:03:40Z"
+      "status_changed_utc": "2026-11-11T09:00:53Z"
     },
     "880184091": {
       "folder": "20261025-880184091",
@@ -3212,6 +3212,24 @@
       "checked": false,
       "found_utc": "2026-11-11T01:07:24Z",
       "status_changed_utc": "2026-11-11T01:07:24Z"
+    },
+    "1175862068": {
+      "folder": "20261111-1175862068",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/salzburg/salzburg-umgebung/hochwertiges-musterhaus-150-m-in-eugendorf-zum-selbstabbau-abverkauf-aktionspreis-1175862068/",
+      "price_per_m2": 660.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-11T09:00:39Z",
+      "status_changed_utc": "2026-11-11T09:00:39Z"
+    },
+    "1268653977": {
+      "folder": "20261111-1268653977",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/waidhofen-an-der-thaya/juhuuu-neuer-preis-schoenes-landhaus-in-idyllischer-ruhelage-1268653977/",
+      "price_per_m2": 345.64,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-11T09:00:51Z",
+      "status_changed_utc": "2026-11-11T09:00:51Z"
     }
   }
 }
