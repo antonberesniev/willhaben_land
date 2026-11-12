@@ -121,10 +121,10 @@
       "folder": "20261025-1345332791",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/guessing/sommerdomizil-1345332791/",
       "price_per_m2": 1173.33,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:56:21Z",
-      "status_changed_utc": "2026-10-25T14:56:21Z"
+      "status_changed_utc": "2026-11-12T17:27:35Z"
     },
     "1494380639": {
       "folder": "20261025-1494380639",
@@ -3136,10 +3136,10 @@
       "folder": "20261108-1203890319",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/bruck-an-der-leitha/einfamilienhaus-mit-ueberdachtem-innenhof-in-hollern-1203890319/",
       "price_per_m2": 808.94,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-08T18:19:27Z",
-      "status_changed_utc": "2026-11-08T18:19:27Z"
+      "status_changed_utc": "2026-11-12T17:27:35Z"
     },
     "1055994021": {
       "folder": "20261108-1055994021",
@@ -3172,10 +3172,10 @@
       "folder": "20261110-1921360773",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/leoben/4-wohneinheiten-und-garten-zum-schnaeppchenpreis-1921360773/",
       "price_per_m2": 513.59,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-10T13:19:54Z",
-      "status_changed_utc": "2026-11-10T13:19:54Z"
+      "status_changed_utc": "2026-11-12T17:27:35Z"
     },
     "1593834084": {
       "folder": "20261110-1593834084",
@@ -3298,10 +3298,10 @@
       "folder": "20261112-1696304631",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberpullendorf/immobilie-mit-grossem-potenzial-1696304631/",
       "price_per_m2": 257.89,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-12T00:16:37Z",
-      "status_changed_utc": "2026-11-12T00:16:37Z"
+      "status_changed_utc": "2026-11-12T17:27:35Z"
     },
     "1461157125": {
       "folder": "20261112-1461157125",
@@ -3311,6 +3311,60 @@
       "checked": false,
       "found_utc": "2026-11-12T08:03:49Z",
       "status_changed_utc": "2026-11-12T08:03:49Z"
+    },
+    "1973390689": {
+      "folder": "20261112-1973390689",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/bruck-an-der-leitha/einfamilienhaus-mit-ueberdachtem-innenhof-in-hollern-1973390689/",
+      "price_per_m2": 808.94,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-12T17:27:22Z",
+      "status_changed_utc": "2026-11-12T17:27:22Z"
+    },
+    "1533096769": {
+      "folder": "20261112-1533096769",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/urfahr-umgebung/lebensqualitaet-auf-dem-bauernhof-in-ottensheim-1533096769/",
+      "price_per_m2": 0.01,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-12T17:27:23Z",
+      "status_changed_utc": "2026-11-12T17:27:23Z"
+    },
+    "1076391926": {
+      "folder": "20261112-1076391926",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/leoben/4-wohneinheiten-und-garten-zum-schnaeppchenpreis-1076391926/",
+      "price_per_m2": 513.59,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-12T17:27:25Z",
+      "status_changed_utc": "2026-11-12T17:27:25Z"
+    },
+    "1722323564": {
+      "folder": "20261112-1722323564",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/tulln/kleingarten-schwarze-au-klosterneuburg-1722323564/",
+      "price_per_m2": 4173.91,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-12T17:27:28Z",
+      "status_changed_utc": "2026-11-12T17:27:28Z"
+    },
+    "1183081166": {
+      "folder": "20261112-1183081166",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/hollabrunn/ehemaliges-bauernhaus-mit-innenhof-individualisten-kuenstler-ruhesuchende-renovierungsbeduerftig-1183081166/",
+      "price_per_m2": 1119.77,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-12T17:27:31Z",
+      "status_changed_utc": "2026-11-12T17:27:31Z"
+    },
+    "1451624020": {
+      "folder": "20261112-1451624020",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberpullendorf/rohbau-plus-altbestand-mit-grossem-potential-1451624020/",
+      "price_per_m2": 256.58,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-12T17:27:34Z",
+      "status_changed_utc": "2026-11-12T17:27:34Z"
     }
   }
 }
