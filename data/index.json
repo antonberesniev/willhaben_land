@@ -3082,10 +3082,10 @@
       "folder": "20261107-1827405201",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/mistelbach/sonniges-grundstueck-in-ruhiger-lage-naehe-thermenstadt-laa-1827405201/",
       "price_per_m2": 64.58,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-07T15:32:25Z",
-      "status_changed_utc": "2026-11-07T15:32:25Z"
+      "status_changed_utc": "2026-11-14T21:12:08Z"
     },
     "1123593955": {
       "folder": "20261107-1123593955",
@@ -3406,10 +3406,10 @@
       "folder": "20261113-1605300362",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/moedling/bungalow-120-m-stahl-fertighaus-materialpaket-ohne-montage-1605300362/",
       "price_per_m2": 650.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-13T21:18:23Z",
-      "status_changed_utc": "2026-11-13T21:18:23Z"
+      "status_changed_utc": "2026-11-14T21:12:08Z"
     },
     "939258125": {
       "folder": "20261114-939258125",
@@ -3446,6 +3446,24 @@
       "checked": false,
       "found_utc": "2026-11-14T16:28:23Z",
       "status_changed_utc": "2026-11-14T16:28:23Z"
+    },
+    "1033955984": {
+      "folder": "20261114-1033955984",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/horn/einfamilienhaus-1033955984/",
+      "price_per_m2": 93.97,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-14T21:12:05Z",
+      "status_changed_utc": "2026-11-14T21:12:05Z"
+    },
+    "1986540283": {
+      "folder": "20261114-1986540283",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/gaenserndorf/-badebungalow-auf-pachtgrund-mit-direktem-seezugang-1986540283/",
+      "price_per_m2": 1625.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-14T21:12:07Z",
+      "status_changed_utc": "2026-11-14T21:12:07Z"
     }
   }
 }
