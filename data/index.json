@@ -949,10 +949,10 @@
       "folder": "20261025-1718779835",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/ried-im-innkreis/unschlagbarer-preis-in-pattigham-ihr-sanierungsprojekt-mit-xxl-werkstatt-neuer-preis-eur-97-000-1718779835/",
       "price_per_m2": 538.89,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:00:03Z",
-      "status_changed_utc": "2026-10-25T15:00:03Z"
+      "status_changed_utc": "2026-11-16T09:12:12Z"
     },
     "1619645162": {
       "folder": "20261025-1619645162",
@@ -1426,19 +1426,19 @@
       "folder": "20261025-836436207",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/mattersburg/preisgesenkt-winterfestes-haus-am-see-836436207/",
       "price_per_m2": 1664.81,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:02:05Z",
-      "status_changed_utc": "2026-10-25T15:02:05Z"
+      "status_changed_utc": "2026-11-16T09:12:12Z"
     },
     "1640042124": {
       "folder": "20261025-1640042124",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberwart/wochenend-bauernhaus-1640042124/",
       "price_per_m2": 900.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:02:09Z",
-      "status_changed_utc": "2026-10-25T15:02:09Z"
+      "status_changed_utc": "2026-11-16T09:12:12Z"
     },
     "1847619886": {
       "folder": "20261025-1847619886",
@@ -2092,10 +2092,10 @@
       "folder": "20261025-1993024348",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/korneuburg/kleingartenhaus-in-stockerau-zu-verkaufen-1993024348/",
       "price_per_m2": 2393.94,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:04:59Z",
-      "status_changed_utc": "2026-10-25T15:04:59Z"
+      "status_changed_utc": "2026-11-16T09:12:12Z"
     },
     "1983283674": {
       "folder": "20261025-1983283674",
@@ -3473,6 +3473,15 @@
       "checked": false,
       "found_utc": "2026-11-15T16:14:43Z",
       "status_changed_utc": "2026-11-15T16:14:43Z"
+    },
+    "1545250965": {
+      "folder": "20261116-1545250965",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/hartberg-fuerstenfeld/bastlerhit-renovierungsbeduerftiges-3-zimmer-haus-mit-grossem-garten-1545250965/",
+      "price_per_m2": 1053.19,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-16T09:12:11Z",
+      "status_changed_utc": "2026-11-16T09:12:11Z"
     }
   }
 }
