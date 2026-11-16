@@ -319,10 +319,10 @@
       "folder": "20261025-1053009063",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/gaenserndorf/sanieren-neu-denken-verwirklichen-1053009063/",
       "price_per_m2": 720.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:57:19Z",
-      "status_changed_utc": "2026-10-25T14:57:19Z"
+      "status_changed_utc": "2026-11-16T20:08:32Z"
     },
     "1519582290": {
       "folder": "20261025-1519582290",
@@ -967,10 +967,10 @@
       "folder": "20261025-2009610466",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/melk/einfamilienhaus-mit-herrlichem-ausblick-in-ruhiger-siedlungslage-2009610466/",
       "price_per_m2": 858.59,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:00:09Z",
-      "status_changed_utc": "2026-10-25T15:00:09Z"
+      "status_changed_utc": "2026-11-16T20:08:32Z"
     },
     "1032604747": {
       "folder": "20261025-1032604747",
@@ -1075,10 +1075,10 @@
       "folder": "20261025-1797690497",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/weiz/uriges-bauernhaus-in-idyllischer-lage-naehe-passail-1797690497/",
       "price_per_m2": 816.67,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:00:37Z",
-      "status_changed_utc": "2026-10-25T15:00:37Z"
+      "status_changed_utc": "2026-11-16T20:08:32Z"
     },
     "2081402835": {
       "folder": "20261025-2081402835",
@@ -3001,10 +3001,10 @@
       "folder": "20261105-1659183425",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/leoben/wochenendhaeuschen-auf-baugrundstueck-1659183425/",
       "price_per_m2": 3000.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-05T12:01:07Z",
-      "status_changed_utc": "2026-11-09T22:05:26Z"
+      "status_changed_utc": "2026-11-16T20:08:32Z"
     },
     "1421465735": {
       "folder": "20261105-1421465735",
@@ -3379,10 +3379,10 @@
       "folder": "20261113-1842190854",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/voitsberg/moderne-neubau-einfamilienhaus-in-soeding-mit-pool-neuer-preis-auf-anfrage-1842190854/",
       "price_per_m2": 0.01,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-13T14:13:43Z",
-      "status_changed_utc": "2026-11-15T01:35:46Z"
+      "status_changed_utc": "2026-11-16T20:08:32Z"
     },
     "1938057912": {
       "folder": "20261113-1938057912",
@@ -3451,10 +3451,10 @@
       "folder": "20261114-1033955984",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/horn/einfamilienhaus-1033955984/",
       "price_per_m2": 93.97,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-14T21:12:05Z",
-      "status_changed_utc": "2026-11-14T21:12:05Z"
+      "status_changed_utc": "2026-11-16T20:08:32Z"
     },
     "1986540283": {
       "folder": "20261114-1986540283",
@@ -3482,6 +3482,51 @@
       "checked": false,
       "found_utc": "2026-11-16T09:12:11Z",
       "status_changed_utc": "2026-11-16T09:12:11Z"
+    },
+    "1326761802": {
+      "folder": "20261116-1326761802",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/tirol/landeck/mehrfamilienhaus-privatverkauf-1326761802/",
+      "price_per_m2": 0.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-16T20:06:53Z",
+      "status_changed_utc": "2026-11-16T20:06:53Z"
+    },
+    "1614036358": {
+      "folder": "20261116-1614036358",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/lilienfeld/winterfestes-mobilehome-erstbezug-1614036358/",
+      "price_per_m2": 2062.5,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-16T20:07:06Z",
+      "status_changed_utc": "2026-11-16T20:07:06Z"
+    },
+    "1712802587": {
+      "folder": "20261116-1712802587",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/perg/camp-currie-hofprojekt-mit-beteiligungs-moeglichkeiten-im-muehlviertel-1712802587/",
+      "price_per_m2": 862.07,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-16T20:08:22Z",
+      "status_changed_utc": "2026-11-16T20:08:22Z"
+    },
+    "1867841936": {
+      "folder": "20261116-1867841936",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/wien/wien-1220-donaustadt/die-revolution-am-bausektor-leichtmetallstruktur-fuer-ein-haus-zb-ab-eur-35-000-fuer-140m2-bruttowohnflaeche-inklusive-dach-und-zwischenwaenden-1867841936/",
+      "price_per_m2": 250.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-16T20:08:28Z",
+      "status_changed_utc": "2026-11-16T20:08:28Z"
+    },
+    "1101728596": {
+      "folder": "20261116-1101728596",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/mistelbach/renovierungsbeduerftiges-haus-mit-garten-in-neudorf-ihr-projekt-fuer-39-000-eur-1101728596/",
+      "price_per_m2": 722.22,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-16T20:08:31Z",
+      "status_changed_utc": "2026-11-16T20:08:31Z"
     }
   }
 }
