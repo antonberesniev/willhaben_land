@@ -1057,10 +1057,10 @@
       "folder": "20261025-1035135127",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/horn/3730-roggendorf-historisches-ehemaliges-schulgebaeude-baujahr-1811-mit-optionalen-gruenlandflaechen-1035135127/",
       "price_per_m2": 492.86,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:00:32Z",
-      "status_changed_utc": "2026-10-25T15:00:32Z"
+      "status_changed_utc": "2026-11-17T21:35:20Z"
     },
     "955724677": {
       "folder": "20261025-955724677",
@@ -3424,10 +3424,10 @@
       "folder": "20261114-793049831",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberwart/renovierungsbeduerftiges-haus-mit-weinkeller-nebengebaeude-und-garage-in-rechnitz-793049831/",
       "price_per_m2": 642.86,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-14T16:28:10Z",
-      "status_changed_utc": "2026-11-14T16:28:10Z"
+      "status_changed_utc": "2026-11-17T21:35:20Z"
     },
     "1324121914": {
       "folder": "20261114-1324121914",
@@ -3487,10 +3487,10 @@
       "folder": "20261116-1326761802",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/tirol/landeck/mehrfamilienhaus-privatverkauf-1326761802/",
       "price_per_m2": 0.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-16T20:06:53Z",
-      "status_changed_utc": "2026-11-16T20:06:53Z"
+      "status_changed_utc": "2026-11-17T21:35:20Z"
     },
     "1614036358": {
       "folder": "20261116-1614036358",
@@ -3572,6 +3572,24 @@
       "checked": false,
       "found_utc": "2026-11-17T12:54:04Z",
       "status_changed_utc": "2026-11-17T12:54:04Z"
+    },
+    "886303721": {
+      "folder": "20261117-886303721",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/kaernten/wolfsberg/privates-investment-in-wolfsberg-wohnanlage-mit-6-haeusern-24-wohnungen-zukunftsperspektive-886303721/",
+      "price_per_m2": 0.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-17T21:35:17Z",
+      "status_changed_utc": "2026-11-17T21:35:17Z"
+    },
+    "1951569946": {
+      "folder": "20261117-1951569946",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/hollabrunn/-wohnen-mit-hofgefuehl-und-hallen-im-grossformat-1951569946/",
+      "price_per_m2": 1136.36,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-17T21:35:19Z",
+      "status_changed_utc": "2026-11-17T21:35:19Z"
     }
   }
 }
