@@ -4,10 +4,10 @@
       "folder": "20261025-971312367",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberwart/bastlerhit-gut-erhaltenes-einfamilienhaus-zum-renovieren-971312367/",
       "price_per_m2": 644.86,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:55:52Z",
-      "status_changed_utc": "2026-10-25T14:55:52Z"
+      "status_changed_utc": "2026-11-18T12:48:27Z"
     },
     "1446493785": {
       "folder": "20261025-1446493785",
@@ -1300,10 +1300,10 @@
       "folder": "20261025-1668847258",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/mattersburg/kleines-haus-am-wunderschoenen-roemersee-1668847258/",
       "price_per_m2": 33.33,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:01:34Z",
-      "status_changed_utc": "2026-10-25T15:01:34Z"
+      "status_changed_utc": "2026-11-18T12:48:27Z"
     },
     "1324244060": {
       "folder": "20261025-1324244060",
@@ -1597,10 +1597,10 @@
       "folder": "20261025-1610313840",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberpullendorf/streckhof-mit-potenzial-im-idyllischen-mittelburgenland-1610313840/",
       "price_per_m2": 1042.11,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:02:45Z",
-      "status_changed_utc": "2026-10-25T15:02:45Z"
+      "status_changed_utc": "2026-11-18T12:48:27Z"
     },
     "1989174200": {
       "folder": "20261025-1989174200",
@@ -2002,10 +2002,10 @@
       "folder": "20261025-1883000672",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/suedoststeiermark/kleines-haeuschen-in-st-anna-am-aigen-1883000672/",
       "price_per_m2": 1531.25,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:04:32Z",
-      "status_changed_utc": "2026-10-25T15:04:32Z"
+      "status_changed_utc": "2026-11-18T12:48:27Z"
     },
     "1856397005": {
       "folder": "20261025-1856397005",
@@ -2848,10 +2848,10 @@
       "folder": "20261103-1521890383",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/zwettl/laendliche-idylle-in-gross-gerungs-traditionelles-bauernsacherl-mit-vielfaeltigen-gestaltungsmoeglichkeiten-und-grossem-entwicklungspotenzial-1521890383/",
       "price_per_m2": 1100.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-03T13:51:52Z",
-      "status_changed_utc": "2026-11-03T13:51:52Z"
+      "status_changed_utc": "2026-11-18T12:48:27Z"
     },
     "1693433371": {
       "folder": "20261103-1693433371",
@@ -3590,6 +3590,33 @@
       "checked": false,
       "found_utc": "2026-11-17T21:35:19Z",
       "status_changed_utc": "2026-11-17T21:35:19Z"
+    },
+    "1959359262": {
+      "folder": "20261118-1959359262",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/hollabrunn/mitten-in-haugsdorf-wohnhaus-mit-841m-grund-122m-wohnflaeche-1959359262/",
+      "price_per_m2": 778.69,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-18T12:47:27Z",
+      "status_changed_utc": "2026-11-18T12:47:27Z"
+    },
+    "1452973309": {
+      "folder": "20261118-1452973309",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/mattersburg/kleines-haus-am-wunderschoenen-roemersee-1452973309/",
+      "price_per_m2": 33.33,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-18T12:47:47Z",
+      "status_changed_utc": "2026-11-18T12:47:47Z"
+    },
+    "1047957046": {
+      "folder": "20261118-1047957046",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/mistelbach/2-kleine-benachbarte-haeuser-je-89-000-gartenidylle-1047957046/",
+      "price_per_m2": 741.67,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-18T12:48:26Z",
+      "status_changed_utc": "2026-11-18T12:48:26Z"
     }
   }
 }
