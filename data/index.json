@@ -1264,10 +1264,10 @@
       "folder": "20261025-1741797159",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/korneuburg/architektenhaus-inkl-grund-baubewilligung-modernes-140m-raumwunder-naehe-wien-1741797159/",
       "price_per_m2": 1257.14,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T15:01:25Z",
-      "status_changed_utc": "2026-10-25T15:01:25Z"
+      "status_changed_utc": "2026-11-19T11:29:43Z"
     },
     "1443531600": {
       "folder": "20261025-1443531600",
@@ -3631,10 +3631,46 @@
       "folder": "20261118-1962315275",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/korneuburg/kleines-haus-grosser-freiraum-2-zimmer-mit-garten-und-terrasse-in-stockerau-pachtgrund-1962315275/",
       "price_per_m2": 2468.75,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-18T21:11:20Z",
-      "status_changed_utc": "2026-11-18T21:11:20Z"
+      "status_changed_utc": "2026-11-19T11:29:43Z"
+    },
+    "1936451589": {
+      "folder": "20261119-1936451589",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/hartberg-fuerstenfeld/einfamilienhaus-in-lafnitz-1936451589/",
+      "price_per_m2": 700.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-19T11:28:55Z",
+      "status_changed_utc": "2026-11-19T11:28:55Z"
+    },
+    "1176749016": {
+      "folder": "20261119-1176749016",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/oberpullendorf/-haus-in-zentraler-lage-von-oberpullendorf-1176749016/",
+      "price_per_m2": 1348.48,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-19T11:29:25Z",
+      "status_changed_utc": "2026-11-19T11:29:25Z"
+    },
+    "1322193956": {
+      "folder": "20261119-1322193956",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/zwettl/charmantes-rohbau-haus-mit-garten-und-viel-potenzial-in-ruhiger-lage-1322193956/",
+      "price_per_m2": 712.86,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-19T11:29:40Z",
+      "status_changed_utc": "2026-11-19T11:29:40Z"
+    },
+    "1823144160": {
+      "folder": "20261119-1823144160",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/krems-land/landliebe-im-kamptal-1823144160/",
+      "price_per_m2": 990.1,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-19T11:29:42Z",
+      "status_changed_utc": "2026-11-19T11:29:42Z"
     }
   }
 }
