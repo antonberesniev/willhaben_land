@@ -697,10 +697,10 @@
       "folder": "20261025-1067209035",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/braunau-am-inn/palting-mediterraner-wohntraum-mit-pool-aussergewoehnlicher-bungalow-in-sonniger-gruenlage-1067209035/",
       "price_per_m2": 0.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:59:04Z",
-      "status_changed_utc": "2026-10-25T14:59:04Z"
+      "status_changed_utc": "2026-11-21T11:08:42Z"
     },
     "1541316537": {
       "folder": "20261025-1541316537",
@@ -3370,10 +3370,10 @@
       "folder": "20261113-1018189649",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/wien/wien-1220-donaustadt/fertighaus-dennl-modulhaus-40-fuss-schluesselfertig-moebliert-1018189649/",
       "price_per_m2": 2041.67,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-13T14:13:36Z",
-      "status_changed_utc": "2026-11-13T14:13:36Z"
+      "status_changed_utc": "2026-11-21T11:08:42Z"
     },
     "1842190854": {
       "folder": "20261113-1842190854",
