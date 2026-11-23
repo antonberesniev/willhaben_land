@@ -3775,10 +3775,10 @@
       "folder": "20261122-1987584163",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/oberoesterreich/grieskirchen/ruhiges-landanwesen-preis-auf-anfrage-1987584163/",
       "price_per_m2": 0.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-22T20:10:13Z",
-      "status_changed_utc": "2026-11-22T20:10:13Z"
+      "status_changed_utc": "2026-11-23T08:15:53Z"
     },
     "895326669": {
       "folder": "20261123-895326669",
@@ -3788,6 +3788,15 @@
       "checked": false,
       "found_utc": "2026-11-23T02:16:32Z",
       "status_changed_utc": "2026-11-23T02:16:32Z"
+    },
+    "2075586217": {
+      "folder": "20261123-2075586217",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/burgenland/guessing/handwerker-aufgepasst-bungalow-in-deutsch-ehrensdorf-2075586217/",
+      "price_per_m2": 758.24,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-23T08:15:52Z",
+      "status_changed_utc": "2026-11-23T08:15:52Z"
     }
   }
 }
