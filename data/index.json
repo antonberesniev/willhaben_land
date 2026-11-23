@@ -292,10 +292,10 @@
       "folder": "20261025-1407574272",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/korneuburg/-preis-auf-anfrage-klare-linien-sanfte-atmosphaere-und-ruhige-entspannung-nahe-wien-wohnen-baden-relaxen-im-wald-1407574272/",
       "price_per_m2": 0.0,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:57:12Z",
-      "status_changed_utc": "2026-10-25T14:57:12Z"
+      "status_changed_utc": "2026-11-23T06:24:18Z"
     },
     "2119228793": {
       "folder": "20261025-2119228793",
@@ -3748,10 +3748,10 @@
       "folder": "20261121-1232957310",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/tirol/kufstein/traumhaus-in-angath-zu-verkaufen-1232957310/",
       "price_per_m2": 0.01,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-11-21T16:10:32Z",
-      "status_changed_utc": "2026-11-21T16:10:32Z"
+      "status_changed_utc": "2026-11-23T06:24:18Z"
     },
     "801719763": {
       "folder": "20261122-801719763",
