@@ -589,10 +589,10 @@
       "folder": "20261025-1494541070",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/hollabrunn/sanierungsbeduerftiges-bauernhaus-mit-alten-stallungen-und-einem-offenen-stadl-am-dorfplatz-1494541070/",
       "price_per_m2": 687.5,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-25T14:58:37Z",
-      "status_changed_utc": "2026-10-25T14:58:37Z"
+      "status_changed_utc": "2026-11-24T09:12:45Z"
     },
     "1767902227": {
       "folder": "20261025-1767902227",
@@ -3833,6 +3833,15 @@
       "checked": false,
       "found_utc": "2026-11-24T07:12:12Z",
       "status_changed_utc": "2026-11-24T07:12:12Z"
+    },
+    "906549466": {
+      "folder": "20261124-906549466",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/zwettl/ehemaliger-bahnhof-martinsberg-wohnen-und-arbeiten-906549466/",
+      "price_per_m2": 602.74,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-24T09:12:44Z",
+      "status_changed_utc": "2026-11-24T09:12:44Z"
     }
   }
 }
