@@ -3869,6 +3869,24 @@
       "checked": false,
       "found_utc": "2026-11-25T05:11:42Z",
       "status_changed_utc": "2026-11-25T05:11:42Z"
+    },
+    "2110076136": {
+      "folder": "20261125-2110076136",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/krems-land/bezauberndes-historisches-juwel-in-der-wachau-2110076136/",
+      "price_per_m2": 800.0,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-25T08:14:45Z",
+      "status_changed_utc": "2026-11-25T08:14:45Z"
+    },
+    "914484646": {
+      "folder": "20261125-914484646",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/mistelbach/reserviert-natur-ruhe-und-viel-potenzial-sanierungsobjekt-914484646/",
+      "price_per_m2": 936.71,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-25T08:14:57Z",
+      "status_changed_utc": "2026-11-25T08:14:57Z"
     }
   }
 }
