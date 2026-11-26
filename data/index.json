@@ -2596,10 +2596,10 @@
       "folder": "20261029-1605810266",
       "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/murau/wohnhaus-mitten-im-wanderdorf-muehlen-am-zirbitzkogel-1605810266/",
       "price_per_m2": 408.65,
-      "status": "active",
+      "status": "removed",
       "checked": false,
       "found_utc": "2026-10-29T08:16:42Z",
-      "status_changed_utc": "2026-10-29T08:16:42Z"
+      "status_changed_utc": "2026-11-26T08:14:39Z"
     },
     "1711114843": {
       "folder": "20261029-1711114843",
@@ -3905,6 +3905,24 @@
       "checked": false,
       "found_utc": "2026-11-26T02:14:51Z",
       "status_changed_utc": "2026-11-26T02:14:51Z"
+    },
+    "1558354710": {
+      "folder": "20261126-1558354710",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/niederoesterreich/zwettl/landwirtschaftliches-haus-1558354710/",
+      "price_per_m2": 1483.33,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-26T08:14:10Z",
+      "status_changed_utc": "2026-11-26T08:14:10Z"
+    },
+    "864677800": {
+      "folder": "20261126-864677800",
+      "url": "https://www.willhaben.at/iad/immobilien/d/haus-kaufen/steiermark/murau/-reserviert-wohnhaus-mitten-im-wanderdorf-muehlen-am-zirbitzkogel-864677800/",
+      "price_per_m2": 408.65,
+      "status": "active",
+      "checked": false,
+      "found_utc": "2026-11-26T08:14:38Z",
+      "status_changed_utc": "2026-11-26T08:14:38Z"
     }
   }
 }
